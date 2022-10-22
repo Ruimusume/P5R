@@ -1,2 +1,2 @@
-# P5R Items ID DATA
+# P5R Items ID DATA CN
 
