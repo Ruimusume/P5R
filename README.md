@@ -6,6 +6,6 @@ Address structure is common to all platforms
 
 ```
 Infinite Ammo
-main+00135C0C=51000108
-main+008A64F0=4B1F0108
+main+00135C0C=51000108\51000508
+main+008A64F0=4B1F0108\4B010108
 ```
