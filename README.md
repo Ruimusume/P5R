@@ -23,3 +23,7 @@ main+01318928=F9400120
 main+0131892C=790B8C01
 main+01318930=D65F03C0
 ```
+
+by 露易娘 Ruimusume</br>
+日站博客：http://ruisan.blog.jp/</br>
+微博：https://weibo.com/ruisan</br>
