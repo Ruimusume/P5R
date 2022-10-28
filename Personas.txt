@@ -1,0 +1,465 @@
+Hex	名称	JP_NAME	EN_NAME	备注	过滤
+0000					
+0001	梅塔特隆	メタトロン	Metatron		√
+0002	别西卜	ベルゼブブ	Beelzebub		√
+0003	库夫林	クー・フーリン	Cu Chulainn		√
+0004	杰克灯笼	ジャックランタン	Jack-o'-Lantern		√
+0005	杰克霜精	ジャックフロスト	Jack Frost		√
+0006	 皮克希	ピクシー	Pixie		√
+0007	克鲁贝洛斯	ケルベロス	Cerberus		√
+0008	莉莉姆	リリム	Lilim		√
+0009	埃力格	エリゴール	Eligor		√
+000A	奥丁	オーディン	Odin		√
+000B	花魄	カハク	Hua Po		√
+000C	单卡拉比	デカラビア	Decarabia		√
+000D	魔罗	マーラ	Mara		√
+000E	欧赛	オセ	Ose		√
+000F	托尔	トール	Thor		√
+0010	独角兽	ユニコーン	Unicorn		√
+0011	鸟列尔	ウリエル	Uriel		√
+0012	妙音天女	サラスヴァティ	Sarasvati		√
+0013	女武神	ヴァルキリー	Valkyrie		√
+0014	母夜叉	ヤクシニー	Yaksini		√
+0015	葛内舍	ガネーシャ	Ganesha		√
+0016	阿努比斯	アヌビス	Anubis		√
+0017	莫特	モト	Mot		√
+0018	拉斐尔	ラファエル	Raphael		√
+0019	斯卡哈	スカアハ	Scathach		√
+001A	高等皮克希	ハイピクシー	High Pixie		√
+001B	巴隆	バロン	Barong		√
+001C	基力梅卡拉	ギリメカラ	Girimehkala		√
+001D	霜精之王	キングフロスト	King Frost		√
+001E	那耳喀索斯	ナルキッソス	Narcissus		√
+001F	伊西斯	イシス	Isis		√
+0020	拉弥亚	ラミア	Lamia		√
+0021	恶灵军团	レギオン	Legion		√
+0022	罗刹	ラクシャーサ	Rakshasa		√
+0023	莫克伊	モコイ	Mokoi		√
+0024	佛钮司	フォルネウス	Forneus		√
+0025	瑟坦特	セタンタ	Setanta		√
+0026	缇坦妮雅	ティターニア	Titania		√
+0027	男梦魔	インキュバス	Incubus		√
+0028	鬼	オニ	Oni		√
+0029	莉莉丝	リリス	Lilith		√
+002A	兰达	ランダ	Rangda		√
+002B	真神	マカミ	Makami		√
+002C	帕尔瓦蒂	パールヴァティ	Parvati		√
+002D	加百列	ガブリエル	Gabriel		√
+002E	藏王权现	ザオウゴンゲン	Zaou-Gongen		√
+002F	爱丽丝	アリス	Alice		√
+0030	迦梨	カーリー	Kali		√
+0031	鞍马天狗	クラマテング	Kurama Tengu		√
+0032	奥伯隆	オベロン	Oberon		√
+0033	式王子	シキオウジ	Shiki-Ouji		√
+0034	八岐大蛇	ヤマタノオロチ	Yamata-no-Orochi		√
+0035	欧若博司	オロバス	Orobas		√
+0036	哈奴曼	ハヌマーン	Hanuman		√
+0037	大天使	アークエンジェル	Archangel		√
+0038	背背鬼	オバリヨン	Obariyon		√
+0039	妖精女王	クイーンメイブ	Queen Mab		√
+003A	圣德芬	サンダルフォン	Sandalphon		√
+003B	亚巴顿	アバドン	Abaddon		√
+003C	狮爷	シーサー	Shiisaa		√
+003D	睡魔	ザントマン	Sandman		√
+003E	彼列	ベリアル	Belial		√
+003F	莲南希	リャナンシー	Leanan Sidhe		√
+0040	库柏勒	キュベレ	Cybele		√
+0041	切尔诺伯格	チェルノボグ	Chernobog		√
+0042	佛劳洛斯	フラロウス	Flauros		√
+0043	一本踏鞴	イッポンダタラ	Ippon-Datara		√
+0044	欧特鲁斯	オルトロス	Orthrus		√
+0045	女梦魔	サキュバス	Succubus		√
+0046	天蛾人	モスマン	Mothman		√
+0047	RESERVE	リザーブ	RESERVE		
+0048	主天使	ドミニオン	Dominion		√
+0049	猫又	ネコマタ	Nekomata		√
+004A	邪恶霜精	ジャアクフロスト	Black Frost		√
+004B	荒霸吐	アラハバキ	Arahabaki		√
+004C	天使	エンジェル	Angel		√
+004D	丝卡蒂	スカディ	Skadi		√
+004E	菊理媛	キクリヒメ	Kikuri-Hime		√
+004F	蚩尤	シュウ	Chi You		√
+0050	能天使	パワー	Power		√
+0051	犬神	イヌガミ	Inugami		√
+0052	奈比洛斯	ネビロス	Nebiros		√
+0053	RESERVE	リザーブ	RESERVE		
+0054	软泥怪	スライム	Slime		√
+0055	安祖	アンズー	Anzu		√
+0056	八咫乌	ヤタガラス	Yatagarasu		√
+0057	义经	ヨシツネ	Yoshitsune		√
+0058	建御名方	タケミナカタ	Take-Minakata		√
+0059	天钿女	アメノウズメ	Ame-no-Uzume		√
+005A	奇稻田姬	クシナダヒメ	Kushinada		√
+005B	鸠盘荼	クヴァンダ	Kumbhanda		√
+005C	隐形鬼	オンギョウキ	Ongyo-Ki		√
+005D	隐形鬼	キンキ	Kin-Ki		√
+005E	水鬼	スイキ	Sui-Ki		√
+005F	风鬼	フウキ	Fuu-Ki		√
+0060	佳塔由	ジャターユ	Jatayu		√
+0061	迦温	キウン	Kaiwan		√
+0062	凯尔派	ケルピー	Kelpie		√
+0063	托特	トート	Thoth		√
+0064	狄俄尼索斯	ディオニュソス	Dionysus		√
+0065	飞天	アプサラス	Apsaras		√
+0066	安德拉斯	アンドラス	Andras		√
+0067	RESERVE	リザーブ	RESERVE		
+0068	克鲁波克鲁	コロポックル	Koropokguru		√
+0069	木叶天狗	コッパテング	Koppa Tengu		√
+006A	摄政王	リージェント	Regent		√
+006B	王后的项链	女王の首飾り	Queen's Necklace		√
+006C	命运之石	スクーンの石	Stone of Scone		√
+006D	光之山	コ・イ・ヌール	Koh-i-Noor		√
+006E	奥尔洛夫	オルロフ	Orlov		√
+006F	大帝的护符	大帝の護符	Emperor's Amulet		√
+0070	希望钻石	ホープダイヤ	Hope Diamond		√
+0071	水晶骷髅	水晶髑髏	Crystal Skull		√
+0072	奥利哈钢	オリハルコン	Orichalcum		√
+0073	RESERVE	リザーブ	RESERVE		
+0074	RESERVE	リザーブ	RESERVE		
+0075	RESERVE	リザーブ	RESERVE		
+0076	RESERVE	リザーブ	RESERVE		
+0077	RESERVE	リザーブ	RESERVE		
+0078	RESERVE	リザーブ	RESERVE		
+0079	曼陀罗	マンドレイク	Mandrake		√
+007A	巴力	バアル	Baal		√
+007B	荼吉尼	ダーキニー	Dakini		√
+007C	希路奇	シルキー	Silky		√
+007D	巴古斯	バグス	Bugs		√
+007E	黑软泥怪	ブラックウーズ	Black Ooze		√
+007F	双角兽	バイコーン	Bicorn		√
+0080	米特拉斯	ミトラス	Mithras		√
+0081	山灵	スダマ	Sudama		√
+0082	木灵	コダマ	Kodama		√
+0083	阿珈席翁	アガシオン	Agathion		√
+0084	阴摩罗鬼	オンモラキ	Onmoraki		√
+0085	奴延	ヌエ	Nue		√
+0086	毕舍遮	ピシャーチャ	Pisaca		√
+0087	麦基洗德	メルキセデク	Melchizedek		√
+0088	巴风特	バフォメット	Baphomet		√
+0089	那伽王	ナーガラジャ	Raja Naga		√
+008A	那伽	ナーガ	Naga		√
+008B	迦楼罗	ガルーダ	Garuda		√
+008C	摩洛	モロク	Moloch		√
+008D	诺伦	ノルン	Norn		√
+008E	贝尔芬格	ベルフェゴール	Belphegor		√
+008F	比利士	ベリス	Berith		√
+0090	克伦佐	コロンゾン	Choronzon		√
+0091	RESERVE	リザーブ	RESERVE		
+0092	RESERVE	リザーブ	RESERVE		
+0093	RESERVE	リザーブ	RESERVE		
+0094	RESERVE	リザーブ	RESERVE		
+0095	RESERVE	リザーブ	RESERVE		
+0096	RESERVE	リザーブ	RESERVE		
+0097	和魂	ニギミタマ	Nigi Mitama		√
+0098	奇魂	クシミタマ	Kushi Mitama		√
+0099	荒魂	アラミタマ	Ara Mitama		√
+009A	幸魂	サキミタマ	Saki Mitama		√
+009B	RESERVE	リザーブ	RESERVE		
+009C	湿婆	シヴァ	Shiva		√
+009D	米迦勒	ミカエル	Michael		√
+009E	阿修罗王	アスラおう	Asura		√
+009F	摩陀	マダ	Mada		√
+00A0	巴比伦大淫妇	マザーハーロット	Mother Harlot		√
+00A1	克洛托	クロト	Clotho		√
+00A2	拉刻西斯	ラケシス	Lachesis		√
+00A3	阿特罗波斯	アトロポス	Atropos		√
+00A4	阿尔达	アルダー	Ardha		√
+00A5	RESERVE	リザーブ	RESERVE		
+00A6	毗湿奴	ヴィシュヌ	Vishnu		√
+00A7	诃梨帝母	ハリティー	Hariti		√
+00A8	虹蛇	ユルング	Yurlungur		√
+00A9	百臂巨人	ヘカトンケイル	Hecatoncheires		√
+00AA	撒旦耶尔	サタナエル	Satanael		√
+00AB	RESERVE	リザーブ	RESERVE		
+00AC	RESERVE	リザーブ	RESERVE		
+00AD	RESERVE	リザーブ	RESERVE		
+00AE	RESERVE	リザーブ	RESERVE		
+00AF	RESERVE	リザーブ	RESERVE		
+00B0	RESERVE	リザーブ	RESERVE		
+00B1	RESERVE	リザーブ	RESERVE		
+00B2	RESERVE	リザーブ	RESERVE		
+00B3	RESERVE	リザーブ	RESERVE		
+00B4	RESERVE	リザーブ	RESERVE		
+00B5	俄耳甫斯	オルフェウス	Orpheus		√
+00B6	塔纳托斯	タナトス	Thanatos		√
+00B7	伊邪那岐	イザナギ	Izanagi		√
+00B8	祸津伊邪那岐	マガツイザナギ	Magatsu-Izanagi		√
+00B9	辉夜	カグヤ	Kaguya		√
+00BA	阿里阿德涅	アリアドネ	Ariadne		√
+00BB	阿斯忒里俄斯	アステリオス	Asterius		√
+00BC	月读	ツキヨミ	Tsukiyomi		√
+00BD	弥赛亚	メサイア	Messiah		√
+00BE	弥赛亚・贼神	メサイア・賊神	Messiah Picaro		√
+00BF	俄耳甫斯・贼神	オルフェウス・賊神	Orpheus Picaro		√
+00C0	塔纳托斯・贼神	タナトス・賊神	Thanatos Picaro		√
+00C1	伊邪那岐・贼神	イザナギ・賊神	Izanagi Picaro		√
+00C2	祸津伊邪那岐・贼神	マガツイザナギ・賊神	M. Izanagi Picaro		√
+00C3	辉夜・贼神	カグヤ・賊神	Kaguya Picaro		√
+00C4	阿里阿德涅・贼神	アリアドネ・賊神	Ariadne Picaro		√
+00C5	阿斯忒里俄斯・贼神	アステリオス・賊神	Asterius Picaro		√
+00C6	月读・贼神	ツキヨミ・賊神	Tsukiyomi Picaro		√
+00C7	撒旦耶尔	サタナエル	Satanael	无模型	
+00C8	???	？？？	???	无模型	
+00C9	亚森	アルセーヌ	Arsene		√
+00CA	船长基德	キャプテン・キッド	Captain Kidd		√
+00CB	佐罗	ゾロ	Zorro		√
+00CC	卡门	カルメン	Carmen		√
+00CD	五右卫门	ゴエモン	Goemon		√
+00CE	琼安	ヨハンナ	Johanna		√
+00CF	米莱迪	ミラディ	Milady		√
+00D0	死灵之书	ネクロノミコン	Necronomicon		√
+00D1	罗宾汉	ロビンフッド	Robin Hood		√
+00D2	洛基	ロキ	Loki	无模型	
+00D3	撒旦耶尔	サタナエル	Satanael	无模型	
+00D4	齐天大圣	セイテンタイセイ	Seiten Taisei		√
+00D5	墨丘利	メリクリウス	Mercurius		√
+00D6	赫卡忒	ヘカーテ	Hecate		√
+00D7	神须佐之男	カムスサノヲ	Kamu Susano-o		√
+00D8	阿纳特	アナト	Anat		√
+00D9	阿斯塔尔塔	アスタルテ	Astarte		√
+00DA	普罗米修斯	プロメテウス	Prometheus		√
+00DB	洛基	ロキ	Loki		
+00DC	亚森	アルセーヌ	Arsene	游戏奔溃	
+00DD	船长基德	キャプテン・キッド	Captain Kidd	无模型	
+00DE	佐罗	ゾロ	Zorro	无模型	
+00DF	卡门	カルメン	Carmen	无模型	
+00E0	五右卫门	ゴエモン	Goemon	无模型	
+00E1	琼安	ヨハンナ	Johanna	无模型	
+00E2	米莱迪	ミラディ	Milady	无模型	
+00E3	死灵之书	ネクロノミコン	Necronomicon	无模型	
+00E4	罗宾汉	ロビンフッド	Robin Hood	无模型	
+00E5	???	？？？	???		
+00E6	路西法	ルシファー	Lucifer	游戏奔溃	
+00E7	齐天大圣	セイテンタイセイ	Seiten Taisei	游戏奔溃	
+00E8	墨丘利	メリクリウス	Mercurius	游戏奔溃	
+00E9	赫卡忒	ヘカーテ	Hecate	游戏奔溃	
+00EA	神须佐之男	カムスサノヲ	Kamu Susano-o	游戏奔溃	
+00EB	阿纳特	アナト	Anat	游戏奔溃	
+00EC	阿斯塔尔塔	アスタルテ	Astarte	游戏奔溃	
+00ED	普罗米修斯	プロメテウス	Prometheus	游戏奔溃	
+00EE	洛基	ロキ	Loki	游戏奔溃	
+00EF	洛基	ロキ	Loki		√
+00F0	灰姑娘	サンドリヨン	Cendrillon		√
+00F1	凡娜迪丝	ヴァナディース	Vanadis		√
+00F2	威廉	ウィリアム	William		√
+00F3	迭戈	ディエゴ	Diego		√
+00F4	塞莱丝迪娜	セレスティーヌ	Celestine		√
+00F5	五郎吉	ゴロキチ	Gorokichi		√
+00F6	艾格尼丝	アグネス	Agnes		√
+00F7	露西	ルーシー	Lucy		√
+00F8	阿尔阿吉夫	アルアジフ	Al Azif		√
+00F9	赫里沃德	ヘリワード	Hereward		√
+00FA	艾拉	エラ	Ella		√
+00FB	RESERVE	リザーブ	RESERVE		
+00FC	撒旦	サタン	Satan		√
+00FD	路西法	ルシファー	Lucifer		√
+00FE	黄龙	コウリュウ	Kohryu		√
+00FF	大国主	オオクニヌシ	Okuninushi		√
+0100	诺伦	ノルン	Norn	无模型	
+0101	RESERVE	リザーブ	RESERVE		
+0102	RESERVE	リザーブ	RESERVE		
+0103	经津主	フツヌシ	Futsunushi		√
+0104	RESERVE	リザーブ	RESERVE		
+0105	赛特	セト	Seth		√
+0106	伊丝塔	イシュタル	Ishtar		√
+0107	RESERVE	リザーブ	RESERVE		
+0108	斯尔特	スルト	Surt	游戏奔溃	
+0109	原齐格飞	ジークフリード	Siegfried	无模型	
+010A	吉祥天女	ラクシュミ	Lakshmi		√
+010B	RESERVE	リザーブ	RESERVE		
+010C	RESERVE	リザーブ	RESERVE		
+010D	元贝尔芬格	元ベルフェゴール	Ex-Belphegor	无模型	
+010E	RESERVE	リザーブ	RESERVE		
+010F	迦楼罗	ガルーダ	Garuda	无模型	
+0110	福尔图娜	フォルトゥナ	Fortuna		√
+0111	朱雀	スザク	Suzaku		√
+0112	青龙	セイリュウ	Seiryu		√
+0113	玄武	ゲンブ	Genbu		√
+0114	白虎	ビャッコ	Byakko		√
+0115	毘沙门天	ビシャモンテン	Bishamonten		√
+0116	广目天王	コウモクテン	Koumokuten		√
+0117	持国天王	ジコクテン	Jikokuten		√
+0118	增长天王	ゾウチョウテン	Zouchouten		√
+0119	地狱天使	ヘルズエンジェル	Hell Biker		√
+011A	大僧正	だいそうじょう	Daisoujou		√
+011B	吹号者	トランペッター	Trumpeter		√
+011C	白骑土	ホワイトライダー	White Rider		√
+011D	斗牛士	マタドール	Matador		√
+011E	苍白骑土	ペイルライダー	Pale Rider		√
+011F	荷鲁斯	ホルス	Horus		√
+0120	RESERVE	リザーブ	RESERVE		
+0121	阿提斯	アティス	Attis		√
+0122	RESERVE	リザーブ	RESERVE		
+0123	RESERVE	リザーブ	RESERVE		
+0124	斯拉欧加	スラオシャ	Sraosha		√
+0125	比利土	ベリス	Berith	无模型	
+0126	RESERVE	リザーブ	RESERVE		
+0127	密特拉	ミトラ	Mitra		√
+0128	凤凰	ホウオウ	Phoenix		√
+0129	权天使	プリンシパリティ	Principality		√
+012A	猫将军	ネコショウグン	Neko Shogun		√
+012B	婆苏吉	ヴァスキ	Vasuki		√
+012C	阿难陀	アナンタ	Ananta		√
+012D	座天使	ソロネ	Throne	游戏奔溃	
+012E	RESERVE	リザーブ	RESERVE		
+012F	羽蛇神	ケツアルカトル	Quetzalcoatl		√
+0130	红骑士	レッドライダー	Red Rider		√
+0131	黑骑士	ブラックライダー	Black Rider		√
+0132	RESERVE	リザーブ	RESERVE		
+0133	元摩洛	元モロク	Ex-Moloch	无模型	
+0134	帕祖祖	パズス	Pazuzu		√
+0135	单挑用灰姑娘	タイマン用シンデレラ	タイマン用シンデレラ	无模型	
+0136	软泥怪	スライム	Slime	无模型	
+0137	杰克灯笼	ジャックランタン	Jack-o'-Lantern	无模型	
+0138	阿珈席翁	アガシオン	Agathion	无模型	
+0139	曼陀罗	マンドレイク	Mandrake	无模型	
+013A	狮爷	シーサー	Shiisaa	无模型	
+013B	杰克霜精	ジャックフロスト	Jack Frost	无模型	
+013C	山灵	スダマ	Sudama	无模型	
+013D	阴摩罗鬼	オンモラキ	Onmoraki	无模型	
+013E	巴古斯	バグス	Bugs	无模型	
+013F	皮克希	ピクシー	Pixie	无模型	
+0140	皮克希	ピクシー	Pixie	无模型	
+0141	阿尔达	アルダー	Ardha	无模型	
+0142	RESERVE	リザーブ	RESERVE		
+0143	阿斯摩太	アスモデウス	Asmodeus	游戏奔溃	
+0144	阿撒兹勒	アザゼル	Azazel	游戏奔溃	
+0145	巴尔	バエル	Bael	游戏奔溃	
+0146	提图艾斯	ティトエス	Bael	游戏奔溃	
+0147	玛门	マモン	Mamon	游戏奔溃	
+0148	利维坦	レビアタン	Leviathan	游戏奔溃	
+0149	萨麦尔	サマエル	Samael	游戏奔溃	
+014A	玛利亚	マリア	Maria		√
+014B	瓦胡・马纳	ウォフ・マナフ	Vohu Manah		√
+014C	凯特西	ケットシー	Caith Sith	游戏奔溃	
+014D	御社宫司神	ミシャグジさま	Mishaguji		√
+014E	挑战用霜精	チャレンジ用フロスト	チャレンジ用フロスト	游戏奔溃	
+014F	杰克灯笼	チャレンジ用エンジェル	チャレンジ用エンジェル	游戏奔溃	
+0150	RESERVE	リザーブ	RESERVE		
+0151	RESERVE	リザーブ	RESERVE		
+0152	RESERVE	リザーブ	RESERVE		
+0153	RESERVE	リザーブ	RESERVE		
+0154	RESERVE	リザーブ	RESERVE		
+0155	RESERVE	リザーブ	RESERVE		
+0156	RESERVE	リザーブ	RESERVE		
+0157	RESERVE	リザーブ	RESERVE		
+0158	RESERVE	リザーブ	RESERVE		
+0159	RESERVE	リザーブ	RESERVE		
+015A	RESERVE	リザーブ	RESERVE		
+015B	RESERVE	リザーブ	RESERVE		
+015C	RESERVE	リザーブ	RESERVE		
+015D	RESERVE	リザーブ	RESERVE		
+015E	RESERVE	リザーブ	RESERVE		
+015F	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0160	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0161	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0162	P5未使用	P5未使用	P6 Unused	游戏奔溃	
+0163	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0164	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0165	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0166	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0167	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0168	伊邪那岐大神	伊邪那岐大神	Izanagi no Okami		√
+0169	赛姬	プシュケイ	Psyche	游戏奔溃	
+016A	雅典娜	アテナ	Athena		√
+016B	劳尔	ラウール	Raoul		√
+016C	俄耳甫斯・改	オルフォウス改	Orpheus Telos	游戏奔溃	
+016D	俄耳甫斯	オルフォウス	Orpheus		√
+016E	伊邪那岐大神・贼神	伊邪那岐大神・賊神	Izanagi no Okami Picaro		√
+016F	赛姬・贼神	プシュケイ・賊神	Psyche Picaro	游戏奔溃	
+0170	雅典娜・贼神	アテナ・賊神	Athena Picaro		√
+0171	亚森・摩登・贼神	アルセーヌ・モダン・賊神	Neo Arsene Picaro	游戏奔溃	
+0172	俄耳甫斯・改・贼神	オルフォウス改・賊神	Orpheus Telos Picaro	游戏奔溃	
+0173	俄耳甫斯・贼神	オルフォウス・賊神	Orpheus Picaro		√
+0174	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0175	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0176	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0177	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0178	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0179	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017A	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017B	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017C	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017D	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017E	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+017F	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0180	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0181	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0182	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0183	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0184	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0185	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0186	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0187	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0188	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0189	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018A	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018B	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018C	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018D	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018E	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+018F	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0190	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0191	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0192	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0193	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0194	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0195	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0196	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0197	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0198	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+0199	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019A	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019B	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019C	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019D	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019E	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+019F	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A0	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A1	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A2	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A3	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A4	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A5	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A6	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A7	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01A8	马卡布	マカーブル	Macabre		√
+01A9	艾里拉特	アリラト	Alilat		√
+01AA	雷鸟	サンダーバード	Thunderbird		√
+01AB	法夫纳	ファフニール	Fafnir		√
+01AC	拜亚基	ビヤーキー	Byarky		√
+01AD	哈斯塔	ハスター	Hastur		√
+01AE	塔姆林	タムリン	Tam Lin		√
+01AF	座天使	ソロネ	Throne		√
+01B0	斯尔特	スルト	Surt		√
+01B1	罗瓦	ロア	Loa		√
+01B2	奇美拉	キマイラ	Chimera		√
+01B3	大元帅明王	アタバク	Atavaka		√
+01B4	凯特西	ケットシー	Caith Sith		√
+01B5	齐格飞	ジークフリード	Siegfried		√
+01B6	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01B7	P5未使用	P5未使用	P5 Unused	游戏奔溃	
+01B8	拉雯妲专用凯尔派	ラヴェ専用ケルピー	Lab Kelpie	无模型	
+01B9	拉雯妲专用比利士	ラヴェ専用べリス	Lab Berith	无模型	
+01BA	拉雯妲专用犬神	ラヴェ専用イヌカミ	Lab Inugami	无模型	
+01BB	拉雯妲专用奴延	ラヴェ専用ヌエ	Lab Nue	无模型	
+01BC	拉雯妲专用鬼	ラヴェ専用オニ	Lab Oni	无模型	
+01BD	拉雯妲专用阿努比斯	ラヴェ専用アヌビス	Lab Anubis	无模型	
+01BE	拉雯妲专用米特拉斯	ラヴェ専用ミトラス	Lab Mithras	无模型	
+01BF	拉雯妲专用欧赛	ラヴェ専用オセ	Lab Ose	无模型	
+01C0	拉雯妲专用大元帅明王	ラヴェ専用アタバク	Lab Atavaka	无模型	
+01C1	拉雯妲专用托尔	ラヴェ専用トール	Lab Thor	无模型	
+01C2	拉雯妲专用路西法	ラヴェ専用ルシファー	Lab Lucifer	无模型	
+01C3	P3专用俄耳甫斯	P3専用オルフェウ	P3 Orpheus	无模型	
+01C4	P4专用伊邪那岐	P4専用イザナギ	P4 Izanagi	无模型	
+01C5	P3用塔纳托斯	P3用タナトス	P3 Thanatos	无模型	
+01C6	P3用弥赛亚	P3用マサイア	P3 Messiah	无模型	
+01C7	P3用阿提斯	P3用アティス	P3 Attis	无模型	
+01C8	P3用齐格飞	P3用ジークフリード	P4 Siegfried	无模型	
+01C9	P4用黄龙	P4用コウリュウ	P4 Kohryu	无模型	
+01CA	P4用辉夜	P4用カグヤ	P4 Kaguya	无模型	
+01CB	P4用斯拉欧加	P4用スラオシャ	P4 Sraosha	无模型	
+01CC	P4用义经	P4用ヨシツネ	P4 Yoshitsune	无模型	
+01CD	P4用伊邪那岐大神	P4用イザナギノオオカミ	P4 Izanagi no Okami	无模型	
+01CE	RESERVE	リザーブ	RESERVE		
+01CF	RESERVE	リザーブ	RESERVE		
