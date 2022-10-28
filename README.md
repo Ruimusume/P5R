@@ -8,12 +8,12 @@ Address structure is common to all platforms
 [P5R ItemsID.xlsx](https://github.com/Ruimusume/P5R/raw/main/P5R%20ItemsID.xlsx)<br>
 The cheat codes in the table are universal in all Switch versions.<br>
 
+### Data Exclusion&Recording Tools
+https://github.com/tomvita/Noexes
+
 <hr>
 
 ```
-Infinite Ammo
-main+00135C0C=51000108\51000508
-main+008A64F0=4B1F0108\4B010108
 ALL Character
 main+008822D4=942A5993
 main+01318920=5280002A
