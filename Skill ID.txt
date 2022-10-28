@@ -1,0 +1,1051 @@
+HEX	名称	JP_NAME	EN_NAME
+0000	----------	----------	----------
+0001	空栏	ブランク	BLANK
+0002	空栏	ブランク	BLANK
+0003	空栏	ブランク	BLANK
+0004	空栏	ブランク	BLANK
+0005	空栏	ブランク	BLANK
+0006	空栏	ブランク	BLANK
+0007	空栏	ブランク	BLANK
+0008	空栏	ブランク	BLANK
+0009	空栏	ブランク	BLANK
+000A	亚基	アギ	Agi
+000B	亚基拉欧	アギラオ	Agilao
+000C	亚基达因	アギダイン	Agidyne
+000D	玛哈拉基	マハラギ	Maragi
+000E	玛哈拉基翁	マハラギオン	Maragion
+000F	玛哈拉基达因	マハラギダイン	Maragidyne
+0010	亚基	アギ	Agi
+0011	玛哈拉基	マハラギ	Maragi
+0012	火焰珠	火炎玉	Fire Ball
+0013	强势珠	グングン玉	Raging Flames
+0014	布芙	ブフ	Bufu
+0015	布芙拉	ブフーラ	Bufula
+0016	布芙达因	ブフダイン	Bufudyne
+0017	玛哈布芙	マハブフ	Mabufu
+0018	玛哈布芙拉	マハブフーラ	Mabufula
+0019	玛哈布芙达因	マハブフダイン	Mabufudyne
+001A	布芙	ブフ	Bufu
+001B	玛哈布芙	マハブフ	Mabufu
+001C	冰冻珠	氷結玉	Snow Ball
+001D	米吉多拉翁	メギドラオン	Megidolaon
+001E	加尔	ガル	Garu
+001F	加尔拉	ガルーラ	Garula
+0020	加尔达因	ガルダイン	Garudyne
+0021	玛哈加尔	マハガル	Magaru
+0022	玛哈加尔拉,	マハガルーラ	Magarula
+0023	玛哈加尔达因	マハガルダイン	Magarudyne
+0024	加尔	ガル	Garu
+0025	疾风珠	疾風玉	Gale Ball
+0026	祝福珠	祝福玉	Bless Ball
+0027	咒怨珠	呪怨玉	Curse Ball
+0028	吉欧	ジオ	Zio
+0029	吉欧加	ジオンガ	Zionga
+002A	吉欧达因	ジオダイン	Ziodyne
+002B	玛哈吉欧	マハジオ	Mazio
+002C	玛哈吉欧加	マハジオンガ	Mazionga
+002D	玛哈吉欧达因	マハジオダイン	Maziodyne
+002E	吉欧	ジオ	Zio
+002F	玛哈吉欧	マハジオ	Mazio
+0030	电击珠	電撃玉	Volt Ball
+0031	钱雨	金の雨	Make it Rain
+0032	哈玛	ハマ	Hama
+0033	哈玛翁	ハマオン	Hamaon
+0034	玛翰玛	マハンマ	Mahama
+0035	玛翰玛翁	マハンマオン	Mahamaon
+0036	克哈	コウハ	Kouha
+0037	克加	コウガ	Kouga
+0038	克加翁	コウガオン	Kougaon
+0039	玛哈克哈	マハコウハ	Makouha
+003A	玛哈克加	マハコウガ	Makouga
+003B	玛哈克加翁	マハコウガオン	Makougaon
+003C	姆多	ムド	Mudo
+003D	姆多翁	ムドオン	Mudoon
+003E	玛哈姆多	マハムド	Mamudo
+003F	玛哈姆多翁	マハムドオン	Mamudoon
+0040	耶哈	エイハ	Eiha
+0041	耶加	エイガ	Eiga
+0042	耶加翁	エイガオン	Eigaon
+0043	玛哈耶哈	マハエイハ	Maeiha
+0044	玛哈耶加	マハエイガ	Maeiga
+0045	玛哈耶加翁	マハエイガオン	Maeigaon
+0046	米吉多	メギド	Megido
+0047	米吉多拉	メギドラ	Megidola
+0048	米吉多拉翁	メギドラオン	Megidolaon
+0049	芙雷	フレイ	Frei
+004A	芙雷拉	フレイラ	Freila
+004B	芙雷达因	フレイダイン	Freidyne
+004C	玛哈芙雷	マハフレイ	Mafrei
+004D	玛哈芙雷拉	マハフレイラ	Mafreila
+004E	玛哈芙雷达因	マハフレイダイン	Mafreidyne
+004F	核热珠	核熱玉	Nuke Ball
+0050	致盲	目眩し	Dazzler
+0051	黑夜闪光	闇夜の閃光	Nocturnal Flash
+0052	普林帕	プリンパ	Pulinpa
+0053	颠塔拉弗	テンタラフー	Tentarafoo
+0054	恶魔之触	デビルタッチ	Evil Touch
+0055	恶魔微笑	デビルスマイル	Evil Smile
+0056	玛卡加玛	マカジャマ	Makajama
+0057	玛卡加玛翁	マカジャマオン	Makajamaon
+0058	饥饿气息	飢餓の吐息	Famine's Breath
+0059	饥饿吼叫	飢餓の叫び	Famine's Scream
+005A	永眠	ドルミナー	Dormina
+005B	摇篮曲	スリープソング	Lullaby
+005C	挑衅	挑発	Taunt
+005D	宣战宣言	宣戦布告	Wage War
+005E	不吉的话语	不吉な言葉	Ominous Words
+005F	深渊的波动	奈落の波動	Abysmal Surge
+0060	马琳卡琳	マリンカリン	Marin Karin
+0061	精神污染	ブレインジャック	Brain Jack
+0062	吸血	フクロノネズミ	Trapped Rat
+0063	念动珠	念動玉	Psy Ball
+0064	自爆	自爆	Self-destruct
+0065	自爆	自爆	Self-destruct
+0066	自爆	自爆	Self-destruct
+0067	吸血	吸血	Life Drain
+0068	吸魔	吸魔	Spirit Drain
+0069	强力吸血	超吸血	Life Leech
+006A	强力吸魔	超吸魔	Spirit Leech
+006B	吸魔	吸魔	Spirit Drain
+006C	卡加夺取　未实作	カジャ分捕り　未実装	NOT USED
+006D	空栏	ブランク	BLANK
+006E	污秽吐息	淀んだ吐息	Foul Breath
+006F	污秽空气	淀んだ空気	Stagnant Air
+0070	狂怒	逆なで	Reverse Rub
+0071	亡者喟叹	亡者の嘆き	Ghastly Wail
+0072	拉雯妲用总攻击	ラヴェ用総攻撃	NOT USED
+0073	吸收	吸収	Drain
+0074	米吉多拉	メギドラ	Megidola
+0075	烟花	打ち上げ	Launch
+0076	特大烟花	特大花火	Special Fireworks
+0077	甩尾	ドリフト	Drift
+0078	炼狱	インフェルノ	Inferno
+0079	大燃烧	大炎上	Blazing Hell
+007A	低概率附着燃烧	低確率で炎上付着	Low Burn
+007B	中概率附着燃烧	中確率で炎上付着	Mid Burn
+007C	高概率附着燃烧	高確率で炎上付着	High Burn
+007D	低概率附着冻结	低確率で凍結付着	Low Freeze
+007E	中概率附着冻结	中確率で凍結付着	Mid Freeze
+007F	高概率附着冻结	高確率で凍結付着	High Freeze
+0080	低概率附着触电	低確率で感電付着	Low Shock
+0081	中概率附着触电	中確率で感電付着	Mid Shock
+0082	钻石星尘	ダイアモンドダスト	Diamond Dust
+0083	大冰河时期	大氷河期	Ice Age
+0084	高概率附着触电	高確率で感電付着	High Shock
+0085	低概率附着晕眩	低確率で目眩付着	Low Dizzy
+0086	中概率附着晕眩	中確率で目眩付着	Mid Dizzy
+0087	高概率附着晕眩	高確率で目眩付着	High Dizzy
+0088	低概率附着混乱	低確率で混乱付着	Low Confuse
+0089	中概率附着混乱	中確率で混乱付着	Mid Confuse
+008A	高概率附着混乱	高確率で混乱付着	High Confuse
+008B	低概率附着恐惧	低確率で恐怖付着	Low Fear
+008C	万物流转	万物流転	Panta Rhei
+008D	真空波	真空波	Vacuum Wave
+008E	中概率附着恐惧	中確率で恐怖付着	Mid Fear
+008F	高概率附着恐惧	高確率で恐怖付着	High Fear
+0090	低概率附着遗忘	低確率で忘却付着	Low Forget
+0091	中概率附着遗忘	中確率で忘却付着	Mid Forget
+0092	高概率附着遗忘	高確率で忘却付着	High Forget
+0093	低概率附着洗脑	低確率で洗脳付着	Low Brainwash
+0094	中概率附着洗脑	中確率で洗脳付着	Mid Brainwash
+0095	高概率附着洗脑	高確率で洗脳付着	High Brainwash
+0096	真理之雷	真理の雷	Thunder Reign
+0097	崇高圣战	エル・ジハード	Wild Thunder
+0098	低概率附着睡眠	低確率で睡眠付着	Low Sleep
+0099	中概率附着睡眠	中確率で睡眠付着	Mid Sleep
+009A	高概率附着睡眠	高確率で睡眠付着	High Sleep
+009B	低概率附着狂怒	低確率で激怒付着	Low Rage
+009C	中概率附着狂怒	中確率で激怒付着	Mid Rage
+009D	高概率附着狂怒	高確率で激怒付着	High Rage
+009E	低概率附着绝望	低確率で絶望付着	Low Despair
+009F	中概率附着绝望	中確率で絶望付着	Mid Despair
+00A0	神之审判	神の審判	Divine Judgment
+00A1	回转讲道	回転説法	Samsara
+00A2	高概率附着绝望	高確率で絶望付着	High Despair
+00A3	偶尔附着全异常状态效果	稀に全バステ効果	Low All Ail
+00A4	有时附着全异常状态效果	時々全バステ効果	Mid All Ail
+00A5	频繁附着全异常状态效果	頻繁に全バステ効果	High All Ail
+00A6	亚当技能1	アダムスキル1	Adam Skill 1
+00A7	灵魂活性	魂の活性	Revitalize Soul
+00A8	宏伟大掌	大いなる掌	Grand Palm
+00A9	全力一击	渾身の一撃	Full Force
+00AA	恶魔审判	悪魔の審判	Demonic Decree
+00AB	可以为我而死吗?	死んでくれる？	Die For Me!
+00AC	支援PLUS3	サポートプラス3	Support Plus 3
+00AD	支援PLUS2	サポートプラス2	Support Plus 2
+00AE	支援PLUS1	サポートプラス1	Support Plus 1
+00AF	支援频率UP	サポート頻度UP	Support Rate Up
+00B0	原子火焰	アトミックフレア	Atomic Flare
+00B1	宇宙火焰	コズミックフレア	Cosmic Flare
+00B2	正念疗法	マインドフルナス	Mindfulness
+00B3	清醒疗法	ウェイクフルネス	Wakefulness
+00B4	漆黑之蛇	漆黒の蛇	Black Viper
+00B5	拂晓明星	明けの明星	Morning Star
+00B6	深渊之眼	深淵の眼	Abyssal Eye
+00B7	王者之杯	王者の盃	Champion's Cup
+00B8	剥削的假画	搾取の偽画	Bleeding Dry Brush
+00B9	金库看守者	金庫の番人	Vault Guardian
+00BA	才智的羽翼	知性の翼	Wings of Wisdom
+00BB	社长诀窍	社長の心得	President's Insight
+00BC	赌徒的预测	勝負師の先見	Gambler's Foresight
+00BD	幕后黑手的威令	黒幕の威令	Tyrant's Will
+00BE	赛	サイ	Psi
+00BF	赛欧	サイオ	Psio
+00C0	赛达因	サイダイン	Psiodyne
+00C1	玛哈赛	マハサイ	Mapsi
+00C2	玛哈赛欧	マハサイオ	Mapsio
+00C3	玛哈赛达因	マハサイダイン	Mapsiodyne
+00C4	攻击姿态	攻撃態勢	Attack Position
+00C5	念动波	サイコキネシス	Psycho Force
+00C6	念动力	サイコフォース	Psycho Blast
+00C7	万象之力	万象の力	Universal Power
+00C8	突击	突撃	Lunge
+00C9	俯冲突击	アサルトダイブ	Assault Dive
+00CA	百万吨袭击	メガトンレイド	Megaton Raid
+00CB	神之手	ゴッドハンド	God's Hand
+00CC	突击	突撃	Lunge
+00CD	幸运拳	ラッキーパンチ	Lucky Punch
+00CE	奇迹拳	ミラクルパンチ	Miracle Punch
+00CF	杀戮突袭	キルラッシュ	Kill Rush
+00D0	加特林重击	ガトリングブロー	Gatling Blow
+00D1	贯彻的魔手	貫徹する魔手	Piercing Strike
+00D2	斩击	スラッシュ	Cleave
+00D3	大斩断	大切断	Giant Slice
+00D4	勇气之击	ブレイブザッパー	Brave Blade
+00D5	剑之舞	剣の舞	Sword Dance
+00D6	圣母的慈爱	聖母の慈愛	Holy Benevolence
+00D7	八艘跳跃	八艘跳び	Hassou Tobi
+00D8	巴力神矛	マイムール	Ayamur
+00D9	死神大镰斩	デスサイズカット	Death Scythe
+00DA	未使用	曲解の防御弱体	UNUSED
+00DB	会话任务用召唤	会話クエスト用召喚	NOT USED
+00DC	穷鼠之牙	窮鼠の牙	Cornered Fang
+00DD	加倍斩击	レイズスラッシュ	Rising Slash
+00DE	死亡游戏	死亡遊戯	Deadly Fury
+00DF	核热爆碎	核熱の爆砕	Nuclear Crush
+00E0	指弹	指弾	Snap
+00E1	三连倒	トリプルダウン	Triple Down
+00E2	一枪毙命	ワンショットキル	One-shot Kill
+00E3	至高魔弹	至高の魔弾	Riot Gun
+00E4	双重射击	ダブルシュート	Double Shot
+00E5	初始之光	原初の光	Origin Light
+00E6	金刚发破	金剛発破	Vajra Blast
+00E7	空间杀法	空間殺法	Vorpal Blade
+00E8	曲解的攻击强化	曲解の攻撃強化	NOT USED
+00E9	曲解的蓄力	曲解のチャージ	NOT USED
+00EA	曲解的专心	曲解のコンセン	NOT USED
+00EB	烈风波	烈風波	Vicious Strike
+00EC	灼热波浪	ヒートウェイブ	Heat Wave
+00ED	巨人之战	ギガントマキア	Gigantomachia
+00EE	翻腾的念动	渦巻く念動	Swirling Psychokinesis
+00EF	霸王肃清	覇王の粛清	Tyrant's Purge
+00F0	抢钱珠	ガッポリ玉	Mass Ball
+00F1	横冲直撞	暴れまくり	Rampage
+00F2	电光石火	電光石火	Swift Strike
+00F3	死亡界限	デスバウンド	Deathbound
+00F4	火神之击	アグネヤストラ	Agneyastra
+00F5	丸喜耐性变化	丸城相性変化	NOT USED
+00F6	自我再生	自己再生	Regeneration
+00F7	加倍斩击	レイズスラッシュ	Rising Slash
+00F8	死亡游戏	死亡遊戯	Deadly Fury
+00F9	霸王审判	覇王の審判	Tyrant's Judgement
+00FA	二连牙	二連牙	Double Fangs
+00FB	威力斩击	パワースラッシュ	Power Slash
+00FC	无形守护	無形の守り	Shapeless Guard
+00FD	五月雨斩	五月雨斬り	Tempest Slash
+00FE	刹那五月雨斩	刹那五月雨斬り	Myriad Slashes
+00FF	蛮力增幅	蛮力の増幅	Amplify Force
+0100	魔性增幅	魔性の増幅	Amplify Magic
+0101	天降种子	降り注ぐ種子	Raining Seeds
+0102	活力灌注	流れ込む生気	Energy Stream
+0103	心境	ゾーン	Flow
+0104	烈击巨锤	スレッジハンマー	Sledgehammer
+0105	倒栽痛击	脳天落とし	Skull Cracker
+0106	骇鸦	テラークロウ	Terror Claw
+0107	头锤	ヘッドバット	Headbutt
+0108	胃部拳击	ストマックブロー	Stomach Blow
+0109	织梦针	夢見針	Dream Needle
+010A	歇斯底里掌掴	ヒステリービンタ	Hysterical Slap
+010B	负面意识堆栈	ネガティブパイル	Negative Pile
+010C	头脑震撼	ブレインシェイク	Brain Shake
+010D	攻击	アタック	Attack
+010E	闪光炸弹	フラッシュボム	Flash Bomb
+010F	心念切断	マインドスライス	Mind Slice
+0110	血祭	血祭り	Bloodbath
+0111	忘杀突袭	忘殺スラッシュ	Memory Blow
+0112	无穷饥渴	飽くなき渇き	Insatiable Strike
+0113	永眠突袭	ドルミンラッシュ	Dormin Rush
+0114	鬼神乐	鬼神楽	Oni-Kagura
+0115	绝望敲打	バッドビート	Bad Beat
+0116	碎脑击	ブレインバスター	Brain Buster
+0117	烈焰魔釗	レーヴァテイン	Laevateinn
+0118	手枪	ハンドガン	Handgun
+0119	霰弹枪	ショットガン	Shotgun
+011A	弹弓	パチンコ	Slingshot
+011B	机关枪	マシンガン	Machine Gun
+011C	突击步枪	アサルトライフル	Assault Rifle
+011D	左轮手枪	リボルバー	Revolver
+011E	榴弹枪	グレネードランチャー	Grenade Launcher
+011F	激光枪	レーザーガン	Laser Gun
+0120	古董步枪	アンティークライフル	Antique Rifle
+0121	万魔之势	万魔の構え	Tyrant Stance
+0122	斗魂灌注	闘魂注入	Fighting Spirit
+0123	奇迹突装	ミラクルラッシュ	Miracle Rush
+0124	棋高一着	チェックメイト	Checkmate
+0125	百花缭乱	百花繚乱	Hyakka Ryouran
+0126	血脉偾张	ハイテンション	High Energy
+0127	究极支援	究極サポート	Ultimate Healing Support
+0128	生命障壁	生命の壁	Life Wall
+0129	反抗之刃	反逆の刃	Rebellion Blade
+012A	化妆舞会	マスカレイド	Masquerade
+012B	先行的触手	先導の触手	Guiding Tendril
+012C	迪亚	ディア	Dia
+012D	迪亚拉玛	ディアラマ	Diarama
+012E	迪亚拉翰	ディアラハン	Diarahan
+012F	先行的触手	ブレイブステップ	Brave Step
+0130	丸喜铁拳	丸城パンチ	Maruki Punch
+0131	梅迪亚	メディア	Media
+0132	梅迪拉玛	メディラマ	Mediarama
+0133	梅迪亚拉翰	メディアラハン	Mediarahan
+0134	无情冲击	非情の衝撃	Brutal Impact
+0135	咒击刑	呪撃刑	Cursed Strike
+0136	利卡姆	リカーム	Recarm
+0137	萨玛利卡姆	サマリカーム	Samarecarm
+0138	利卡姆多拉	リカームドラ	Recarmdra
+0139	侦探的具眼	探偵の具眼	Sleuthing Instinct
+013A	名侦探的慧眼	名探偵の達眼	Sleuthing Mastery
+013B	甘露水滴	アムリタドロップ	Amrita Drop
+013C	甘露之雨	アムリタシャワー	Amrita Shower
+013D	光击刑	光撃刑	Holy Strike
+013E	救世主之愈	メシアライザー	Salvation
+013F	核击刑	核撃刑	Nuclear Strike
+0140	念击刑	念撃刑	Psychokinesis Strike
+0141	喧哗	オラオーラ	Taunting Aura
+0142	暴风刑	嵐の刑	Storm Punishment
+0143	潜伏	潜伏	Concealment
+0144	电击刑	電の刑	Lightning Punishment
+0145	帕特拉	パトラ	Patra
+0146	冰杀刑	氷殺刑	Punishing Hail
+0147	能量浴	エナジーシャワー	Energy Shower
+0148	能量水滴	エナジードロップ	Energy Drop
+0149	拜斯堤	バイスディ	Baisudi
+014A	梅帕特拉	メパトラ	Me Patra
+014B	玛哈拜斯堤	マハバイスディ	Mabaisudi
+014C	蓄力珠	チャージ玉	Charge Ball
+014D	专心致志珠	コンセントレイト玉	Concentrated Ball
+014E	业火刑	業火刑	Inferno Punishment
+014F	塔尔卡加	タルカジャ	Tarukaja
+0150	拉库卡加	ラクカジャ	Rakukaja
+0151	斯库卡加	スクカジャ	Sukukaja
+0152	灼热奋起	ヒートライザ	Heat Riser
+0153	枪杀刑	銃殺刑	Gunfire Punishment
+0154	玛哈塔尔卡加	マハタルカジャ	Matarukaja
+0155	玛哈拉库卡加	マハラクカジャ	Marakukaja
+0156	玛哈斯库卡加	マハスクカジャ	Masukukaja
+0157	炽热之门	テルモピュライ	Thermopylae
+0158	斩首刑	斬首刑	Guillotine Punishment
+0159	塔伦达	タルンダ	Tarunda
+015A	拉坤达	ラクンダ	Rakunda
+015B	斯坤达	スクンダ	Sukunda
+015C	女巫诅咒	ランダマイザ	Debilitate
+015D	召唤4名	4体召喚	Quadruple Summon
+015E	玛哈塔伦达	マハタルンダ	Matarunda
+015F	玛哈拉坤达	マハラクンダ	Marakunda
+0160	玛哈斯坤达	マハスクンダ	Masukunda
+0161	分析	アナライズ	Analysis
+0162	分析	アナライズ	Analysis
+0163	迪坤达	デクンダ	Dekunda
+0164	迪卡加	デカジャ	Dekaja
+0165	弹飞啦!	はじけ飛んだ！	Explosion!
+0166	弹飞啦!	はじけ飛んだ！	Explosion!
+0167	狮身女坏腕	獅身女の壊腕	Sphinx Swipe
+0168	蓄力	チャージ	Charge
+0169	专心致志	コンセントレイト	Concentrate
+016A	急速俯冲	急降下	Nose Dive
+016B	完成报酬增加	始末報酬増額	Kill Reward Up
+016C	护卫报酬增加	護衛報酬増額	Guard Reward Up
+016D	反叛	リベリオン	Rebellion
+016E	革命	レボリューション	Revolution
+016F	钱雨	金の雨	Make it Rain
+0170	特别护卫契约	特別護衛契約	Special Guards
+0171	虚荣的日本画世界	虚飾の日本画の世界	Fake Artist's Grace
+0172	提特拉康	テトラカーン	Tetrakarn
+0173	玛卡拉康	マカラカーン	Makarakarn
+0174	提特拉加	テトラジャ	Tetraja
+0175	怒意的品鉴	怒りのテイスティング	Taste of Wrath
+0176	真迹的赝品	本物の贗作	True Fake
+0177	提特拉破坏	テトラブレイク	Tetra Break
+0178	玛卡拉破坏	マカラブレイク	Makara Break
+0179	爱的调教尖刺	愛の調教スバイク	Killshot of Love
+017A	弥生追击	ヤヨイ・追撃用	NOT USED
+017B	弥生・枪追击用	ヤヨイ・銃追撃用	NOT USED
+017C	防炎之壁	防炎の壁	Fire Wall
+017D	防冰之壁	防氷の壁	Ice Wall
+017E	防电之壁	防電の壁	Elec Wall
+017F	防岚之壁	防嵐の壁	Wind Wall
+0180	空栏	ブランク	BLANK
+0181	消除火焰防御	火炎ガードキル	Fire Break
+0182	消除冰冻防御	氷結ガードキル	Ice Break
+0183	消除疾风防御	疾風ガードキル	Wind Break
+0184	消除电击防御	電撃ガードキル	Elec Break
+0185	空栏	ブランク	BLANK
+0186	特拉芙里	トラフーリ	Trafuri
+0187	特拉埃斯特	トラエスト	Traesto
+0188	主动护罩	アクティブバリア	Active Barrier
+0189	防核之壁	防核の壁	Nuke Wall
+018A	防念之壁	防念の壁	Psy Wall
+018B	消除核热防御	核熱ガードキル	Nuke Break
+018C	消除念动防御	念動ガードキル	Psy Break
+018D	空栏	ブランク	BLANK
+018E	空栏	ブランク	BLANK
+018F	心境	ゾーン	Flow
+0190	总攻击・Lv1	総攻撃LV1	All-out Lv 1
+0191	总攻击・Lv2	総攻撃LV2	All-out Lv 2
+0192	总攻击・Lv3	総攻撃LV3	All-out Lv 3
+0193	紧急脱离	緊急離脱	Emergency Escape
+0194	攻击	アタック	Attack
+0195	一枪倒地	ダウンショット	Down Shot
+0196	召唤	召喚	Summon
+0197	救援请求	救援要請	Call for Backup
+0198	恶徒攻击	アウトロウ攻撃	Outlaw Attack
+0199	散播	ばらまき	Barrage
+019A	冲撞追击	フォロークラッシュ	Follow Crush
+019B	爪追击	フォロークロウ	Follow Claw
+019C	鞭追击	フォローウィップ	Follow Whip
+019D	刀追击	フォローブレード	Follow Blade
+019E	拳追击	フォローナックル	Follow Knuckle
+019F	战斧追击	フォローアクス	Follow Axe
+01A0	军刀追击	フォローサーベル	Follow Saber
+01A1	丢弃道具	アイテム廃棄	Dispose Item
+01A2	恢复敌方	敵を回復	Heal Enemy
+01A3	死亡(绝望)	死亡(絶望)	Death (Despair)
+01A4	|同伴1・强化追击用	仲間1強化追撃用	Ally1 Follow-Up
+01A5	|同伴2・强化追击用	仲間2強化追撃用	Ally2 Follow-Up
+01A6	|同伴3・强化追击用	仲間3強化追撃用	Ally3 Follow-Up
+01A7	|同伴4・强化追击用	仲間4強化追撃用	Ally4 Follow-Up
+01A8	|同伴5・强化追击用	仲間5強化追撃用	Ally5 Follow-Up
+01A9	|同伴6・强化追击用	仲間6強化追撃用	Ally6 Follow-Up
+01AA	|同伴7・强化追击用	仲間7強化追撃用	Ally7 Follow-Up
+01AB	强化敌方	敵を強化	Power Up Enemy
+01AC	强化敌方	敵を強化	Power Up Enemy
+01AD	强化敌方	敵を強化	Power Up Enemy
+01AE	强化敌方	敵を強化	Steal Info
+01AF	支援玛哈塔尔卡加	支援マハタルカジャ	Sup Matarukaja
+01B0	支援玛哈拉库卡加	支援マハラクカジャ	Sup Marakukaja
+01B1	支援玛哈斯库卡加	支援マハスクカジャ	Sup Masukukaja
+01B2	支援全卡加	支援全カジャ	Sup All Kaja
+01B3	支援蓄力	支援チャージ	Sup Charge
+01B4	支援恢复全员3成HP	支援全員HP3割回復	Sup HP +30%
+01B5	支援恢复全员1成SP	支援全員SP1割回復	Sup SP +10%
+01B6	支援确保脱逃路线	支援逃走経路確保	Sup Escape Route
+01B7	支援第三只眼	支援サードアイ	Sup Third Eye
+01B8	辅助恢复HP	サブリカバーHP	Subrecover HP
+01B9	辅助恢复SP	サブリカバーSP	Subrecover SP
+01BA	分析	アナライズ	Analysis
+01BB	高阶分析	ハイ・アナライズ	Deep Analysis
+01BC	彻底分析	フル・アナライズ	Full Analysis
+01BD	总攻击	総攻撃	All-Out Attack
+01BE	风尘	敵全体に疾風属性で極小ダメージ	Dust Flurry
+01BF	舌头甩击	舌振り回し	Tongue Whip
+01C0	鞭打	ムチ叩き	Whip Strike
+01C1	舔舐杏人偶	杏人形しゃぶり	Lustful Slurp
+01C2	增强精力	精力増強	Libido Boost
+01C3	金小刀	金のナイフ	Golden Knife
+01C4	舌头舔舐	舌舐め	Lick
+01C5	金牌扣杀	金メダル級スパイク	Gold Medal Spike
+01C6	排球攻击	バレーボールアタック	Volleyball Assault
+01C7	旋风	辻風	Maelstrom
+01C8	炎舞	炎舞	Flame Dance
+01C9	雪音	雪音	Silent Snowscape
+01CA	迅雷	迅雷	Thunderclap
+01CB	玛哈耶加	ハマエイガ	Maeiga
+01CC	全体饥饿魔法	空腹全体魔法	Hunger All
+01CD	对人火神炮	対人バルカン	Ocular Vulcan
+01CE	导弹派对	ミサイル・パーティー	Missile Party
+01CF	恐惧瓦斯	フィアー・ガス	Fear Gas
+01D0	超V・I・P形态	超V/I/Pフォーム	Super VIP Form
+01D1	大怪球行进	大怪球マーチ	March of the Piggy
+01D2	狮身女坏腕	獅身女の壊腕	Sphinx Swipe
+01D3	羽翼攻击	羽撃き	Wing Blast
+01D4	急速上升	急上昇	Rapid Ascent
+01D5	狮身女猛击	獅身女の猛撃	Sphinx Dive
+01D6	战栗尖叫	戦慄の絶叫	Dreadful Scream
+01D7	咬啮	噛みつき	Bite
+01D8	修复	修復	Restore
+01D9	美丽的日本画世界	美しき日本画の世界	The Artist's Grace
+01DA	出勤命令	出勤命令	Work Order
+01DB	自爆指令	自爆指令	Sacrifice Order
+01DC	灭私奉公	滅私奉公	Selfless Devotion
+01DD	惩罚	ペナルティ	Penalty
+01DE	全体硬币攻击	コイン攻撃全体	Coin Attack
+01DF	一刀两断	一刀両断	Severing Slash
+01E0	加特林炮	ガトリング砲	Gatling Gun
+01E1	狂战土之舞	狂戦士の舞	Berserker Dance
+01E2	轮盘:HP	ルーレットHP	Roulette: HP
+01E3	轮盘:SP	ルーレットSP	Roulette: SP
+01E4	轮盘:钱	ルーレットお金	Roulette: Money
+01E5	轮盘:辅助1	ルーレット補助1	Roulette: Aid 1
+01E6	轮盘:辅助2	ルーレット補助2	Roulette: Aid 2
+01E7	轮盘:辅助3	ルーレット補助3	Roulette: Aid 3
+01E8	王兽一击	王獣の一撃	Beast King's Wrath
+01E9	狩猎姿态	狩りの構え	Hunting Stance
+01EA	王兽坏腕	王獣の壊腕	Arm of Destruction
+01EB	翼兽呼吸	翼獣の呼吸	Gryphon's Breath
+01EC	王翼吐光	王翼の吐光	Royal Wing Beam
+01ED	炮击	砲撃	Cannon Fire
+01EE	炮弹之雨	砲弾の雨	Cannon Barrage
+01EF	魔光聚集	魔光の収束	Unholy Convergence
+01F0	王墓魔炮	王墓の魔砲	Pyramid Blast
+01F1	霸王拳	覇王の拳	Tyrant's Fist
+01F2	霸王眼光	覇王の眼光	Tyrant's Glare
+01F3	霸王波动	覇王の波動	Tyrant's Wave
+01F4	无花果果实	無花果の実	Fig Seed
+01F5	伤药	傷薬	Medicine
+01F6	软膏	軟膏薬	Ointment
+01F7	治疗凝胶	ヒールゼリー	Antibiotic Gel
+01F8	魔石	魔石	Life Stone
+01F9	宝玉	宝玉	Bead
+01FA	超值伤药组合	お徳用傷薬セット	Value Medicine
+01FB	紧急医疗包	緊急医療セット	Medical Kit
+01FC	马卡叶	マカの葉	Maka Leaf
+01FD	宝玉环	宝玉輪	Bead Chain
+01FE	灵魂糖果	ソウルドロップ	Soul Drop
+01FF	灵魂鼻烟壶	スナフソウル	Snuff Soul
+0200	灵魂口香糖	チューインソウル	Chewing Soul
+0201	灵魂食品	ソウルフード	Soul Food
+0202	返地玉	地返しの玉	Revival Bead
+0203	返魂香	反魂香	Balm of Life
+0204	蜂王浆	ロイヤルゼリー	Royel Jelly
+0205	有机草药	未使用アイテム	Organic Herb
+0206	揭露丸	ディスクローズ	Disclose
+0207	精神安定剂	精神安定剤	Tranquilizer
+0208	索.麝香猫	未使用アイテム	Kopi Luwak
+0209	回家轨道	カエレール	Goho-M
+020A	遁逃弹	ドロン玉	Vanish Ball
+020B	苏摩	ソーマ	Soma
+020C	甘露汽水	アムリタソーダ	Amrita Soda
+020D	六芒星	ヒランヤ	Hiranya
+020E	肌肉饮料	マッスルドリンコ	Muscle Drink
+020F	神秘食品	ミステリーフード	Odd Morsel
+0210	香气卤汁	スメルグレイビー	Rancid Gravy
+0211	黄昏羽翼	黄昏の羽根	Plume of Dusk
+0212	魔反镜	魔反鏡	Magic Mirror
+0213	物反镜	物反鏡	Physical Mirror
+0214	乾坤圈	乾坤圏	Universe Ring
+0215	斯雷普尼尔	スレイプニル	Sleipnir
+0216	黑曜石之镜	黒曜石の鏡	Obsidian Mirror
+0217	黑曜石之镜	お清めの水	Purifying Water
+0218	清净之盐	お清めの塩	Purifying Salt
+0219	冲天炮	ロケット花火	Firecracker
+021A	三寸玉	三寸玉	San-zun Tama
+021B	冰块	角氷	Ice Cube
+021C	干冰	ドライアイス	Dry Ice
+021D	风车	風車	Pinwheel
+021E	弥七	弥七	Yashichi
+021F	拨浪鼓	デンデン太鼓	Ball Lightning
+0220	特斯拉线圈	デスラコイル	Tesla Coil
+0221	气球炸弹	風船爆弾	Smart Bomb
+0222	施饿鬼米	せがき米	Segami Rice
+0223	咒杀纸	呪殺ペーパー	Curse Paper
+0224	猛火勾玉	猛火の勾玉	Flame Magatama
+0225	暴风勾玉	暴風の勾玉	Wind Magatama
+0226	极寒勾玉	極寒の勾玉	Freeze Magatama
+0227	万雷勾玉	万雷の勾玉	Bolt Magatama
+0228	人造人	ホムンクルス	Homunculus
+0229	解除药	解除薬	Removal Potion
+022A	假克加弹	コウガ玉仮	Kouga Ball
+022B	假玛哈克哈弹	マハコウハ玉仮	Makouha Ball
+022C	假杰卡弹	ジェガ玉仮	Eiga Ball
+022D	假玛哈杰多弹	マハジェド玉仮	Maeiga Ball
+022E	假赛欧弹	サイオ玉仮	Psio Ball
+022F	假玛哈赛弹	マハサイ玉仮	Mapsi Ball
+0230	假芙雷拉弹	フレイラ玉仮	Freila Ball
+0231	假玛哈芙雷弹	マハフレイ玉仮	Mafrei Ball
+0232	核热勾玉	核熱の勾玉	Nuke Magatama
+0233	念动勾玉	念動の勾玉	Psy Magatama
+0234	祝福勾玉	祝福の勾玉	Bless Magatama
+0235	咒怨勾玉	呪怨の勾玉	Curse Magatama
+0236	料理	料理	Cooking
+0237	零食	お菓子	Snack
+0238	果汁1	ジュース1	Shoes 1
+0239	果汁2	ジュース2	Shoes 2
+023A	果汁3	ジュース3	Shoes 3
+023B	果汁吧台1	ジューサーバー1	Juice Bar 1
+023C	果汁吧台2	ジューサーバー2	Juice Bar 2
+023D	果汁吧台3	ジューサーバー3	Juice Bar 3
+023E	果汁吧台4	ジューサーバー4	Juice Bar 4
+023F	营养饮料1	栄養ドリンク1	Energy Drink 1
+0240	营养饮料2	栄養ドリンク2	Energy Drink 2
+0241	营养饮料3	栄養ドリンク3	Energy Drink 3
+0242	罐装果汁1	缶ジュース1	Soda 1
+0243	罐装果汁2	缶ジュース2	Soda 2
+0244	罐装果汁3	缶ジュース3	Soda 3
+0245	罐装果汁4	缶ジュース4	Soda 4
+0246	军粮1	ミリメシ1	Ration 1
+0247	军粮2	ミリメシ2	Ration 2
+0248	军粮3	ミリメシ3	Ration 3
+0249	药妆店1	ドラッグストア1	Drug Store 1
+024A	药妆店2	ドラッグストア2	Drug Store 2
+024B	药妆店3	ドラッグストア3	Drug Store 3
+024C	药妆店4	ドラッグストア4	Drug Store 4
+024D	药妆店5	ドラッグストア5	Drug Store 5
+024E	药妆店6	ドラッグストア6	Drug Store 6
+024F	药妆店7	ドラッグストア7	Drug Store 7
+0250	药妆店8	ドラッグストア8	Drug Store 8
+0251	药妆店9	ドラッグストア9	Drug Store 9
+0252	药妆店10	ドラッグストア10	Drug Store 10
+0253	药妆店11	ドラッグストア11	Drug Store 11
+0254	药妆店12	ドラッグストア12	Drug Store 12
+0255	特殊咖啡1	特殊コーヒー1	Special Coffee 1
+0256	特殊咖啡2	特殊コーヒー2	Special Coffee 2
+0257	二连牙	二連牙	Double Fangs
+0258	双胞胎专用全倒技	ふたご専用全ダウン技	Twins Down Attack
+0259	卡萝・杖	カロ・ロッド	Caro Rod
+025A	卡萝・攻击	カロ・アタック	Caro Attack
+025B	米吉多拉翁	メギドラオン	Megidolaon
+025C	统治之光	統制の光芒	Rays of Control
+025D	统治之光	統制の光芒	Rays of Control
+025E	统治之光	統制の光芒	Rays of Control
+025F	统治之光	統制の光芒	Rays of Control
+0260	光之箭	光の矢	Arrow of Light
+0261	漫射光箭	乱反射する光の矢	Diffraction Arrow
+0262	横劈光刃	薙ぎ払う光の刃	Light Edge
+0263	终结无尽光	収束する無尽の光	Gathering Light
+0264	圣杯无尽光	聖杯無尽光	Eternal Light
+0265	圣光转生	光輪転成	Holy Change
+0266	扭曲的波动	歪みの波動	Distortion Wave
+0267	强韧之法	強靭の法	Tough Law
+0268	脆弱之法	脆弱の法	Frail Law
+0269	崭新创造	新たなる創造	New Creation
+026A	真 ・扭曲的波动	真・歪みの波動	Distortion Surge
+026B	光之箭	光の矢	Arrow of Light
+026C	剑创造	剣の創造	Manifest Sword
+026D	枪创造	銃の創造	Manifest Gun
+026E	钟创造	鐘の創造	Manifest Bell
+026F	断罪之剑	断罪の剣	Sword of Judgment
+0270	枪刑	銃刑	Capital Punishment
+0271	书创造	書の創造	Manifest Book
+0272	扭曲的色欲	歪んだ色欲	Distorted Lust
+0273	福音	福音	Gospel
+0274	扭曲的愤怒	歪んだ憤怒	Distorted Wrath
+0275	扭曲的虚荣	歪んだ虚飾	Distorted Vanity
+0276	救济之诗	救済の詩	Song of Salvation
+0277	神怒槌	神の怒槌	Wrath of God
+0278	扭曲的暴食	歪んだ暴食	Distorted Gluttony
+0279	扭曲的嫉妒	歪んだ嫉妬	Distorted Envy
+027A	镇抚之诗	鎮撫の詩	Song of Placation
+027B	神意高潮	神意の高潮	Divine Apex
+027C	统治之光	統制の光芒	Rays of Control
+027D	扭曲的贪婪	歪んだ強欲	Distorted Avarice
+027E	民心所向	大衆の望み	Will of the People
+027F	统治之光	統制の光芒	Rays of Control
+0280	士气支援	モラルサポート	Moral Support
+0281	动态支援	アクティブサポート	Active Support
+0282	心灵入侵	真理ハッキング	Mental Hack
+0283	紧急状态	エマージェンシー	Emergency Shift
+0284	终极防御	ファイナルガード	Final Guard
+0285	位置入侵	ポジションハック	Position Hack
+0286	热血运动交涉	ハイアナライズ	High Analyze
+0287	宝物探知	お宝スキミング	Treasure Skimmer
+0288	辅助恢复HP改	サブリカバーHP改	Subrecover HP EX
+0289	辅助恢复SP改	サブリカバーSP改	Subrecover SP EX
+028A	超级大爆炸优惠	ビッグバン大サービス	Big Bang Treat
+028B	弹飞啦!	はじけ飛んだ！	Explosion!
+028C	弹飞啦!	はじけ飛んだ！	Explosion!
+028D	弹飞啦!	はじけ飛んだ！	Explosion!
+028E	大爆炸・点单	ビッグバン・オーダー	Big Bang Order
+028F	轮盘时间	ルーレットタイム	Roulette Time
+0290	滚轴猛击	コロバッシャー	Trip-Upper
+0291	色欲的刚球	色欲の剛球(仮)	Lust Sphere
+0292	一枪倒地2	ダウンショット2	Down Shot 2
+0293	一枪倒地3	ダウンショット3	Down Shot 3
+0294	一枪倒地4	ダウンショット4	Down Shot 4
+0295	电子音乐攻击	エレクトロアタック	Electro Attack
+0296	大罪穿甲弹	大罪の徹甲弾	Sinful Shell
+0297	刀追击	フォローブレード	Follow Black
+0298	召唤	召喚	Summon
+0299	目伪怒	目偽怒	Madara-Megido
+029A	咖喱防升	カレー防昇	Curry Raku
+029B	利敌行为	利敵行為	Enemy Benefit
+029C	迪亚拉翰	ディアラハン	Diarahan
+029D	咖喱速升	カレー速昇	Curry Suku
+029E	诱捕弹	オトリ玉	Decoy Ball
+029F	超诱捕弹	超オトリ玉	Super Decoy Ball
+02A0	肥胖波动	メタボ・ウェーブ	Metabolic Wave
+02A1	胜利之剑	レーヴァテイン	Laevateinn
+02A2	死亡行进	デスパレード	Desperation
+02A3	失控的邀请	暴走のいざない	Call of Chaos
+02A4	大爆炸挑战	ビッグバン・チャレンジ	Big Bang Challenge
+02A5	圣杯无尽光2	聖杯無尽光2	Grail Light 2
+02A6	米吉多拉	メギドラ	Megidola
+02A7	愤怒传播	憤怒の伝播	Rage Transmission
+02A8	百裂巴掌	百烈ビンタ	Hundred Slaps
+02A9	扭曲的傲慢	歪んだ傲慢	Distorted Pride
+02AA	神罚	神罰	Divine Punishment
+02AB	民意	大衆の望み	Will of the People
+02AC	真空刃	真空刃	Wind Cutter
+02AD	扫射	乱れ撃ち	Shoot Up
+02AE	董事铁拳	役員パンチ	Executive Punch
+02AF	米吉多拉翁	メギドラオン	Megidolaon
+02B0	空间杀法	空間殺法	Vorpal Blade
+02B1	米吉多拉翁	メギドラオン	Megidolaon
+02B2	大爆炸汉堡	ビッグバンバーガー	Big Bang Burger
+02B3	春日地球汉堡	春のアースバーガー	Earth Burger
+02B4	夏日火星汉堡	夏のマーズバーガー	Mars Burger
+02B5	秋日月球汉堡	秋のムーンバーガー	Moon Burger
+02B6	冬日土星汉堡	冬のサターンバーガー	Saturn Burger
+02B7	芮丝的攻击	ジュスのアタック	Justine Attack
+02B8	卡萝的攻击	カロのアタック	Caroline Attack
+02B9	咖喱魔反	カレー魔反	Curry Makara
+02BA	咖喱物反	カレー物反	Curry Tetra
+02BB	咖喱死防	カレー死防	Curry Endure
+02BC	咖喱气势	カレー気合	Curry Charge
+02BD	咖喱集中	カレー集中	Curry Concentrate
+02BE	咖喱全升	カレー全昇	Curry Heat Riser
+02BF	魔法障壁	魔法の壁	Magic Wall
+02C0	华彩乐段	カデンツァ	Cadenza
+02C1	十文字斩	十文字斬り	Cross Slash
+02C2	冥府之门	冥府の扉	Door of Hades
+02C3	祸津曼陀罗	マガツマンダラ	Magatsu Mandala
+02C4	辉箭	輝矢	Shining Arrows
+02C5	弦艺猛兽	ストリングアーツ猛獣	Beast Weaver
+02C6	泰坦之战	ティタノマキア	Titanomachia
+02C7	炼狱之翼	煉獄の翼	Abyssal Wings
+02C8	圣谭曲	オラトリオ	Oratario
+02C9	数万真言	幾万の真言	Myriad Truths
+02CA	新华彩乐段	ネオ・カデンツァ	Neo Cadenza
+02CB	虚无艺术	アカシャアーツ	Akashic Arts
+02CC	幻影秀	ファントムショー	Phantom Show
+02CD	混乱珠	混乱玉	Confuse Ball
+02CE	洗礼珠	洗礼玉	Baptism Ball
+02CF	除灵珠	除霊玉	Exorcism Ball
+02D0	米吉多	メギド	Megido
+02D1	米吉多拉	メギドラ	Megidola
+02D2	米吉多拉翁	メギドラオン	Megidolaon
+02D3	殴打	叩きつけ	Slam
+02D4	百万吨袭击	メガトンレイド	Megaton Raid
+02D5	一枪毙命	ワンショットキル	One-shot Kill
+02D6	炼狱	インフェルノ	Inferno
+02D7	钻石星尘	ダイヤモンドダスト	Diamond Dust
+02D8	万劫磷光	万劫たる燐光	Eternal Radiance
+02D9	万魔混沌	万魔の混沌	Tyrant Chaos
+02DA	新咖喱1	新カレー1	New Curry 1
+02DB	新咖喱2	新カレー2	New Curry 2
+02DC	武见全复生药	タケミナオキール	Reviv-All
+02DD	武见全复生药Z	タケミナオキールZ	Reviv-All Z
+02DE	黑化明智・追击用	黒アケチ・追撃用	Dark Akechi-For pursuing
+02DF	黑化明智・枪追击用	黒アケチ・銃追撃用	Dark Akechi-For Gun pursuing
+02E0	不羁交涉	ワイルドトーク	Wild Talk
+02E1	换手	バトンタッチ	Baton Pass
+02E2	不良少年交涉	ヤンキートーク	Punk Talk
+02E3	强夺秘宝	オタカラ強奪	Pickpocket
+02E4	纸扇恢复	ハリセンリカバー	Harisen Recovery
+02E5	掩护	かばう	Protect
+02E6	女子交涉	ガールズトーク	Girl Talk
+02E7	假哭	ウソ泣き	Crocodile Tears
+02E8	色诱术	悩殺術	Sexy Technique
+02E9	超凡交涉	ディテクティヴトーク	Detective Talk
+02EA	艺术交涉	アーティストトーク	Artist Talk
+02EB	交涉术	交渉術	Negotiating
+02EC	募集经费	支援金集め	Fundraising
+02ED	印象操作术	印象操作術	Manipulation
+02EE	人心掌握术	人心掌握術	Mind Control
+02EF	魅力演讲术	カリスマ演説術	Charisma Speech
+02F0	黑带交涉	ガリベントーク	Brainiac Talk
+02F1	运子帷幄	駒さばき	Sabaki
+02F2	围崩	囲い崩し	Kakoi Kuzushi
+02F3	投子	投了	Touryou
+02F4	东乡系统	東郷システム	Togo System
+02F5	随意开火	ランダムファイア	Bullet Hail
+02F6	威吓射击	威嚇射撃	Warning Shot
+02F7	上流交涉	セレブトーク	Celeb Talk
+02F8	猫咪交涉	ニャンコトーク	Kitty Talk
+02F9	马琳卡琳	マリンカリン	Marin Karin
+02FA	花花公子的奥义	女殺しの奥義	Womanizing
+02FB	加倍奉还的愤慨	倍返しの憤激	Indignant Revenge
+02FC	治愈之力溢出了!	癒しの力が漏れた！	Healing Power
+02FD	治愈之力溢出了!	癒しの力が漏れた！	Healing Power
+02FE	挑衅	挑発	Taunt
+02FF	玉虫颜色变化	玉虫色変化	Iridescent Change
+0300	勇气之击	ブレイブザッパー	Brave Blade
+0301	俯冲突击	アサルトダイブ	Assault Dive
+0302	骇鸦	テラークロー	Terror Claw
+0303	布芙达因	ブフダイン	Bufudyne
+0304	赛达因	サイダイン	Psiodyne
+0305	玛哈吉欧加	マハジオンガ	Mazionga
+0306	玛哈吉欧达因	マハジオダイン	Maziodyne
+0307	玛哈耶加	マハジェガ	Maeiga
+0308	玛哈耶加翁	マハジェガオン	Maeigaon
+0309	亚当技能5	アダムスキル5	Adam Skill 5
+030A	亚当技能6	アダムスキル6	Adam SKill 6
+030B	空间杀法	空間殺法	Vorpal Blade
+030C	摩纳・龙司合体技	モナ・リュウジ合体技	Mona/Ryuji Unison Attack
+030D	摩纳・杏合体技	モナ・アン合体技	Mona/Ann Unison Attack
+030E	摩纳・春合体技	モナ・ハル合体技	Mona/Haru Unison Attack
+030F	佑介・杏合体技	ユウスケ・アン合体技	Yusuke/Ann Unison Attack
+0310	龙司・佑介合体技	リュウジユウスケ合体技	Ryuji/Yusuke Unison Attack
+0311	龙司・真合体技	リュウジ・マコト合体技	Ryuji/Makoto Unison Attack
+0312	主角・明智合体技	主人公・アケチ合体技	Protag/Akechi Unison Attack
+0313	真・春合体技	マコト・ハル合体技	Makoto/Haru Unison Attack
+0314	未使用:明智合体技	未使用:アケチ合体技	UNUSED: Akechi Unison Attack
+0315	主角・霞合体技	主人公・かすみ合体技	Protag/Kasumi Unison Attack
+0316	摩纳・龙司合体技	モナ・リュウジ合体技	Mona/Ryuji Unison Attack
+0317	摩纳・杏合体技	モナ・アン合体技	Mona/Ann Unison Attack
+0318	摩纳・春合体技	モナ・ハル合体技	Mona/Haru Unison Attack
+0319	佑介・杏合体技	ユウスケ・アン合体技	Yusuke/Ann Unison Attack
+031A	龙司・佑介合体技	リュウジユウスケ合体技	Ryuji/Yusuke Unison Attack
+031B	龙司・真合体技	リュウジ・マコト合体技	Ryuji/Makoto Unison Attack
+031C	主角・明智合体技	主人公・アケチ合体技	Protag/Akechi Unison Attack
+031D	真・春合体技	マコト・ハル合体技	Makoto/Haru Unison Attack
+031E	未使用:明智合体技	未使用:アケチ合体技	UNUSED: Akechi Unison Attack
+031F	主角・霞合体技	主人公・かすみ合体技	Protag/Kasumi Unison Attack
+0320	反击	カウンタ	Counter
+0321	重反击	ヘビーカウンタ	Counterstrike
+0322	超反击	ハイパーカウンタ	High Counter
+0323	燃烧耐性	炎上耐性	Resist Burn
+0324	燃烧无效	炎上無効	Null Burn
+0325	强忍	食いしばり	Endure
+0326	不屈斗志	不屈の闘志	Enduring Soul
+0327	冻结耐性	凍結耐性	Resist Freeze
+0328	冻结无效	凍結無効	Null Freeze
+0329	生还把戏	生還トリック	Survival Trick
+032A	火焰识破	火炎見切り	Dodge Fire
+032B	极・火焰识破	極・火炎見切り	Evade Fire
+032C	冰冻识破	氷結見切り	Dodge Ice
+032D	极・冰冻识破	極・氷結見切り	Evade Ice
+032E	疾风识破	疾風見切り	Dodge Wind
+032F	极・疾风识破	極・疾風見切り	Evade Wind
+0330	电击识破	電撃見切り	Dodge Elec
+0331	极・电击识破	極・電撃見切り	Evade Elec
+0332	物理识破	物理見切り	Dodge Phys
+0333	极・物理识破	極・物理見切り	Evade Phys
+0334	火焰强化	火炎ブースタ	Fire Boost
+0335	高级火焰强化	火炎ハイブースタ	Fire Amp
+0336	冰冻强化	氷結ブースタ	Ice Boost
+0337	高级冰冻强化	氷結ハイブースタ	Ice Amp
+0338	疾风强化	疾風ブースタ	Wind Boost
+0339	高级疾风强化	疾風ハイブースタ	Wind Amp
+033A	电击强化	電撃ブースタ	Elec Boost
+033B	高级电击强化	電撃ハイブースタ	Elec Amp
+033C	大天使的庇佑	大天使の加護	Angelic Grace
+033D	诸神庇佑	神々の加護	Divine Grace
+033E	小治愈促进	小治癒促進	Regenerate 1
+033F	中治愈促进	中治癒促進	Regenerate 2
+0340	大治愈促进	大治癒促進	Regenerate 3
+0341	祝福识破	祝福見切り	Dodge Bless
+0342	咒怨识破	呪怨見切り	Dodge Curse
+0343	小气功	小気功	Invigorate 1
+0344	中气功	中気功	Invigorate 2
+0345	大气气功	大気功	Invigorate 3
+0346	极.祝福识破	極・祝福見切り	Evade Bless
+0347	极.咒怨识破	極・呪怨見切り	Evade Curse
+0348	攻击诀窍	攻撃の心得	Attack Master
+0349	自动玛哈塔尔卡	マハタルカオート	Auto-Mataru
+034A	触电耐性	感電耐性	Resist Shock
+034B	防御诀窍	防御の心得	Defense Master
+034C	自动玛哈拉库卡	マハラクカオート	Auto-Maraku
+034D	触电无效	感電無効	Null Shock
+034E	敏捷诀窍	素早さの心得	Speed Master
+034F	自动玛哈斯库卡	マハスクカオート	Auto-Masuku
+0350	饥饿耐性	空腹耐性	Resist Hunger
+0351	饥饿无效	空腹無効	Null Hunger
+0352	急速恢复	急速回復	Fast Heal
+0353	瞬间恢复	瞬間回復	Insta-Heal
+0354	武道诀窍	武道の心得	Arms Master
+0355	魔术的资质	魔術の素養	Spell Master
+0356	狂怒时攻击力UP	激怒時攻擊力UP	Rage Atk Up
+0357	指导	コーチング	Sharp Student
+0358	建言	アドバイス	Apt Pupil
+0359	蚁之舞	アリ・ダンス	Ali Dance
+035A	不动如山	仁王立ち	Firm Stance
+035B	经验值1.5倍	経験值1.5倍	Plus 50% EXP
+035C	胜利气息	勝利の息吹	Life Aid
+035D	胜利咆哮	勝利の雄たけび	Victory Cry
+035E	初级成长	ローグロウ	Growth 1
+035F	中级成长	ミドルグロウ	Growth 2
+0360	高级成长	ハイグロウ	Growth 3
+0361	不动心	不動心	Unshaken Will
+0362	祝福即死无效	祝福即死無効	Null Bless Insta-kill
+0363	换手	バトンタッチ	Baton Pass
+0364	未使用灵魂接触	ソウルタッチ	Soul Touch
+0365	围崩	囲い崩し	Kakoi Kuzushi
+0366	火焰耐性	火炎耐性	Resist Fire
+0367	火焰无效	火炎無効	Null Fire
+0368	火焰反弹	火炎反射	Repel Fire
+0369	火焰吸收	火炎吸収	Drain Fire
+036A	咒怨即死无效	呪怨即死無効	Null Curse Insta-kill
+036B	冰冻耐性	氷結耐性	Resist Ice
+036C	冰冻无效	氷結無効	Null Ice
+036D	冰冻反弹	氷結反射	Repel Ice
+036E	冰冻吸收	氷結吸収	Drain Ice
+036F	经验值15%UP	経験值15％UP	Plus 15% EXP
+0370	疾风耐性	疾風耐性	Resist Wind
+0371	疾风无效	疾風無効	Null Wind
+0372	疾风反弹	疾風反射	Repel Wind
+0373	疾风吸收	疾風吸収	Drain Wind
+0374	总攻击威力UP	総攻撃威力UP	All-Out Attack Boost
+0375	电击耐性	電撃耐性	Resist Elec
+0376	电击无效	電撃無効	Null Elec
+0377	电击反弹	電撃反射	Repel Elec
+0378	电击吸收	電撃吸収	Drain Elec
+0379	获得金钱UP	入手金額UP	Money Boost
+037A	祝福耐性	祝福耐性	Resist Bless
+037B	祝福无效	祝福無効	Null Bless
+037C	祝福反弹	祝福反射	Repel Bless
+037D	祝福吸收	祝福吸収	Drain Bless
+037E	隐身术	隠れ身	Hide
+037F	咒怨耐性	呪怨耐性	Resist Curse
+0380	咒怨无效	呪怨無効	Null Curse
+0381	咒怨反弹	呪怨反射	Repel Curse
+0382	咒怨吸收	呪怨吸収	Drain Curse
+0383	肉体强化	生体ブースター	Life Boost
+0384	物理耐性	物理耐性	Resist Phys
+0385	物理无效	物理無効	Null Phys
+0386	物理反弹	物理反射	Repel Phys
+0387	物理吸收	物理吸収	Drain Phys
+0388	祝福咒怨无效	祝福呪怨無効	Null Bless/Curse
+0389	异常状态成功率UP	状態異常成功率アップ	Ailment Boost
+038A	哈玛成功率UP	ハマ成功率アップ	Hama Boost
+038B	姆多成功率UP	ムド成功率アップ	Mudo Boost
+038C	枪击命中率5%UP	銃撃命中率5％UP	Gun Accuracy Plus 5%
+038D	武士诀窍	サムライの心得	Samurai Spirit
+038E	晕眩概率UP	目眩率アップ	Dizzy Boost
+038F	混乱概率UP	混乱率アップ	Confuse Boost
+0390	恐惧概率UP	恐怖率アップ	Fear Boost
+0391	遗忘概率UP	忘却率アップ	Forget Boost
+0392	睡眠概率UP	睡眠率アップ	Sleep Boost
+0393	狂怒概率UP	激怒率アップ	Rage Boost
+0394	绝望概率UP	絶望率アップ	Despair Boost
+0395	葛叶的勋章	葛葉の勲章	Kuzunoha Emblem
+0396	洗脑概率UP	洗脳率アップ	Brainwash Boost
+0397	暴击率大UP	クリティカル率大UP	Critical Rate Up (High)
+0398	晕眩耐性	目眩耐性	Resist Dizzy
+0399	混乱耐性	混乱耐性	Resist Confuse
+039A	恐惧耐性	恐怖耐性	Resist Fear
+039B	遗忘耐性	忘却耐性	Resist Forget
+039C	睡眠耐性	睡眠耐性	Resist Sleep
+039D	狂怒耐性	激怒耐性	Resist Rage
+039E	绝望耐性	絶望耐性	Resist Despair
+039F	合体意外发生率UP	合体事故率UP	Fusion Accident Up
+03A0	洗脑耐性	洗脳耐性	Resist Brainwash
+03A1	魔王的境界	魔王の境地	Tyrant's Mind
+03A2	晕眩无效	目眩無効	Null Dizzy
+03A3	混乱无效	混乱無効	Null Confuse
+03A4	恐惧无效	恐怖無効	Null Fear
+03A5	遗忘无效	忘却無効	Null Forget
+03A6	睡眠无效	睡眠無効	Null Sleep
+03A7	狂怒无效	激怒無効	Null Rage
+03A8	绝望无效	絶望無効	Null Despair
+03A9	圣母的细语	聖母の囁き	Holy Whisper
+03AA	洗脑无效	洗脳無効	Null Brainwash
+03AB	圣母的拥抱	聖母の抱擁	Holy Embrace
+03AC	燃烧概率UP	炎上率アップ	Burn Boost
+03AD	冻结概率UP	凍結率アップ	Freeze Boost
+03AE	触电概率UP	感電率アップ	Shock Boost
+03AF	空栏	ブランク	BLANK
+03B0	高压电流	ハイボルテージ	Fortified Moxy
+03B1	逆境的觉悟	逆境の覚悟	Adverse Resolve
+03B2	背水一战	背水の陣	Last Stand
+03B3	亢奋	ヒートアップ	Heat Up
+03B4	空栏	ブランク	BLANK
+03B5	一触即发	タッチアンドゴー	Touch n' Go
+03B6	雨歌	雨に唄えば	Climate Decorum
+03B7	天公不作美	浮かない空	Ambient Aid
+03B8	预备栏	予備枠	RESERVE
+03B9	枪击强化	銃撃ブースター	Snipe
+03BA	高级枪击强化	銃撃ハイブースター	Cripple
+03BB	枪弹狂热	トリガーハッピー	Trigger Happy
+03BC	核热耐性	核熱耐性	Resist Nuke
+03BD	核热无效	核熱無効	Null Nuke
+03BE	核热反弹	核熱反射	Repel Nuke
+03BF	核热吸收	核熱吸収	Drain Nuke
+03C0	预备栏	予備枠	RESERVE
+03C1	念动耐性	念動耐性	Resist Psy
+03C2	念动无效	念動無効	Null Psy
+03C3	念动反弹	念動反射	Repel Psy
+03C4	念动吸收	念動吸収	Drain Psy
+03C5	预备栏	予備枠	RESERVE
+03C6	核热强化	核熱ブースタ	Nuke Boost
+03C7	高级核热强化	核熱ハイブースタ	Nuke Amp
+03C8	预备栏	予備枠	RESERVE
+03C9	念动强化	念動ブースタ	Psy Boost
+03CA	高级念动强化	念動ハイブースタ	Psy Amp
+03CB	色诱术	悩殺術	Sexy Technique
+03CC	核热识破	核熱見切り	Dodge Nuke
+03CD	极・核热识破	極・核熱見切り	Evade Nuke
+03CE	心灵排毒	デトックス	Detox
+03CF	念动识破	念動見切り	Dodge Psy
+03D0	极・念动识破	極・念動見切り	Evade Psy
+03D1	心灵排毒	デトックス	Detox
+03D2	祝福强化	祝福ブースタ	Bless Boost
+03D3	高级祝福强化	祝福ハイブースタ	Bless Amp
+03D4	预备栏	予備枠	RESERVE
+03D5	咒怨强化	呪怨ブースタ	Curse Boost
+03D6	高级咒怨强化	呪怨ハイブースタ	Curse Amp
+03D7	不会被敌人发现	敵に見つからない	Not Found By Enemy
+03D8	魔导才能	魔導の才能	Magic Ability
+03D9	精神耐性	精神耐性	Fortify Spirit
+03DA	万能强化	万能ブースタ	Almighty Boost
+03DB	高级万能强化	万能ハイブースタ	Almighty Amp
+03DC	歼灭一切	フルデストロイア	Zenith Defense
+03DD	灵魂连结	ソウルチェイン	Soul Chain
+03DE	虚荣的复制	虚飾の複製(仮)	Vanity Copy
+03DF	暴食鼻烟壶(暂定)	暴食スナッフ(仮)	Gluttonous Snuff
+03E0	怠惰的防御	怠惰の防御(仮)	Sloth Defense
+03E1	虚荣的赝画	虚飾の偽画	Brush Of Vanity
+03E2	四分活泉	四分の活泉	Life Rise
+03E3	四分魔脉	四分の魔脉	Mana Rise
+03E4	灵魂接触	ソウルタッチ	Soul Touch
+03E5	胜利咆哮	勝利の呼び声	Victory Cry
+03E6	特性DLC强忍用	特性DLC食いしばり用	Trait DLC for Bitedown
+03E7	空栏	ブランク	BLANK
+03E8	对异常状态伤害UP	状態異常にダメージUP	Ailment Effect Up
+03E9	对异常状态伤害大UP	状態異常にダメージ大UP	Ailment Effect Up +
+03EA	造成即死时SP少量恢复	即死させるとSP小回復	Instakil SP Heal Low
+03EB	造成即死时SP中量恢复	即死させるとSP中回復	Instakil SP Heal Mid
+03EC	造成即死时SP大量恢复	即死させるとSP大回復	Instakil SP Heal High
+03ED	TECHNICAL时威力UP	テクニカル時威力UP	Technical Effect Up
+03EE	TECHNICAL时威力大UP	テクニカル時威力大UP	Technical Effect Up +
+03EF	濒死时攻击UP	瀕死時攻撃UP	Low HP Attack Up
+03F0	濒死时攻击大UP	瀕死時攻撃大UP	Low HP Attack Up +
+03F1	WEAK时威力UP	WEAK時威力UP	WEAK Hit Effect Up
+03F2	WEAK时威力大UP	WEAK時威力大UP	WEAK Hit Effect Up +
+03F3	即死无效	即死無効	Null Insta-kill
+03F4	HP消耗减少10%	HPコスト10％減	HP Cost Down 10%
+03F5	HP消耗减少25%	HPコスト25％減	HP Cost Down 25%
+03F6	SP消耗减少10%	SPコスト10％減	SP Cost Down 10%
+03F7	SP消耗减少25%	SPコスト10％減	SP Cost Down 25%
+03F8	恢复魔法效果10%UP	回復魔法効果10％UP	Heal Magic Up 10%
+03F9	恢复魔法效果25%UP	回復魔法効果25％UP	Heal Magic Up 25%
+03FA	偶尔发生HP零消耗	稀にHPコストゼロ	Chance of 0 HP cost
+03FB	偶尔发生SP零消耗	稀にSPコストゼロ	Chance of 0 SP cost
+03FC	单体攻击时威力UP	単体攻撃時威力UP	Target ATK up
+03FD	单体攻击时威力大UP	単体攻撃時威力大UP	Target ATK up +
+03FE	攻击必中但失去回避能力	必中になるが回避不可	All Crits, No evasion
+03FF	恢复消耗减少25%	回復コスト25％減	Heal Cost Down 25%
+0400	恢复消耗减少10%	回復コスト10％減	Heal Cost Down 10%
+0401	物理命中减半威力加倍	物理命中半分威力倍	ATK Up, Aim Down
+0402	异常状态成功率小UP	状態異常成功率小UP	Ailment Success Up
+0403	空栏	ブランク	BLANK
+0404	拥有4属性时威力大UP	4属性揃うと威力大UP	4-Affinity Boost
+0405	拥有3属性时威力大UP	3属性揃うと威力大UP	3-Affinity Light Boost
+0406	辅助回合数延长	補助ターン数延長	Support Turn Extend
+0407	即死概率UP	即死確率UP	Insta-kill Up
+0408	即死概率大UP	即死確率大UP	Insta-kill Up +
+0409	一分活泉	一分の活泉	Life Bonus
+040A	二分活泉	二分の活泉	Life Gain
+040B	三分活泉	三分の活泉	Life Surge
+040C	一分魔脉	一分の魔脉	Mana Bonus
+040D	二分魔脉	二分の魔脉	Mana Gain
+040E	三分魔脉	三分の魔脉	Mana Surge
+040F	暴击威力UP	クリティカル威力UP	Critical Effect Up
+0410	暴击威力大UP	クリティカル威力大UP	Critical Effect Up +
+0411	承受伤害加倍	被ダメージ倍加	Hit Damage Doubled
+0412	全体攻击时威力UP	全体攻撃時威力UP	All Target ATK up
+0413	全体攻击时威力大UP	全体攻撃時威力大UP	All Target ATK up +
+0414	自动护罩	オートバリア	Auto Barrier
+0415	情报支援	情報支援	Backup Support
+0416	绝对逃脱	絶対逃走	Absolute Escape
+0417	忠诚之盾	忠誠の盾	Shield of Loyalty
+0418	高级全属性强化	全属性ハイブースタ	All Amp
+0419	空栏	ブランク	BLANK
