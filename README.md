@@ -7,7 +7,6 @@ Address structure is common to all platforms
 ### ALL Items ID
 [P5R ItemsID.xlsx](https://github.com/Ruimusume/P5R/raw/main/P5R%20ItemsID.xlsx)<br>
 The cheat codes in the table are universal in all Switch versions.<br>
-HEX Range：0~19FF<br>
 
 <hr>
 
