@@ -1,0 +1,301 @@
+Hex	名称	JP_NAME	EN_NAME
+0000			
+0001	RESERVE	リザーブ	RESERVE
+0002	RESERVE	リザーブ	RESERVE
+0003	RESERVE	リザーブ	RESERVE
+0004	RESERVE	リザーブ	RESERVE
+0005	RESERVE	リザーブ	RESERVE
+0006	穷追的本性	深追いの気質	Relentless
+0007	RESERVE	リザーブ	RESERVE
+0008	RESERVE	リザーブ	RESERVE
+0009	救星的血统	救い手の血統	Saviour Bloodline
+000A	地母神的恩惠	母なる神の恵み	Grace of Mother
+000B	RESERVE	リザーブ	RESERVE
+000C	RESERVE	リザーブ	RESERVE
+000D	RESERVE	リザーブ	RESERVE
+000E	支援的血统	支援の血統	Relief Bloodline
+000F	圣母颂	アヴェマリア	Ave Maria
+0010	RESERVE	リザーブ	RESERVE
+0011	沉静灵气	淀みきったオーラ	Foul Stench
+0012	RESERVE	リザーブ	RESERVE
+0013	RESERVE	リザーブ	RESERVE
+0014	RESERVE	リザーブ	RESERVE
+0015	RESERVE	リザーブ	RESERVE
+0016	祸不单行的带电体质	追い撃つ帯電体質	Static Electricity
+0017	秽灵的巢穴	汚れた霊の巣窟	Ghost Nest
+0018	冷血追踪者	後追いする冷血	Cold-Blooded
+0019	RESERVE	リザーブ	RESERVE
+001A	RESERVE	リザーブ	RESERVE
+001B	RESERVE	リザーブ	RESERVE
+001C	RESERVE	リザーブ	RESERVE
+001D	RESERVE	リザーブ	RESERVE
+001E	智慧的诱惑	知恵の誘惑	Allure of Wisdom
+001F	RESERVE	リザーブ	RESERVE
+0020	RESERVE	リザーブ	RESERVE
+0021	RESERVE	リザーブ	RESERVE
+0022	RESERVE	リザーブ	RESERVE
+0023	RESERVE	リザーブ	RESERVE
+0024	RESERVE	リザーブ	RESERVE
+0025	RESERVE	リザーブ	RESERVE
+0026	暴怒的公牛	逆上の雄牛	Frenzied Bull
+0027	RESERVE	リザーブ	RESERVE
+0028	RESERVE	リザーブ	RESERVE
+0029	RESERVE	リザーブ	RESERVE
+002A	RESERVE	リザーブ	RESERVE
+002B	RESERVE	リザーブ	RESERVE
+002C	RESERVE	リザーブ	RESERVE
+002D	RESERVE	リザーブ	RESERVE
+002E	个别集中的眼神	各個集中の眼差し	Intense Focus
+002F	RESERVE	リザーブ	RESERVE
+0030	RESERVE	リザーブ	RESERVE
+0031	RESERVE	リザーブ	RESERVE
+0032	RESERVE	リザーブ	RESERVE
+0033	RESERVE	リザーブ	RESERVE
+0034	RESERVE	リザーブ	RESERVE
+0035	RESERVE	リザーブ	RESERVE
+0036	万夫莫敌的眼神	一騎当千の眼差し	Mighty Gaze
+0037	RESERVE	リザーブ	RESERVE
+0038	RESERVE	リザーブ	RESERVE
+0039	超乎常理的重量	型破りの重量	Striking Weight
+003A	究极不灭的怒发冲冠	究極の怒髪天	Undying Fury
+003B	RESERVE	リザーブ	RESERVE
+003C	RESERVE	リザーブ	RESERVE
+003D	RESERVE	リザーブ	RESERVE
+003E	报复的身躯	報復する肉体	Retaliating Body
+003F	不容侵犯的美貌	不可視の美貌	Inviolable Beauty
+0040	RESERVE	リザーブ	RESERVE
+0041	异常的魅力	異端の魅力	Pagan Allure
+0042	RESERVE	リザーブ	RESERVE
+0043	RESERVE	リザーブ	RESERVE
+0044	RESERVE	リザーブ	RESERVE
+0045	RESERVE	リザーブ	RESERVE
+0046	卓越的抗体	並外れた抗体	Rare Antibody
+0047	铁壁的抗体	鉄壁の抗体	Immunity
+0048	RESERVE	リザーブ	RESERVE
+0049	连锁诡计	連鎖の手管	Skilful Combo
+004A	相连的血脉	繋がれし血脈	Linked Bloodline
+004B	RESERVE	リザーブ	RESERVE
+004C	RESERVE	リザーブ	RESERVE
+004D	RESERVE	リザーブ	RESERVE
+004E	传染性闷臭	伝染する淀み臭	Foul Odor
+004F	导热的指尖	指先からの熱伝導	Thermal Conduct
+0050	RESERVE	リザーブ	RESERVE
+0051	RESERVE	リザーブ	RESERVE
+0052	RESERVE	リザーブ	RESERVE
+0053	RESERVE	リザーブ	RESERVE
+0054	RESERVE	リザーブ	RESERVE
+0055	RESERVE	リザーブ	RESERVE
+0056	逆转的王牌	背水のアンカー	Pinch Anchor
+0057	松的生命力	松の生命力	Vitality of the Tree
+0058	坏天气的宠儿	悪天候の申し子	Gloomy Child
+0059	RESERVE	リザーブ	RESERVE
+005A	RESERVE	リザーブ	RESERVE
+005B	RESERVE	リザーブ	RESERVE
+005C	RESERVE	リザーブ	RESERVE
+005D	RESERVE	リザーブ	RESERVE
+005E	巧妙诡计	妙技の手管	Skillful Technique
+005F	森罗万象的真理	森羅万象の理	Universal Law
+0060	RESERVE	リザーブ	RESERVE
+0061	瘟疫之瞳	パンデミックの瞳	Ailment Hunter
+0062	虚无的小丑	虚無の道化師	Hollow Jester
+0063	RESERVE	リザーブ	RESERVE
+0064	RESERVE	リザーブ	RESERVE
+0065	RESERVE	リザーブ	RESERVE
+0066	致命绝症	断罪の宣告者	Deathly lIness
+0067	断罪宣告者	断罪の宣告者	Omen
+0068	RESERVE	リザーブ	RESERVE
+0069	RESERVE	リザーブ	RESERVE
+006A	RESERVE	リザーブ	RESERVE
+006B	RESERVE	リザーブ	RESERVE
+006C	RESERVE	リザーブ	RESERVE
+006D	RESERVE	リザーブ	RESERVE
+006E	RESERVE	リザーブ	RESERVE
+006F	RESERVE	リザーブ	RESERVE
+0070	RESERVE	リザーブ	RESERVE
+0071	RESERVE	リザーブ	RESERVE
+0072	RESERVE	リザーブ	RESERVE
+0073	RESERVE	リザーブ	RESERVE
+0074	RESERVE	リザーブ	RESERVE
+0075	RESERVE	リザーブ	RESERVE
+0076	RESERVE	リザーブ	RESERVE
+0077	RESERVE	リザーブ	RESERVE
+0078	RESERVE	リザーブ	RESERVE
+0079	RESERVE	リザーブ	RESERVE
+007A	RESERVE	リザーブ	RESERVE
+007B	RESERVE	リザーブ	RESERVE
+007C	RESERVE	リザーブ	RESERVE
+007D	RESERVE	リザーブ	RESERVE
+007E	RESERVE	リザーブ	RESERVE
+007F	RESERVE	リザーブ	RESERVE
+0080	RESERVE	リザーブ	RESERVE
+0081	奔腾的运算力	はじける演算力	Explosive Scheme
+0082	RESERVE	リザーブ	RESERVE
+0083	高深莫测的运算力	底しれぬ演算力	Infinite Scheme
+0084	狂暴天性	荒ぶる気性	Raging Temper
+0085	空前绝后的天性	破天荒の気性	Eccentric Temper
+0086	RESERVE	リザーブ	RESERVE
+0087	清高的风范	気高き風格	Proud Presence
+0088	威风凛凛的风范	威風堂々の風格	Majestic Presence
+0089	RESERVE	リザーブ	RESERVE
+008A	魔性的精髓	魔性の極意	Mastery of Magic
+008B	魔性的极致	魔性の極致	Pinnacle of Magic
+008C	RESERVE	リザーブ	RESERVE
+008D	恶棍的眼力	無類の眼力	Scoundrel Eyes
+008E	国士无双的眼力	国士無双の眼力	Unparalleled Eyes
+008F	RESERVE	リザーブ	RESERVE
+0090	万物的安排	万物のはからい	Gaia Pact
+0091	万物的恩宠	万物の恩寵	Gaia Blessing
+0092	RESERVE	リザーブ	RESERVE
+0093	冷酷的本性	冷徹な気質	Icy Glare
+0094	泰然自若的本性	泰然自若の気質	Cool Customer
+0095	RESERVE	リザーブ	RESERVE
+0096	军师的气魄	策士の気概	Tactical Spirit
+0097	谋略的气魄	謀略の気概	Ingenious Spirit
+0098	足智多谋的气魄	機略縦横の気概	Flawless Spirit
+0099	深夜的面纱	真夜中のベール	Veil of Midnight
+009A	黎明的面纱	夜明けのベール	Veil of Sunrise
+009B	RESERVE	リザーブ	RESERVE
+009C	拜火的血统	拝火の血統	Heated Bloodline
+009D	必至酩酊的热情	酩酊必死の情熱	Drunken Passion
+009E	冰寒的血统	凍てつく血統	Frigid Bloodline
+009F	悲叹冥河	コキュートス	Cocytus
+00A0	召雷的血统	雷呼びの血統	Electric Bloodline
+00A1	狩猎月的预感	狩猟月の予感	Bargain Bolts
+00A2	流浪的血统	風来の血統	Wind Bloodline
+00A3	神之坐骑的振翅	ヴァーハナの羽ばたき	Vahana's Wings
+00A4	念视的血统	念視の血統	Psychic Bloodline
+00A5	兵主神的异能	兵主神の異能	Chi You's Blessing
+00A6	热病的血统	熱病みの血統	Atomic Bloodline
+00A7	炽热的修罗道	灼熱の修羅道	Atomic Hellscape
+00A8	被祝福的血统	祝福された血統	Blessed Bloodline
+00A9	代理人的恩惠	代理人の恩恵	Martyr's Gift
+00AA	被诅咒的血统	呪われた血統	Cursed Bloodline
+00AB	丰穰神的冤屈	豊穣神の無念	Mother's Lament
+00AC	RESERVE	リザーブ	RESERVE
+00AD	贪吃的嘴巴	貧食の口先	Gluttonmouth
+00AE	鬼的一口	鬼の一口	Demon's Bite
+00AF	品尝的嘴巴	味わいの口先	Mouth of Savoring
+00B0	雌雄同体	ナーラーナーリー	Naranari
+00B1	被圣别的灵魂	聖別された魂	Hallowed Spirit
+00B2	卓越的暗示力	卓越した暗示力	Potent Hypnosis
+00B3	莲华带来的富贵	蓮華がもたらす富	Wealth of Lotus
+00B4	无与伦比的自我暗示力	無類の自己暗示力	Internal Hypnosis
+00B5	良善思维	善い思考	Positive Thoughts
+00B6	汲取殆尽的嘴色	吸い尽くす口先	Draining Mouth
+00B7	RESERVE	リザーブ	RESERVE
+00B8	最快捷径的导引	最小手への誘い	Tag Team
+00B9	钢铁之心	鉄の心臓	Iron Heart
+00BA	天性的危机管理	天性の危機管理	Crisis Control
+00BB	沾满鲜血的双瞳	血塗られた瞳	Bloodstained Eyes
+00BC	剑神的意念	剣神の念	Will of the Sword
+00BD	RESERVE	リザーブ	RESERVE
+00BE	悲痛的轮回	悲しみの輪	Circle of Sadness
+00BF	桂的由来	桂の由来	Bolstering Force
+00C0	如造神之举	神産みが如き業	God Maker
+00C1	无形的存在感	無形の存在感	Hazy Presence
+00C2	如创国之举	国産みが如き業	Country Maker
+00C3	橄榄的庇佑	オリーブの加護	Grace of the Olive
+00C4	快去死吧	はやくしんでよ	Just Die
+00C5	被圣别的灵魂	聖別された魂	Blessed Spirit
+00C6	RESERVE	リザーブ	RESERVE
+00C7	RESERVE	リザーブ	RESERVE
+00C8	RESERVE	リザーブ	RESERVE
+00C9	RESERVE	リザーブ	RESERVE
+00CA	RESERVE	リザーブ	RESERVE
+00CB	RESERVE	リザーブ	RESERVE
+00CC	RESERVE	リザーブ	RESERVE
+00CD	RESERVE	リザーブ	RESERVE
+00CE	RESERVE	リザーブ	RESERVE
+00CF	RESERVE	リザーブ	RESERVE
+00D0	RESERVE	リザーブ	RESERVE
+00D1	RESERVE	リザーブ	RESERVE
+00D2	RESERVE	リザーブ	RESERVE
+00D3	RESERVE	リザーブ	RESERVE
+00D4	RESERVE	リザーブ	RESERVE
+00D5	RESERVE	リザーブ	RESERVE
+00D6	RESERVE	リザーブ	RESERVE
+00D7	RESERVE	リザーブ	RESERVE
+00D8	RESERVE	リザーブ	RESERVE
+00D9	RESERVE	リザーブ	RESERVE
+00DA	RESERVE	リザーブ	RESERVE
+00DB	RESERVE	リザーブ	RESERVE
+00DC	RESERVE	リザーブ	RESERVE
+00DD	RESERVE	リザーブ	RESERVE
+00DE	RESERVE	リザーブ	RESERVE
+00DF	RESERVE	リザーブ	RESERVE
+00E0	RESERVE	リザーブ	RESERVE
+00E1	RESERVE	リザーブ	RESERVE
+00E2	RESERVE	リザーブ	RESERVE
+00E3	RESERVE	リザーブ	RESERVE
+00E4	RESERVE	リザーブ	RESERVE
+00E5	RESERVE	リザーブ	RESERVE
+00E6	RESERVE	リザーブ	RESERVE
+00E7	RESERVE	リザーブ	RESERVE
+00E8	RESERVE	リザーブ	RESERVE
+00E9	RESERVE	リザーブ	RESERVE
+00EA	RESERVE	リザーブ	RESERVE
+00EB	RESERVE	リザーブ	RESERVE
+00EC	RESERVE	リザーブ	RESERVE
+00ED	RESERVE	リザーブ	RESERVE
+00EE	RESERVE	リザーブ	RESERVE
+00EF	RESERVE	リザーブ	RESERVE
+00F0	RESERVE	リザーブ	RESERVE
+00F1	RESERVE	リザーブ	RESERVE
+00F2	RESERVE	リザーブ	RESERVE
+00F3	RESERVE	リザーブ	RESERVE
+00F4	RESERVE	リザーブ	RESERVE
+00F5	RESERVE	リザーブ	RESERVE
+00F6	RESERVE	リザーブ	RESERVE
+00F7	RESERVE	リザーブ	RESERVE
+00F8	RESERVE	リザーブ	RESERVE
+00F9	RESERVE	リザーブ	RESERVE
+00FA	RESERVE	リザーブ	RESERVE
+00FB	RESERVE	リザーブ	RESERVE
+00FC	RESERVE	リザーブ	RESERVE
+00FD	RESERVE	リザーブ	RESERVE
+00FE	RESERVE	リザーブ	RESERVE
+00FF	RESERVE	リザーブ	RESERVE
+0100	RESERVE	リザーブ	RESERVE
+0101	RESERVE	リザーブ	RESERVE
+0102	RESERVE	リザーブ	RESERVE
+0103	RESERVE	リザーブ	RESERVE
+0104	RESERVE	リザーブ	RESERVE
+0105	RESERVE	リザーブ	RESERVE
+0106	RESERVE	リザーブ	RESERVE
+0107	RESERVE	リザーブ	RESERVE
+0108	RESERVE	リザーブ	RESERVE
+0109	RESERVE	リザーブ	RESERVE
+010A	RESERVE	リザーブ	RESERVE
+010B	RESERVE	リザーブ	RESERVE
+010C	RESERVE	リザーブ	RESERVE
+010D	RESERVE	リザーブ	RESERVE
+010E	RESERVE	リザーブ	RESERVE
+010F	RESERVE	リザーブ	RESERVE
+0110	RESERVE	リザーブ	RESERVE
+0111	RESERVE	リザーブ	RESERVE
+0112	RESERVE	リザーブ	RESERVE
+0113	RESERVE	リザーブ	RESERVE
+0114	RESERVE	リザーブ	RESERVE
+0115	RESERVE	リザーブ	RESERVE
+0116	RESERVE	リザーブ	RESERVE
+0117	RESERVE	リザーブ	RESERVE
+0118	RESERVE	リザーブ	RESERVE
+0119	极致的英才	至極の大器	Ultimate Vessel
+011A	极致的英才	至極の大器	Ultimate Vessel
+011B	极致的英才	至極の大器	Ultimate Vessel
+011C	极致的英才	至極の大器	Ultimate Vessel
+011D	极致的英才	至極の大器	Ultimate Vessel
+011E	极致的英才	至極の大器	Ultimate Vessel
+011F	极致的英才	至極の大器	Ultimate Vessel
+0120	极致的英才	至極の大器	Ultimate Vessel
+0121	极致的英才	至極の大器	Ultimate Vessel
+0122	RESERVE	リザーブ	RESERVE
+0123	RESERVE	リザーブ	RESERVE
+0124	RESERVE	リザーブ	RESERVE
+0125	RESERVE	リザーブ	RESERVE
+0126	RESERVE	リザーブ	RESERVE
+0127	RESERVE	リザーブ	RESERVE
+0128	RESERVE	リザーブ	RESERVE
+0129	RESERVE	リザーブ	RESERVE
+012A	RESERVE	リザーブ	RESERVE
+012B	RESERVE	リザーブ	RESERVE
