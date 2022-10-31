@@ -11,7 +11,7 @@ The cheat codes in the table are universal in all Switch versions.<br>
 ### Data Exclusion&Recording Tools
 https://github.com/tomvita/Noexes
 
-### Reference & Support
+### Reference & Support by DaVinci030
 https://fearlessrevolution.com/viewtopic.php?f=4&t=21800
 <hr>
 by 露易娘 Ruimusume</br>
