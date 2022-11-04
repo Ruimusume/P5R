@@ -12,7 +12,10 @@ The cheat codes in the table are universal in all Switch versions.<br>
 https://github.com/tomvita/Noexes
 
 ### Reference & Support by DaVinci030
-https://fearlessrevolution.com/viewtopic.php?f=4&t=21800
+https://fearlessrevolution.com/viewtopic.php?f=4&t=21800<br>
+<br>
+Cheat Engine Tables Simplified Chinese Downloader<br>
+https://github.com/Ruimusume/P5R/releases/tag/chs
 <hr>
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
