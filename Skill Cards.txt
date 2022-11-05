@@ -1,370 +1,402 @@
-基址	名称
-main+02271E55	亚基
-main+02271E56	亚基拉欧
-main+02271E57	亚基达因
-main+02271E58	玛哈拉基
-main+02271E59	玛哈拉基翁
-main+02271E5A	玛哈拉基达因
-main+02271E5B	布芙
-main+02271E5C	布芙拉
-main+02271E5D	布芙达因
-main+02271E5E	玛哈布芙
-main+02271E5F	玛哈布芙拉
-main+02271E60	玛哈布芙达因
-main+02271E61	加尔
-main+02271E62	加尔拉
-main+02271E63	加尔达因
-main+02271E64	玛哈加尔
-main+02271E65	玛哈加尔拉,
-main+02271E66	玛哈加尔达因
-main+02271E67	吉欧
-main+02271E68	吉欧加
-main+02271E69	吉欧达因
-main+02271E6A	玛哈吉欧
-main+02271E6B	玛哈吉欧加
-main+02271E6C	玛哈吉欧达因
-main+02271E6D	哈玛
-main+02271E6E	哈玛翁
-main+02271E6F	玛翰玛
-main+02271E70	玛翰玛翁
-main+02271E71	克哈
-main+02271E72	克加
-main+02271E73	克加翁
-main+02271E74	玛哈克哈
-main+02271E75	玛哈克加
-main+02271E76	玛哈克加翁
-main+02271E77	姆多
-main+02271E78	姆多翁
-main+02271E79	玛哈姆多
-main+02271E7A	玛哈姆多翁
-main+02271E7B	耶哈
-main+02271E7C	耶加
-main+02271E7D	耶加翁
-main+02271E7E	玛哈耶哈
-main+02271E7F	玛哈耶加
-main+02271E80	玛哈耶加翁
-main+02271E81	米吉多
-main+02271E82	米吉多拉
-main+02271E83	米吉多拉翁
-main+02271E84	芙雷
-main+02271E85	芙雷拉
-main+02271E86	芙雷达因
-main+02271E87	玛哈芙雷
-main+02271E88	玛哈芙雷拉
-main+02271E89	玛哈芙雷达因
-main+02271E8A	致盲
-main+02271E8B	黑夜闪光
-main+02271E8C	普林帕
-main+02271E8D	颠塔拉弗
-main+02271E8E	恶魔之触
-main+02271E8F	恶魔微笑
-main+02271E90	玛卡加玛
-main+02271E91	玛卡加玛翁
-main+02271E92	饥饿气息
-main+02271E93	饥饿吼叫
-main+02271E94	永眠
-main+02271E95	摇篮曲
-main+02271E96	挑衅
-main+02271E97	宣战宣言
-main+02271E98	不吉的话语
-main+02271E99	深渊的波动
-main+02271E9A	马琳卡琳
-main+02271E9B	精神污染
-main+02271E9C	吸血
-main+02271E9D	吸魔
-main+02271E9E	袋中鼠
-main+02271E9F	自爆
-main+02271EA0	自爆
-main+02271EA1	自爆
-main+02271EA2	强力吸血
-main+02271EA3	强力吸魔
-main+02271EA4	污秽吐息
-main+02271EA5	污秽空气
-main+02271EA6	亡者喟叹
-main+02271EA7	炼狱
-main+02271EA8	大燃烧
-main+02271EA9	钻石星尘
-main+02271EAA	大冰河时期
-main+02271EAB	万物流转
-main+02271EAC	真空波
-main+02271EAD	真理之雷
-main+02271EAE	崇高圣战
-main+02271EAF	神之审判
-main+02271EB0	回转讲道
-main+02271EB1	恶魔审判
-main+02271EB2	可以为我而死吗?
-main+02271EB3	原子火焰
-main+02271EB4	宇宙火焰
-main+02271EB5	漆黑之蛇
-main+02271EB6	拂晓明星
-main+02271EB7	赛
-main+02271EB8	赛欧
-main+02271EB9	赛达因
-main+02271EBA	玛哈赛
-main+02271EBB	玛哈赛欧
-main+02271EBC	玛哈赛达因
-main+02271EBD	念动波
-main+02271EBE	念动力
-main+02271EBF	突击
-main+02271EC0	俯冲突击
-main+02271EC1	百万吨袭击
-main+02271EC2	神之手
-main+02271EC3	幸运拳
-main+02271EC4	奇迹拳
-main+02271EC5	斩击
-main+02271EC6	大斩断
-main+02271EC7	勇气之击
-main+02271EC8	剑之舞
-main+02271EC9	八艘跳跃
-main+02271ECA	巴力神矛
-main+02271ECB	穷鼠之牙
-main+02271ECC	加倍斩击
-main+02271ECD	死亡游戏
-main+02271ECE	指弹
-main+02271ECF	三连倒
-main+02271ED0	一枪毙命
-main+02271ED1	至高魔弹
-main+02271ED2	金刚发破
-main+02271ED3	空间杀法
-main+02271ED4	烈风波
-main+02271ED5	灼热波浪
-main+02271ED6	巨人之战
-main+02271ED7	横冲直撞
-main+02271ED8	电光石火
-main+02271ED9	死亡界限
-main+02271EDA	火神之击
-main+02271EDB	二连牙
-main+02271EDC	五月雨斩
-main+02271EDD	刹那五月雨斩
-main+02271EDE	烈击巨锤
-main+02271EDF	倒栽痛击
-main+02271EE0	骇鸦
-main+02271EE1	头锤
-main+02271EE2	胃部拳击
-main+02271EE3	织梦针
-main+02271EE4	歇斯底里掌掴
-main+02271EE5	负面意识堆栈
-main+02271EE6	头脑震撼
-main+02271EE7	闪光炸弹
-main+02271EE8	心念切断
-main+02271EE9	血祭
-main+02271EEA	忘杀突袭
-main+02271EEB	无穷饥渴
-main+02271EEC	永眠突袭
-main+02271EED	鬼神乐
-main+02271EEE	绝望敲打
-main+02271EEF	碎脑击
-main+02271EF0	迪亚
-main+02271EF1	迪亚拉玛
-main+02271EF2	迪亚拉翰
-main+02271EF3	梅迪亚
-main+02271EF4	梅迪拉玛
-main+02271EF5	梅迪亚拉翰
-main+02271EF6	利卡姆
-main+02271EF7	萨玛利卡姆
-main+02271EF8	利卡姆多拉
-main+02271EF9	甘露水滴
-main+02271EFA	甘露之雨
-main+02271EFB	玛哈拜斯堤
-main+02271EFC	救世主之愈
-main+02271EFD	帕特拉
-main+02271EFE	能量浴
-main+02271EFF	能量水滴
-main+02271F00	拜斯堤
-main+02271F01	梅帕特拉
-main+02271F02	塔尔卡加
-main+02271F03	拉库卡加
-main+02271F04	斯库卡加
-main+02271F05	灼热奋起
-main+02271F06	玛哈塔尔卡加
-main+02271F07	玛哈拉库卡加
-main+02271F08	玛哈斯库卡加
-main+02271F09	炽热之门
-main+02271F0A	塔伦达
-main+02271F0B	拉坤达
-main+02271F0C	斯坤达
-main+02271F0D	女巫诅咒
-main+02271F0E	玛哈塔伦达
-main+02271F0F	玛哈拉坤达
-main+02271F10	玛哈斯坤达
-main+02271F11	迪坤达
-main+02271F12	迪卡加
-main+02271F13	蓄力
-main+02271F14	专心致志
-main+02271F15	反叛
-main+02271F16	革命
-main+02271F17	提特拉康
-main+02271F18	玛卡拉康
-main+02271F19	提特拉加
-main+02271F1A	提特拉破坏
-main+02271F1B	玛卡拉破坏
-main+02271F1C	防炎之壁
-main+02271F1D	防冰之壁
-main+02271F1E	防电之壁
-main+02271F1F	防岚之壁
-main+02271F20	消除火焰防御
-main+02271F21	消除冰冻防御
-main+02271F22	消除疾风防御
-main+02271F23	消除电击防御
-main+02271F26	防核之壁
-main+02271F27	防念之壁
-main+02271F28	消除核热防御
-main+02271F29	消除念动防御
-main+02271F2A	反击
-main+02271F2B	重反击
-main+02271F2C	超反击
-main+02271F2D	强忍
-main+02271F2E	不屈斗志
-main+02271F2F	祝福识破
-main+02271F30	咒怨识破
-main+02271F31	生还把戏
-main+02271F32	火焰识破
-main+02271F33	极・火焰识破
-main+02271F34	冰冻识破
-main+02271F35	极・冰冻识破
-main+02271F36	疾风识破
-main+02271F37	极・疾风识破
-main+02271F38	电击识破
-main+02271F39	极・电击识破
-main+02271F3A	物理识破
-main+02271F3B	极・物理识破
-main+02271F3C	火焰强化
-main+02271F3D	高级火焰强化
-main+02271F3E	冰冻强化
-main+02271F3F	高级冰冻强化
-main+02271F40	疾风强化
-main+02271F41	高级疾风强化
-main+02271F42	电击强化
-main+02271F43	高级电击强化
-main+02271F44	大天使的庇佑
-main+02271F45	诸神庇佑
-main+02271F46	小治愈促进
-main+02271F47	中治愈促进
-main+02271F48	大治愈促进
-main+02271F49	小气功
-main+02271F4A	中气功
-main+02271F4B	大气气功
-main+02271F4C	攻击诀窍
-main+02271F4D	自动玛哈塔尔卡
-main+02271F4E	防御诀窍
-main+02271F4F	自动玛哈拉库卡
-main+02271F50	敏捷诀窍
-main+02271F51	自动玛哈斯库卡
-main+02271F52	急速恢复
-main+02271F53	瞬间恢复
-main+02271F54	武道诀窍
-main+02271F55	魔术的资质
-main+02271F56	指导
-main+02271F57	建言
-main+02271F58	蚁之舞
-main+02271F59	不动如山
-main+02271F5A	胜利气息
-main+02271F5B	胜利咆哮
-main+02271F5C	初级成长
-main+02271F5D	中级成长
-main+02271F5E	高级成长
-main+02271F5F	不动心
-main+02271F60	极.祝福识破
-main+02271F61	极.咒怨识破
-main+02271F63	火焰耐性
-main+02271F64	火焰无效
-main+02271F65	火焰反弹
-main+02271F66	火焰吸收
-main+02271F67	冰冻耐性
-main+02271F68	冰冻无效
-main+02271F69	冰冻反弹
-main+02271F6A	冰冻吸收
-main+02271F6B	疾风耐性
-main+02271F6C	疾风无效
-main+02271F6D	疾风反弹
-main+02271F6E	疾风吸收
-main+02271F6F	电击耐性
-main+02271F70	电击无效
-main+02271F71	电击反弹
-main+02271F72	电击吸收
-main+02271F73	祝福耐性
-main+02271F74	祝福无效
-main+02271F75	祝福反弹
-main+02271F76	祝福吸收
-main+02271F77	咒怨耐性
-main+02271F78	咒怨无效
-main+02271F79	咒怨反弹
-main+02271F7A	咒怨吸收
-main+02271F7B	物理耐性
-main+02271F7C	物理无效
-main+02271F7D	物理反弹
-main+02271F7E	物理吸收
-main+02271F7F	异常状态成功率UP
-main+02271F80	哈玛成功率UP
-main+02271F81	姆多成功率UP
-main+02271F82	晕眩概率UP
-main+02271F83	混乱概率UP
-main+02271F84	恐惧概率UP
-main+02271F85	遗忘概率UP
-main+02271F86	睡眠概率UP
-main+02271F87	狂怒概率UP
-main+02271F88	绝望概率UP
-main+02271F8A	洗脑概率UP
-main+02271F8B	晕眩耐性
-main+02271F8C	混乱耐性
-main+02271F8D	恐惧耐性
-main+02271F8E	遗忘耐性
-main+02271F8F	睡眠耐性
-main+02271F90	狂怒耐性
-main+02271F91	绝望耐性
-main+02271F93	洗脑耐性
-main+02271F94	晕眩无效
-main+02271F95	混乱无效
-main+02271F96	恐惧无效
-main+02271F97	遗忘无效
-main+02271F98	睡眠无效
-main+02271F99	狂怒无效
-main+02271F9A	绝望无效
-main+02271F9B	洗脑无效
-main+02271F9C	燃烧概率UP
-main+02271F9D	冻结概率UP
-main+02271F9E	触电概率UP
-main+02271F9F	高压电流
-main+02271FA0	逆境的觉悟
-main+02271FA1	背水一战
-main+02271FA2	亢奋
-main+02271FA4	一触即发
-main+02271FA5	雨歌
-main+02271FA6	天公不作美
-main+02271FA7	枪击强化
-main+02271FA8	高级枪击强化
-main+02271FA9	枪弹狂热
-main+02271FAA	核热耐性
-main+02271FAB	核热无效
-main+02271FAC	核热反弹
-main+02271FAD	核热吸收
-main+02271FAE	念动耐性
-main+02271FAF	念动无效
-main+02271FB0	念动反弹
-main+02271FB1	念动吸收
-main+02271FB2	核热强化
-main+02271FB3	高级核热强化
-main+02271FB4	念动强化
-main+02271FB5	高级念动强化
-main+02271FB6	核热识破
-main+02271FB7	极・核热识破
-main+02271FB8	念动识破
-main+02271FB9	极・念动识破
-main+02271FBA	祝福强化
-main+02271FBB	高级祝福强化
-main+02271FBC	咒怨强化
-main+02271FBD	高级咒怨强化
-main+02271FBE	魔导才能
-main+02271FBF	精神耐性
-main+02271FC0	万能强化
-main+02271FC1	高级万能强化
-main+02271FC2	歼灭一切
-main+02271FC3	灵魂连结
-main+02271FC5	杀戮突袭
-main+02271FC6	加特林重击
-main+02271FC7	双重射击
-main+02271FC8	威力斩击
-main+02271FC9	死神大镰斩
-main+02271FCC	喧哗
-main+02271FCD	潜伏
-main+02271FD6	空白卡片
+基址	名称	JP_NAME	EN_NAME	备注&二级类别
+main+02271E54	空白(禁止使用)	ブランク（使用禁止)	BLANK	
+main+02271E55	亚基	アギ	Agi	
+main+02271E56	亚基拉欧	アギラオ	Agilao	
+main+02271E57	亚基达因	アギダイン	Agidyne	
+main+02271E58	玛哈拉基	マハラギ	Maragi	
+main+02271E59	玛哈拉基翁	マハラギオン	Maragion	
+main+02271E5A	玛哈拉基达因	マハラギダイン	Maragidyne	
+main+02271E5B	布芙	ブフ	Bufu	
+main+02271E5C	布芙拉	ブフーラ	Bufula	
+main+02271E5D	布芙达因	ブフダイン	Bufudyne	
+main+02271E5E	玛哈布芙	マハブフ	Mabufu	
+main+02271E5F	玛哈布芙拉	マハブフーラ	Mabufula	
+main+02271E60	玛哈布芙达因	マハブフダイン	Mabufudyne	
+main+02271E61	加尔	ガル	Garu	
+main+02271E62	加尔拉	ガルーラ	Garula	
+main+02271E63	加尔达因	ガルダイン	Garudyne	
+main+02271E64	玛哈加尔	マハガル	Magaru	
+main+02271E65	玛哈加尔拉,	マハガルーラ	Magarula	
+main+02271E66	玛哈加尔达因	マハガルダイン	Magarudyne	
+main+02271E67	吉欧	ジオ	Zio	
+main+02271E68	吉欧加	ジオンガ	Zionga	
+main+02271E69	吉欧达因	ジオダイン	Ziodyne	
+main+02271E6A	玛哈吉欧	マハジオ	Mazio	
+main+02271E6B	玛哈吉欧加	マハジオンガ	Mazionga	
+main+02271E6C	玛哈吉欧达因	マハジオダイン	Maziodyne	
+main+02271E6D	哈玛	ハマ	Hama	
+main+02271E6E	哈玛翁	ハマオン	Hamaon	
+main+02271E6F	玛翰玛	マハンマ	Mahama	
+main+02271E70	玛翰玛翁	マハンマオン	Mahamaon	
+main+02271E71	克哈	コウハ	Kouha	
+main+02271E72	克加	コウガ	Kouga	
+main+02271E73	克加翁	コウガオン	Kougaon	
+main+02271E74	玛哈克哈	マハコウハ	Makouha	
+main+02271E75	玛哈克加	マハコウガ	Makouga	
+main+02271E76	玛哈克加翁	マハコウガオン	Makougaon	
+main+02271E77	姆多	ムド	Mudo	
+main+02271E78	姆多翁	ムドオン	Mudoon	
+main+02271E79	玛哈姆多	マハムド	Mamudo	
+main+02271E7A	玛哈姆多翁	マハムドオン	Mamudoon	
+main+02271E7B	耶哈	エイハ	Eiha	
+main+02271E7C	耶加	エイガ	Eiga	
+main+02271E7D	耶加翁	エイガオン	Eigaon	
+main+02271E7E	玛哈耶哈	マハエイハ	Maeiha	
+main+02271E7F	玛哈耶加	マハエイガ	Maeiga	
+main+02271E80	玛哈耶加翁	マハエイガオン	Maeigaon	
+main+02271E81	米吉多	メギド	Megido	
+main+02271E82	米吉多拉	メギドラ	Megidola	
+main+02271E83	米吉多拉翁	メギドラオン	Megidolaon	
+main+02271E84	芙雷	フレイ	Frei	
+main+02271E85	芙雷拉	フレイラ	Freila	
+main+02271E86	芙雷达因	フレイダイン	Freidyne	
+main+02271E87	玛哈芙雷	マハフレイ	Mafrei	
+main+02271E88	玛哈芙雷拉	マハフレイラ	Mafreila	
+main+02271E89	玛哈芙雷达因	マハフレイダイン	Mafreidyne	
+main+02271E8A	致盲	目眩し	Dazzler	
+main+02271E8B	黑夜闪光	闇夜の閃光	Nocturnal Flash	
+main+02271E8C	普林帕	プリンパ	Pulinpa	
+main+02271E8D	颠塔拉弗	テンタラフー	Tentarafoo	
+main+02271E8E	恶魔之触	デビルタッチ	Evil Touch	
+main+02271E8F	恶魔微笑	デビルスマイル	Evil Smile	
+main+02271E90	玛卡加玛	マカジャマ	Makajama	
+main+02271E91	玛卡加玛翁	マカジャマオン	Makajamaon	
+main+02271E92	饥饿气息	飢餓の吐息	Famine's Breath	
+main+02271E93	饥饿吼叫	飢餓の叫び	Famine's Scream	
+main+02271E94	永眠	ドルミナー	Dormina	
+main+02271E95	摇篮曲	スリープソング	Lullaby	
+main+02271E96	挑衅	挑発	Taunt	
+main+02271E97	宣战宣言	宣戦布告	Wage War	
+main+02271E98	不吉的话语	不吉な言葉	Ominous Words	
+main+02271E99	深渊的波动	奈落の波動	Abysmal Surge	
+main+02271E9A	马琳卡琳	マリンカリン	Marin Karin	
+main+02271E9B	精神污染	ブレインジャック	Brain Jack	
+main+02271E9C	袋中鼠	フクロノネズミ	Trapped Rat	
+main+02271E9D	自爆	自爆	Self-destruct	未使用
+main+02271E9E	自爆	自爆	Self-destruct	未使用
+main+02271E9F	自爆	自爆	Self-destruct	未使用
+main+02271EA0	吸血	吸血	Life Drain	
+main+02271EA1	吸魔	吸魔	Spirit Drain	
+main+02271EA2	强力吸血	超吸血	Life Leech	
+main+02271EA3	强力吸魔	超吸魔	Spirit Leech	
+main+02271EA4	污秽吐息	淀んだ吐息	Foul Breath	
+main+02271EA5	污秽空气	淀んだ空気	Stagnant Air	
+main+02271EA6	亡者喟叹	亡者の嘆き	Ghastly Wail	
+main+02271EA7	炼狱	インフェルノ	Inferno	
+main+02271EA8	大燃烧	大炎上	Blazing Hell	
+main+02271EA9	钻石星尘	ダイアモンドダスト	Diamond Dust	
+main+02271EAA	大冰河时期	大氷河期	Ice Age	
+main+02271EAB	万物流转	万物流転	Panta Rhei	
+main+02271EAC	真空波	真空波	Vacuum Wave	
+main+02271EAD	真理之雷	真理の雷	Thunder Reign	
+main+02271EAE	崇高圣战	エル・ジハード	Wild Thunder	
+main+02271EAF	神之审判	神の審判	Divine Judgment	
+main+02271EB0	回转讲道	回転説法	Samsara	
+main+02271EB1	恶魔审判	悪魔の審判	Demonic Decree	
+main+02271EB2	可以为我而死吗?	死んでくれる?	Die For Me!	
+main+02271EB3	原子火焰	アトミックフレア	Atomic Flare	
+main+02271EB4	宇宙火焰	コズミックフレア	Cosmic Flare	
+main+02271EB5	漆黑之蛇	漆黒の蛇	Black Viper	
+main+02271EB6	拂晓明星	明けの明星	Morning Star	
+main+02271EB7	赛	サイ	Psi	
+main+02271EB8	赛欧	サイオ	Psio	
+main+02271EB9	赛达因	サイダイン	Psiodyne	
+main+02271EBA	玛哈赛	マハサイ	Mapsi	
+main+02271EBB	玛哈赛欧	マハサイオ	Mapsio	
+main+02271EBC	玛哈赛达因	マハサイダイン	Mapsiodyne	
+main+02271EBD	念动波	サイコキネシス	Psycho Force	
+main+02271EBE	念动力	サイコフォース	Psycho Blast	
+main+02271EBF	突击	突撃	Lunge	
+main+02271EC0	俯冲突击	アサルトダイブ	Assault Dive	
+main+02271EC1	百万吨袭击	メガトンレイド	Megaton Raid	
+main+02271EC2	神之手	ゴッドハンド	God's Hand	
+main+02271EC3	幸运拳	ラッキーパンチ	Lucky Punch	
+main+02271EC4	奇迹拳	ミラクルパンチ	Miracle Punch	
+main+02271EC5	斩击	スラッシュ	Cleave	
+main+02271EC6	大斩断	大切断	Giant Slice	
+main+02271EC7	勇气之击	ブレイブザッパー	Brave Blade	
+main+02271EC8	剑之舞	剣の舞	Sword Dance	
+main+02271EC9	八艘跳跃	八艘飛び	Hassou Tobi	
+main+02271ECA	巴力神矛	マイルーム	Ayamur	
+main+02271ECB	穷鼠之牙	窮鼠の牙	Cornered Fang	
+main+02271ECC	加倍斩击	レイズラッシュ	Rising Slash	
+main+02271ECD	死亡游戏	死亡遊戯	Deadly Fury	
+main+02271ECE	指弹	指弾	Snap	
+main+02271ECF	三连倒	トリプルダウン	Triple Down	
+main+02271ED0	一枪毙命	ワンショットキル	One-shot Kill	
+main+02271ED1	至高魔弹	至高の魔弾	Riot Gun	
+main+02271ED2	金刚发破	金剛発破	Vajra Blast	
+main+02271ED3	空间杀法	空間殺法	Vorpal Blade	
+main+02271ED4	烈风波	烈風波	Vicious Strike	
+main+02271ED5	灼热波浪	ヒートウェイブ	Heat Wave	
+main+02271ED6	巨人之战	ギガンマキア	Gigantomachia	
+main+02271ED7	横冲直撞	暴れまくり	Rampage	
+main+02271ED8	电光石火	電光石火	Swift Strike	
+main+02271ED9	死亡界限	デスバウンド	Deathbound	
+main+02271EDA	火神之击	アグネヤストラ	Agneyastra	
+main+02271EDB	二连牙	二連牙	Double Fangs	
+main+02271EDC	五月雨斩	五月雨斬り	Tempest Slash	
+main+02271EDD	刹那五月雨斩	刹那五月雨斬り	Myriad Slashes	
+main+02271EDE	烈击巨锤	スレッジハンマー	Sledgehammer	
+main+02271EDF	倒栽痛击	脳天落とし	Skull Cracker	
+main+02271EE0	骇鸦	テラークロウ	Terror Claw	
+main+02271EE1	头锤	ヘッドバット	Headbutt	
+main+02271EE2	胃部拳击	ストマックブロー	Stomach Blow	
+main+02271EE3	织梦针	夢見針	Dream Needle	
+main+02271EE4	歇斯底里掌掴	ヒステリービンタ	Hysterical Slap	
+main+02271EE5	负面意识堆栈	ネガティブパイル	Negative Pile	
+main+02271EE6	头脑震撼	ブレインシェイク	Brain Shake	
+main+02271EE7	闪光炸弹	フラッシュボム	Flash Bomb	
+main+02271EE8	心念切断	マインドスライス	Mind Slice	
+main+02271EE9	血祭	血祭り	Bloodbath	
+main+02271EEA	忘杀突袭	忘殺ラッシュ	Memory Blow	
+main+02271EEB	无穷饥渴	飽くなき渇き	Insatiable Strike	
+main+02271EEC	永眠突袭	ドルミンラッシュ	Dormin Rush	
+main+02271EED	鬼神乐	鬼神楽	Oni-Kagura	
+main+02271EEE	绝望敲打	バッドビート	Bad Beat	
+main+02271EEF	碎脑击	ブレインバスター	Brain Buster	
+main+02271EF0	迪亚	ディア	Dia	
+main+02271EF1	迪亚拉玛	ディアラマ	Diarama	
+main+02271EF2	迪亚拉翰	ディアラハン	Diarahan	
+main+02271EF3	梅迪亚	メディア	Media	
+main+02271EF4	梅迪拉玛	メディラマ	Mediarama	
+main+02271EF5	梅迪亚拉翰	メディアラハン	Mediarahan	
+main+02271EF6	利卡姆	リカーム	Recarm	
+main+02271EF7	萨玛利卡姆	サマリカーム	Samarecarm	
+main+02271EF8	利卡姆多拉	リカームドラ	Recarmdra	
+main+02271EF9	甘露水滴	アムリタドロップ	Amrita Drop	
+main+02271EFA	甘露之雨	アムリタシャワー	Amrita Shower	
+main+02271EFB	玛哈拜斯堤	マハバイスディ	Mabaisudi	
+main+02271EFC	救世主之愈	メシアライザー	Salvation	
+main+02271EFD	帕特拉	パトラ	Patra	
+main+02271EFE	能量浴	エナジーシャワー	Energy Shower	
+main+02271EFF	能量水滴	エナジードロップ	Energy Drop	
+main+02271F00	拜斯堤	バイスディ	Baisudi	
+main+02271F01	梅帕特拉	メパトラ	Me Patra	
+main+02271F02	塔尔卡加	タルカジャ	Tarukaja	
+main+02271F03	拉库卡加	ラクカジャ	Rakukaja	
+main+02271F04	斯库卡加	スクカジャ	Sukukaja	
+main+02271F05	灼热奋起	ヒートライザ	Heat Riser	
+main+02271F06	玛哈塔尔卡加	マハタルカジャ	Matarukaja	
+main+02271F07	玛哈拉库卡加	マハラクカジャ	Marakukaja	
+main+02271F08	玛哈斯库卡加	マハスクカジャ	Masukukaja	
+main+02271F09	炽热之门	テルモピュライ	Thermopylae	
+main+02271F0A	塔伦达	タルンダ	Tarunda	
+main+02271F0B	拉坤达	ラクンダ	Rakunda	
+main+02271F0C	斯坤达	スクンダ	Sukunda	
+main+02271F0D	女巫诅咒	ランダマイザ	Debilitate	
+main+02271F0E	玛哈塔伦达	マハタルンダ	Matarunda	
+main+02271F0F	玛哈拉坤达	マハラクンダ	Marakunda	
+main+02271F10	玛哈斯坤达	マハスクンダ	Masukunda	
+main+02271F11	迪坤达	デクンダ	Dekunda	
+main+02271F12	迪卡加	デカジャ	Dekaja	
+main+02271F13	蓄力	チャージ	Charge	
+main+02271F14	专心致志	コンセントレイト	Concentrate	
+main+02271F15	反叛	リベリオン	Rebellion	
+main+02271F16	革命	レボリューション	Revolution	
+main+02271F17	提特拉康	テトラカーン	Tetrakarn	
+main+02271F18	玛卡拉康	マカラカーン	Makarakarn	
+main+02271F19	提特拉加	テトラジャ	Tetraja	
+main+02271F1A	提特拉破坏	テトラブレイク	Tetra Break	
+main+02271F1B	玛卡拉破坏	マカラブレイク	Makara Break	
+main+02271F1C	防炎之壁	防炎の壁	Fire Wall	
+main+02271F1D	防冰之壁	防氷の壁	Ice Wall	
+main+02271F1E	防电之壁	防電の壁	Elec Wall	
+main+02271F1F	防岚之壁	防嵐の壁	Wind Wall	
+main+02271F20	消除火焰防御	火炎ガードキル	Fire Break	
+main+02271F21	消除冰冻防御	氷結ガードキル	Ice Break	
+main+02271F22	消除疾风防御	疾風ガードキル	Wind Break	
+main+02271F23	消除电击防御	電撃ガードキル	Elec Break	
+main+02271F24	空栏	-	BLANK	
+main+02271F25	空栏	-	BLANK	
+main+02271F26	防核之壁	防核の壁	Nuke Wall	
+main+02271F27	防念之壁	防念の壁	Psy Wall	
+main+02271F28	消除核热防御	核熱ガードキル	Nuke Break	
+main+02271F29	消除念动防御	念動ガードキル	Psy Break	
+main+02271F2A	反击	カウンタ	Counter	
+main+02271F2B	重反击	ヘビーカウンタ	Counterstrike	
+main+02271F2C	超反击	ハイパーカウンタ	High Counter	
+main+02271F2D	强忍	食いしばり	Endure	
+main+02271F2E	不屈斗志	不屈の闘志	Enduring Soul	
+main+02271F2F	祝福识破	祝福見切り	Dodge Bless	
+main+02271F30	咒怨识破	呪怨見切り	Dodge Curse	
+main+02271F31	生还把戏	生還トリック	Survival Trick	
+main+02271F32	火焰识破	火炎見切り	Dodge Fire	
+main+02271F33	极・火焰识破	極・火炎見切り	Evade Fire	
+main+02271F34	冰冻识破	氷結見切り	Dodge Ice	
+main+02271F35	极・冰冻识破	極・氷結見切り	Evade Ice	
+main+02271F36	疾风识破	疾風見切り	Dodge Wind	
+main+02271F37	极・疾风识破	極・疾風見切り	Evade Wind	
+main+02271F38	电击识破	電撃見切り	Dodge Elec	
+main+02271F39	极・电击识破	極・電撃見切り	Evade Elec	
+main+02271F3A	物理识破	物理見切り	Dodge Phys	
+main+02271F3B	极・物理识破	極・物理見切り	Evade Phys	
+main+02271F3C	火焰强化	火炎ブースタ	Fire Boost	
+main+02271F3D	高级火焰强化	火炎ハイブースタ	Fire Amp	
+main+02271F3E	冰冻强化	氷結ブースタ	Ice Boost	
+main+02271F3F	高级冰冻强化	氷結ハイブースタ	Ice Amp	
+main+02271F40	疾风强化	疾風ブースタ	Wind Boost	
+main+02271F41	高级疾风强化	疾風ハイブースタ	Wind Amp	
+main+02271F42	电击强化	電撃ブースタ	Elec Boost	
+main+02271F43	高级电击强化	電撃ハイブースタ	Elec Amp	
+main+02271F44	大天使的庇佑	大天使の加護	Angelic Grace	
+main+02271F45	诸神庇佑	神々の加護	Divine Grace	
+main+02271F46	小治愈促进	小治癒促進	Regenerate 1	
+main+02271F47	中治愈促进	中治癒促進	Regenerate 2	
+main+02271F48	大治愈促进	大治癒促進	Regenerate 3	
+main+02271F49	小气功	小気功	Invigorate 1	
+main+02271F4A	中气功	中気功	Invigorate 2	
+main+02271F4B	大气气功	大気功	Invigorate 3	
+main+02271F4C	攻击诀窍	攻撃の心得	Attack Master	
+main+02271F4D	自动玛哈塔尔卡	マハタルカオート	Auto-Mataru	
+main+02271F4E	防御诀窍	防御の心得	Defense Master	
+main+02271F4F	自动玛哈拉库卡	マハラクカオート	Auto-Maraku	
+main+02271F50	敏捷诀窍	素早さの心得	Speed Master	
+main+02271F51	自动玛哈斯库卡	マハスクカオート	Auto-Masuku	
+main+02271F52	急速恢复	急速回復	Fast Heal	
+main+02271F53	瞬间恢复	瞬間回復	Insta-Heal	
+main+02271F54	武道诀窍	武道の心得	Arms Master	
+main+02271F55	魔术的资质	魔術の素養	Spell Master	
+main+02271F56	指导	コーチング	Sharp Student	
+main+02271F57	建言	アドバイス	Apt Pupil	
+main+02271F58	蚁之舞	アリ・ダンス	Ali Dance	
+main+02271F59	不动如山	仁王立ち	Firm Stance	
+main+02271F5A	胜利气息	勝利の息吹	Life Aid	
+main+02271F5B	胜利咆哮	勝利の雄たけび	Victory Cry	
+main+02271F5C	初级成长	ローグロウ	Growth 1	
+main+02271F5D	中级成长	ミドルグロウ	Growth 2	
+main+02271F5E	高级成长	ハイグロウ	Growth 3	
+main+02271F5F	不动心	不動心	Unshaken Will	
+main+02271F60	极.祝福识破	極・祝福見切り	Evade Bless	
+main+02271F61	极.咒怨识破	極・呪怨見切り	Evade Curse	
+main+02271F62	空栏	ブランク	BLANK	
+main+02271F63	火焰耐性	火炎耐性	Resist Fire	
+main+02271F64	火焰无效	火炎無効	Null Fire	
+main+02271F65	火焰反弹	火炎反射	Repel Fire	
+main+02271F66	火焰吸收	火炎吸収	Drain Fire	
+main+02271F67	冰冻耐性	氷結耐性	Resist Ice	
+main+02271F68	冰冻无效	氷結無効	Null Ice	
+main+02271F69	冰冻反弹	氷結反射	Repel Ice	
+main+02271F6A	冰冻吸收	氷結吸収	Drain Ice	
+main+02271F6B	疾风耐性	疾風耐性	Resist Wind	
+main+02271F6C	疾风无效	疾風無効	Null Wind	
+main+02271F6D	疾风反弹	疾風反射	Repel Wind	
+main+02271F6E	疾风吸收	疾風吸収	Drain Wind	
+main+02271F6F	电击耐性	電撃耐性	Resist Elec	
+main+02271F70	电击无效	電撃無効	Null Elec	
+main+02271F71	电击反弹	電撃反射	Repel Elec	
+main+02271F72	电击吸收	電撃吸収	Drain Elec	
+main+02271F73	祝福耐性	祝福耐性	Resist Bless	
+main+02271F74	祝福无效	祝福無効	Null Bless	
+main+02271F75	祝福反弹	祝福反射	Repel Bless	
+main+02271F76	祝福吸收	祝福吸収	Drain Bless	
+main+02271F77	咒怨耐性	呪怨耐性	Resist Curse	
+main+02271F78	咒怨无效	呪怨無効	Null Curse	
+main+02271F79	咒怨反弹	呪怨反射	Repel Curse	
+main+02271F7A	咒怨吸收	呪怨吸収	Drain Curse	
+main+02271F7B	物理耐性	物理耐性	Resist Phys	
+main+02271F7C	物理无效	物理無効	Null Phys	
+main+02271F7D	物理反弹	物理反射	Repel Phys	
+main+02271F7E	物理吸收	物理吸収	Drain Phys	
+main+02271F7F	异常状态成功率UP	状態異常成功率アップ	Ailment Boost	
+main+02271F80	哈玛成功率UP	ハマ成功率アップ	Hama Boost	
+main+02271F81	姆多成功率UP	ムド成功率アップ	Mudo Boost	
+main+02271F82	晕眩概率UP	目眩率アップ	Dizzy Boost	
+main+02271F83	混乱概率UP	混乱率アップ	Confuse Boost	
+main+02271F84	恐惧概率UP	恐怖率アップ	Fear Boost	
+main+02271F85	遗忘概率UP	忘却率アップ	Forget Boost	
+main+02271F86	睡眠概率UP	睡眠率アップ	Sleep Boost	
+main+02271F87	狂怒概率UP	激怒率アップ	Rage Boost	
+main+02271F88	绝望概率UP	絶望率アップ	Despair Boost	
+main+02271F89	空栏	ブランク	BLANK	
+main+02271F8A	洗脑概率UP	洗脳率アップ	Brainwash Boost	
+main+02271F8B	晕眩耐性	目眩耐性	Resist Dizzy	
+main+02271F8C	混乱耐性	混乱耐性	Resist Confuse	
+main+02271F8D	恐惧耐性	恐怖耐性	Resist Fear	
+main+02271F8E	遗忘耐性	忘却耐性	Resist Forget	
+main+02271F8F	睡眠耐性	睡眠耐性	Resist Sleep	
+main+02271F90	狂怒耐性	激怒耐性	Resist Rage	
+main+02271F91	绝望耐性	絶望耐性	Resist Despair	
+main+02271F92	空栏	ブランク	BLANK	
+main+02271F93	洗脑耐性	洗脳耐性	Resist Brainwash	
+main+02271F94	晕眩无效	目眩無効	Null Dizzy	
+main+02271F95	混乱无效	混乱無効	Null Confuse	
+main+02271F96	恐惧无效	恐怖無効	Null Fear	
+main+02271F97	遗忘无效	忘却無効	Null Forget	
+main+02271F98	睡眠无效	睡眠無効	Null Sleep	
+main+02271F99	狂怒无效	激怒無効	Null Rage	
+main+02271F9A	绝望无效	絶望無効	Null Despair	
+main+02271F9B	洗脑无效	洗脳無効	Null Brainwash	
+main+02271F9C	燃烧概率UP	炎上率アップ	Burn Boost	
+main+02271F9D	冻结概率UP	凍結率アップ	Freeze Boost	
+main+02271F9E	触电概率UP	感電率アップ	Shock Boost	
+main+02271F9F	高压电流	ハイボルテージ	Fortified Moxy	
+main+02271FA0	逆境的觉悟	逆境の覚悟	Adverse Resolve	
+main+02271FA1	背水一战	背水の陣	Last Stand	
+main+02271FA2	亢奋	ヒートアップ	Heat Up	
+main+02271FA3	空栏	ブランク	BLANK	
+main+02271FA4	一触即发	タッチアンドゴー	Touch n' Go	
+main+02271FA5	雨歌	雨に唄えば	Climate Decorum	
+main+02271FA6	天公不作美	浮かない空	Ambient Aid	
+main+02271FA7	枪击强化	精密射撃	Snipe	
+main+02271FA8	高级枪击强化	急所撃ち	Cripple	
+main+02271FA9	枪弹狂热	トリガーハッピー	Trigger Happy	
+main+02271FAA	核热耐性	核熱耐性	Resist Nuke	
+main+02271FAB	核热无效	核熱無効	Null Nuke	
+main+02271FAC	核热反弹	核熱反射	Repel Nuke	
+main+02271FAD	核热吸收	核熱吸収	Drain Nuke	
+main+02271FAE	念动耐性	念動耐性	Resist Psy	
+main+02271FAF	念动无效	念動無効	Null Psy	
+main+02271FB0	念动反弹	念動反射	Repel Psy	
+main+02271FB1	念动吸收	念動吸収	Drain Psy	
+main+02271FB2	核热强化	核熱ブースタ	Nuke Boost	
+main+02271FB3	高级核热强化	核熱ブースタ	Nuke Amp	
+main+02271FB4	念动强化	念動ブースタ	Psy Boost	
+main+02271FB5	高级念动强化	念動ハイブースタ	Psy Amp	
+main+02271FB6	核热识破	核熱見切り	Dodge Nuke	
+main+02271FB7	极・核热识破	極・核熱見切り	Evade Nuke	
+main+02271FB8	念动识破	念動見切り	Dodge Psy	
+main+02271FB9	极・念动识破	極・念動見切り	Evade Psy	
+main+02271FBA	祝福强化	祝福ブースタ	Bless Boost	
+main+02271FBB	高级祝福强化	祝福ハイブースタ	Bless Amp	
+main+02271FBC	咒怨强化	呪怨ブースタ	Curse Boost	
+main+02271FBD	高级咒怨强化	呪怨ハイブースタ	Curse Amp	
+main+02271FBE	魔导才能	魔導の才能	Magic Ability	
+main+02271FBF	精神耐性	精神耐性	Fortify Spirit	
+main+02271FC0	万能强化	万能ブースタ	Almighty Boost	
+main+02271FC1	高级万能强化	万能ハイブースタ	Almighty Amp	
+main+02271FC2	歼灭一切	フルデストロイア	Zenith Defense	
+main+02271FC3	灵魂连结	ソウルチェイン	Soul Chain	
+main+02271FC4	空栏	ブランク	BLANK	
+main+02271FC5	杀戮突袭	キルラッシュ	Kill Rush	
+main+02271FC6	加特林重击	ガトリングブロー	Gatling Blow	
+main+02271FC7	双重射击	ダブルシュート	Double Shot	
+main+02271FC8	威力斩击	パワースラッシュ	BLANK	
+main+02271FC9	死神大镰斩	デスサイズカット	Death Scythe	
+main+02271FCA	空栏	ブランク	BLANK	
+main+02271FCB	空栏	ブランク	BLANK	
+main+02271FCC	喧哗	オラオーラ	Taunting Aura	
+main+02271FCD	潜伏	潜伏	Concealment	
+main+02271FCE	空栏	ブランク	BLANK	
+main+02271FCF	空栏	ブランク	BLANK	
+main+02271FD0	空栏	ブランク	BLANK	
+main+02271FD1	空栏	ブランク	BLANK	
+main+02271FD2	空栏	ブランク	BLANK	
+main+02271FD3	空栏	ブランク	BLANK	
+main+02271FD4	空栏	ブランク	BLANK	
+main+02271FD5	空栏	ブランク	BLANK	
+main+02271FD6	空白卡片	ブランクカード	Blank Card	
+main+02271FD7	空栏	ブランク	BLANK	可以习得特性暴击威力UP的技能卡
+main+02271FD8	空栏	ブランク	BLANK	可以习得特性对异常状态的敌人威力大UP的技能卡
+main+02271FD9	空栏	ブランク	BLANK	可以习得特性造成即死时SP少量恢复的技能卡
+main+02271FDA	空栏	ブランク	BLANK	可以习得特性造成即死时SP中量恢复的技能卡
+main+02271FDB	空栏	ブランク	BLANK	可以习得特性造成即死时SP大量恢复的技能卡
+main+02271FDC	空栏	ブランク	BLANK	可以习得特性TECHNICAL时威力UP的技能卡
+main+02271FDD	空栏	ブランク	BLANK	可以习得特性TECHNICAL时威力大UP的技能卡
+main+02271FDE	空栏	ブランク	BLANK	可以习得特性濒死时攻击力UP的技能卡
+main+02271FDF	空栏	ブランク	BLANK	可以习得特性濒死时攻击力大UP的技能卡
+main+02271FE0	空栏	ブランク	BLANK	可以习得特性WEAK时威力UP的技能卡
+main+02271FE1	空栏	ブランク	BLANK	可以习得特性WEAK时威力大UP的技能卡
+main+02271FE2	空栏	ブランク	BLANK	可以习得特性即死无效的技能卡
+main+02271FE3	空栏	ブランク	BLANK	可以习得特性HP消耗减少1 0%的技能卡
+main+02271FE4	空栏	ブランク	BLANK	可以习得特性HP消耗减少25%的技能卡
