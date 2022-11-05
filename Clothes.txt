@@ -1,254 +1,255 @@
-基址	名称	角色
-main+02272255	秀尽学园高中校服・冬	ALL
-main+02272264	幻影装	主人公
-main+02272265	海盗护甲	坂本龙司
-main+02272266	摩尔加纳套装	摩尔加纳
-main+02272267	红色橡胶紧身衣	高卷杏
-main+02272268	盗贼服	喜多川佑介
-main+02272269	金属骑土装	新岛真
-main+0227226A	火枪手的正装	奥村春
-main+0227226B	电子装	佐仓双叶
-main+0227226C	王子装	明智吾郎
-main+0227226D	黑色半体服	芳泽霞
-main+0227226E	反抗的校服・夏	主人公
-main+0227226F	反抗的校服・夏	坂本龙司
-main+02272271	反抗的校服・夏	高卷杏
-main+02272272	反抗的校服・夏	喜多川佑介
-main+02272273	反抗的校服・夏	新岛真
-main+02272274	反抗的校服・夏	奥村春
-main+02272276	反抗的校服・夏	明智吾郎
-main+02272277	反抗的校服・夏	芳泽霞
-main+02272278	反抗的校服・冬	主人公
-main+02272279	反抗的校服・冬	坂本龙司
-main+0227227B	反抗的校服・冬	高卷杏
-main+0227227C	反抗的校服・冬	喜多川佑介
-main+0227227D	反抗的校服・冬	新岛真
-main+0227227E	反抗的校服・冬	奥村春
-main+02272280	反抗的校服・冬	明智吾郎
-main+02272281	反抗的校服・冬	芳泽霞
-main+02272282	反抗的便服・夏	主人公
-main+02272283	反抗的便服・夏	坂本龙司
-main+02272285	反抗的便服・夏	高卷杏
-main+02272286	反抗的便服・夏	喜多川佑介
-main+02272287	反抗的便服・夏	新岛真
-main+02272288	反抗的便服・夏	奥村春
-main+02272289	反抗的便服・夏	佐仓双叶
-main+0227228B	反抗的便服・夏	芳泽霞
-main+0227228C	反抗的便服・冬	主人公
-main+0227228D	反抗的便服・冬	坂本龙司
-main+0227228F	反抗的便服・冬	高卷杏
-main+02272290	反抗的便服・冬	喜多川佑介
-main+02272291	反抗的便服・冬	新岛真
-main+02272292	反抗的便服・冬	奥村春
-main+02272293	反抗的便服・冬	佐仓双叶
-main+02272294	反抗的便服・冬	明智吾郎
-main+02272295	反抗的便服・冬	芳泽霞
-main+02272296	反抗的运动服	主人公
-main+02272297	反抗的运动服	坂本龙司
-main+02272299	反抗的运动服	高卷杏
-main+0227229A	反抗的运动服	喜多川佑介
-main+0227229B	反抗的运动服	新岛真
-main+0227229C	反抗的运动服	奥村春
-main+0227229D	反抗的运动服	佐仓双叶
-main+0227229E	反抗的运动服	明智吾郎
-main+0227229F	反抗的运动服	芳泽霞
-main+022722A0	反抗的泳装	主人公
-main+022722A1	反抗的泳装	坂本龙司
-main+022722A3	反抗的泳装	高卷杏
-main+022722A4	反抗的泳装	喜多川佑介
-main+022722A5	反抗的泳装	新岛真
-main+022722A6	反抗的泳装	奥村春
-main+022722A7	反抗的泳装	佐仓双叶
-main+022722A9	反抗的泳装	芳泽霞
-main+022722AA	反抗的居家服	主人公
-main+022722B1	反抗的居家服	佐仓双叶
-main+022722B4	月光馆学园校服	主人公
-main+022722B5	月光馆学园校服	坂本龙司
-main+022722B6	埃癸斯服装	摩尔加纳
-main+022722B7	月光馆学园校服	高卷杏
-main+022722B8	月光馆学园校服	喜多川佑介
-main+022722B9	月光馆学园校服	新岛真
-main+022722BA	月光馆学园校服	奥村春
-main+022722BB	月光馆学园校服	佐仓双叶
-main+022722BC	月光馆学园校服	明智吾郎
-main+022722BD	月光馆学园校服	芳泽霞
-main+022722BE	八十神高中校服	主人公
-main+022722BF	八十神高中校服	坂本龙司
-main+022722C0	小熊服装	摩尔加纳
-main+022722C1	八十神高中校服	高卷杏
-main+022722C2	八十神高中校服	喜多川佑介
-main+022722C3	八十神高中校服	新岛真
-main+022722C4	八十神高中校服	奥村春
-main+022722C5	八十神高中校服	佐仓双叶
-main+022722C6	八十神高中校服	明智吾郎
-main+022722C7	八十神高中校服	芳泽霞
-main+022722C8	圣艾尔敏学园校服	主人公
-main+022722C9	圣艾尔敏学园校服	坂本龙司
-main+022722CA	翠西服装1	摩尔加纳
-main+022722CB	圣艾尔敏学园校服	高卷杏
-main+022722CC	圣艾尔敏学园校服	喜多川佑介
-main+022722CD	圣艾尔敏学园校服	新岛真
-main+022722CE	圣艾尔敏学园校服	奥村春
-main+022722CF	圣艾尔敏学园校服	佐仓双叶
-main+022722D0	圣艾尔敏学园校服	明智吾郎
-main+022722D1	圣艾尔敏学园校服	芳泽霞
-main+022722D2	七姐妹学园校服	主人公
-main+022722D3	七姐妹学园校服	坂本龙司
-main+022722D4	翠西服装2	摩尔加纳
-main+022722D5	七姐妹学园校服	高卷杏
-main+022722D6	七姐妹学园校服	喜多川佑介
-main+022722D7	七姐妹学园校服	新岛真
-main+022722D8	七姐妹学园校服	奥村春
-main+022722D9	七姐妹学园校服	佐仓双叶
-main+022722DA	七姐妹学园校服	明智吾郎
-main+022722DB	七姐妹学园校服	芳泽霞
-main+022722DC	文森特的日常服	主人公
-main+022722DD	奥兰德的时尚服	坂本龙司
-main+022722DE	羔羊的布偶装	摩尔加纳
-main+022722DF	凯瑟琳的自色小背心	高卷杏
-main+022722E0	强尼的大衣	喜多川佑介
-main+022722E1	凯瑟琳的日常服	新岛真
-main+022722E2	艾莉卡的餐厅制服	奥村春
-main+022722E3	托比的工作服	佐仓双叶
-main+022722E4	酒吧老板的西装	明智吾郎
-main+022722E5	琳的连身洋装	芳泽霞
-main+022722E6	轻子坂高中校服	主人公
-main+022722E7	轻子坂高中校服	坂本龙司
-main+022722E8	轻子坂高中校服	摩尔加纳
-main+022722E9	轻子坂高中校服	高卷杏
-main+022722EA	轻子坂高中校服	喜多川佑介
-main+022722EB	轻子坂高中校服	新岛真
-main+022722EC	轻子坂高中校服	奥村春
-main+022722ED	轻子坂高中校服	佐仓双叶
-main+022722EE	魔神皇的正装	明智吾郎
-main+022722EF	轻子坂高中校服	芳泽霞
-main+022722F0	管家服	主人公
-main+022722F1	管家服	坂本龙司
-main+022722F2	女仆装	摩尔加纳
-main+022722F3	女仆装	高卷杏
-main+022722F4	管家服	喜多川佑介
-main+022722F5	女仆装	新岛真
-main+022722F6	女仆装	奥村春
-main+022722F7	女仆装	佐仓双叶
-main+022722F8	管家服	明智吾郎
-main+022722F9	女仆装	芳泽霞
-main+022722FA	圣诞节服装	主人公
-main+022722FB	圣诞节服装	坂本龙司
-main+022722FC	圣诞节服装	摩尔加纳
-main+022722FD	圣诞节服装	高卷杏
-main+022722FE	圣诞节服装	喜多川佑介
-main+022722FF	圣诞节服装	新岛真
-main+02272300	圣诞节服装	奥村春
-main+02272301	圣诞节服装	佐仓双叶
-main+02272302	圣诞节服装	明智吾郎
-main+02272303	圣诞节服装	芳泽霞
-main+02272304	舞蹈服装	主人公
-main+02272305	舞蹈服装	坂本龙司
-main+02272306	舞蹈服装	摩尔加纳
-main+02272307	舞蹈服装	高卷杏
-main+02272308	舞蹈服装	喜多川佑介
-main+02272309	舞蹈服装	新岛真
-main+0227230A	舞蹈服装	奥村春
-main+0227230B	舞蹈服装	佐仓双叶
-main+0227230C	舞蹈服装	明智吾郎
-main+0227230D	舞蹈服装	芳泽霞
-main+0227230E	暗影行者制服	主人公
-main+0227230F	暗影行者制服	坂本龙司
-main+02272310	暗影行者制服	摩尔加纳
-main+02272311	暗影行者制服	高卷杏
-main+02272312	暗影行者制服	喜多川佑介
-main+02272313	暗影行者制服	新岛真
-main+02272314	暗影行者制服	奥村春
-main+02272315	暗影行者制服	佐仓双叶
-main+02272316	暗影行者制服	明智吾郎
-main+02272317	暗影行者制服	芳泽霞
-main+02272318	武士众服装	主人公
-main+02272319	武士众服装	坂本龙司
-main+0227231A	柏洛兹服装	摩尔加纳
-main+0227231B	武士众服装	高卷杏
-main+0227231C	武士众服装	喜多川佑介
-main+0227231D	武士众服装	新岛真
-main+0227231E	武士众服装	奥村春
-main+0227231F	武士众服装	佐仓双叶
-main+02272320	武士众服装	明智吾郎
-main+02272321	武士众服装	芳泽霞
-main+02272322	高级师范学校校服	主人公
-main+02272323	高级师范学校校服	坂本龙司
-main+02272324	业斗童子服装	摩尔加纳
-main+02272325	樱烂女子学院校服	高卷杏
-main+02272326	高级师范学校校服	喜多川佑介
-main+02272327	樱烂女子学院校服	新岛真
-main+02272328	高级师范学校校服	奥村春
-main+02272329	樱烂女子学院校服	佐仓双叶
-main+0227232A	帝国陆军军服	明智吾郎
-main+0227232B	樱烂女子学院校服	芳泽霞
-main+0227232C	星夜服	主人公
-main+0227232D	星夜服	坂本龙司
-main+0227232E	星夜服	摩尔加纳
-main+0227232F	星夜服	高卷杏
-main+02272330	星夜服	喜多川佑介
-main+02272331	星夜服	新岛真
-main+02272332	星夜服	奥村春
-main+02272333	星夜服	佐仓双叶
-main+02272334	星夜服	明智吾郎
-main+02272335	星夜服	芳泽霞
-main+02272336	月夜服	主人公
-main+02272337	月夜服	坂本龙司
-main+02272338	月夜服	摩尔加纳
-main+02272339	月夜服	高卷杏
-main+0227233A	月夜服	喜多川佑介
-main+0227233B	月夜服	新岛真
-main+0227233C	月夜服	奥村春
-main+0227233D	月夜服	佐仓双叶
-main+0227233E	月夜服	明智吾郎
-main+0227233F	月夜服	芳泽霞
-main+02272340	群青色服装	主人公
-main+02272341	群青色服装	坂本龙司
-main+02272342	长鼻子服装	摩尔加纳
-main+02272343	群青色服装	高卷杏
-main+02272344	群青色服装	喜多川佑介
-main+02272345	群青色服装	新岛真
-main+02272346	群青色服装	奥村春
-main+02272347	群青色服装	佐仓双叶
-main+02272348	群青色服装	明智吾郎
-main+02272349	群青色服装	芳泽霞
-main+0227234A	翔羽侠战斗服	主人公
-main+0227234B	翔羽侠战斗服	坂本龙司
-main+0227234C	翔羽侠战斗服	摩尔加纳
-main+0227234D	翔羽侠战斗服	高卷杏
-main+0227234E	翔羽侠战斗服	喜多川佑介
-main+0227234F	翔羽侠战斗服	新岛真
-main+02272350	翔羽侠战斗服	奥村春
-main+02272351	翔羽侠战斗服	佐仓双叶
-main+02272352	翔羽侠战斗服	明智吾郎
-main+02272353	翔羽侠战斗服	芳泽霞
-main+02272354	含头部的恶魔兵装	主人公
-main+02272355	含头部的恶魔兵装	坂本龙司
-main+02272356	含头部的恶魔兵装	摩尔加纳
-main+02272357	含头部的恶魔兵装	高卷杏
-main+02272358	含头部的恶魔兵装	喜多川佑介
-main+02272359	含头部的恶魔兵装	新岛真
-main+0227235A	含头部的恶魔兵装	奥村春
-main+0227235B	含头部的恶魔兵装	佐仓双叶
-main+0227235C	含头部的恶魔兵装	明智吾郎
-main+0227235D	含头部的恶魔兵装	芳泽霞
-main+0227235E	不含头部的恶魔兵装	主人公
-main+0227235F	不含头部的恶魔兵装	坂本龙司
-main+02272360	不含头部的恶魔兵装	摩尔加纳
-main+02272361	不含头部的恶魔兵装	高卷杏
-main+02272362	不含头部的恶魔兵装	喜多川佑介
-main+02272363	不含头部的恶魔兵装	新岛真
-main+02272364	不含头部的恶魔兵装	奥村春
-main+02272365	不含头部的恶魔兵装	佐仓双叶
-main+02272366	不含头部的恶魔兵装	明智吾郎
-main+02272367	不含头部的恶魔兵装	芳泽霞
-main+02272368	新电影服装	主人公
-main+02272369	新电影服装	坂本龙司
-main+0227236A	新电影服装	摩尔加纳
-main+0227236B	新电影服装	高卷杏
-main+0227236C	新电影服装	喜多川佑介
-main+0227236D	新电影服装	新岛真
-main+0227236E	新电影服装	奥村春
-main+0227236F	新电影服装	佐仓双叶
-main+02272370	新电影服装	明智吾郎
-main+02272371	新电影服装	芳泽霞
+基址	名称	JP_NAME	EN_NAME	角色/性别	备注&二级类别
+main+02272255	秀尽学园高中校服・冬	秀尽学園高校制服・冬	Shujin Uniform	ALL	无模型皮肤
+main+02272261	暗黑装	ダークスーツ	Dark Suit	明智吾郎	
+main+02272264	幻影装	ファントムスーツ	Phantom Suit	主人公	
+main+02272265	海盗护甲	パイレーツアーマー	Pirate Armor	坂本龙司	
+main+02272266	摩尔加纳套装	モルガナセット	Morgana Classic	摩尔加纳	
+main+02272267	红色橡胶紧身衣	レッドラバースーツ	Red Latex Suit	高卷杏	
+main+02272268	盗贼服	盗み装束	Outlaw's Attire	喜多川佑介	
+main+02272269	金属骑土装	メタルライダース	Metal Rider	新岛真	
+main+0227226A	火枪手的正装	銃士の正装	Musketeer Suit	奥村春	
+main+0227226B	电子装	サイバースーツ	Cyber Gear	佐仓双叶	
+main+0227226C	王子装	プリンススーツ	Prince Suit	明智吾郎	
+main+0227226D	黑色半体服	ブラックレオタード	Black Leotard	芳泽霞	
+main+0227226E	反抗的校服・夏	反逆の制服・夏	Summer Uniform	主人公	
+main+0227226F	反抗的校服・夏	反逆の制服・夏	Summer Uniform	坂本龙司	
+main+02272271	反抗的校服・夏	反逆の制服・夏	Summer Uniform	高卷杏	
+main+02272272	反抗的校服・夏	反逆の制服・夏	Summer Uniform	喜多川佑介	
+main+02272273	反抗的校服・夏	反逆の制服・夏	Summer Uniform	新岛真	
+main+02272274	反抗的校服・夏	反逆の制服・夏	Summer Uniform	奥村春	
+main+02272276	反抗的校服・夏	反逆の制服・夏	Summer Uniform	明智吾郎	
+main+02272277	反抗的校服・夏	反逆の制服・夏	Summer Uniform	芳泽霞	
+main+02272278	反抗的校服・冬	反逆の制服・冬	Winter Uniform	主人公	
+main+02272279	反抗的校服・冬	反逆の制服・冬	Winter Uniform	坂本龙司	
+main+0227227B	反抗的校服・冬	反逆の制服・冬	Winter Uniform	高卷杏	
+main+0227227C	反抗的校服・冬	反逆の制服・冬	Winter Uniform	喜多川佑介	
+main+0227227D	反抗的校服・冬	反逆の制服・冬	Winter Uniform	新岛真	
+main+0227227E	反抗的校服・冬	反逆の制服・冬	Winter Uniform	奥村春	
+main+02272280	反抗的校服・冬	反逆の制服・冬	Winter Uniform	明智吾郎	
+main+02272281	反抗的校服・冬	反逆の制服・冬	Winter Uniform	芳泽霞	
+main+02272282	反抗的便服・夏	反逆の私服・夏	Summer Clothes	主人公	
+main+02272283	反抗的便服・夏	反逆の私服・夏	Summer Clothes	坂本龙司	
+main+02272285	反抗的便服・夏	反逆の私服・夏	Summer Clothes	高卷杏	
+main+02272286	反抗的便服・夏	反逆の私服・夏	Summer Clothes	喜多川佑介	
+main+02272287	反抗的便服・夏	反逆の私服・夏	Summer Clothes	新岛真	
+main+02272288	反抗的便服・夏	反逆の私服・夏	Summer Clothes	奥村春	
+main+02272289	反抗的便服・夏	反逆の私服・夏	Summer Clothes	佐仓双叶	
+main+0227228B	反抗的便服・夏	反逆の私服・夏	Summer Clothes	芳泽霞	
+main+0227228C	反抗的便服・冬	反逆の私服・冬	Winter Clothes	主人公	
+main+0227228D	反抗的便服・冬	反逆の私服・冬	Winter Clothes	坂本龙司	
+main+0227228F	反抗的便服・冬	反逆の私服・冬	Winter Clothes	高卷杏	
+main+02272290	反抗的便服・冬	反逆の私服・冬	Winter Clothes	喜多川佑介	
+main+02272291	反抗的便服・冬	反逆の私服・冬	Winter Clothes	新岛真	
+main+02272292	反抗的便服・冬	反逆の私服・冬	Winter Clothes	奥村春	
+main+02272293	反抗的便服・冬	反逆の私服・冬	Winter Clothes	佐仓双叶	
+main+02272294	反抗的便服・冬	反逆の私服・冬	Winter Clothes	明智吾郎	
+main+02272295	反抗的便服・冬	反逆の私服・冬	Winter Clothes	芳泽霞	
+main+02272296	反抗的运动服	反逆のジャージ	Tracksuit	主人公	
+main+02272297	反抗的运动服	反逆のジャージ	Tracksuit	坂本龙司	
+main+02272299	反抗的运动服	反逆のジャージ	Tracksuit	高卷杏	
+main+0227229A	反抗的运动服	反逆のジャージ	Tracksuit	喜多川佑介	
+main+0227229B	反抗的运动服	反逆のジャージ	Tracksuit	新岛真	
+main+0227229C	反抗的运动服	反逆のジャージ	Tracksuit	奥村春	
+main+0227229D	反抗的运动服	反逆のジャージ	Tracksuit	佐仓双叶	
+main+0227229E	反抗的运动服	反逆のジャージ	Tracksuit	明智吾郎	
+main+0227229F	反抗的运动服	反逆のジャージ	Tracksuit	芳泽霞	
+main+022722A0	反抗的泳装	反逆の水着	Swimsuit	主人公	
+main+022722A1	反抗的泳装	反逆の水着	Swimsuit	坂本龙司	
+main+022722A3	反抗的泳装	反逆の水着	Swimsuit	高卷杏	
+main+022722A4	反抗的泳装	反逆の水着	Swimsuit	喜多川佑介	
+main+022722A5	反抗的泳装	反逆の水着	Swimsuit	新岛真	
+main+022722A6	反抗的泳装	反逆の水着	Swimsuit	奥村春	
+main+022722A7	反抗的泳装	反逆の水着	Swimsuit	佐仓双叶	
+main+022722A9	反抗的泳装	反逆の水着	Swimsuit	芳泽霞	
+main+022722AA	反抗的居家服	反逆の部屋着	Loungewear	主人公	
+main+022722B1	反抗的居家服	反逆の部屋着	Loungewear	佐仓双叶	
+main+022722B4	月光馆学园校服	月光館学園制服	Gekkoukan High	主人公	
+main+022722B5	月光馆学园校服	月光館学園制服	Gekkoukan High	坂本龙司	
+main+022722B6	埃癸斯服装	アイギス衣装	Aigis Costume	摩尔加纳	
+main+022722B7	月光馆学园校服	月光館学園制服	Gekkoukan High	高卷杏	
+main+022722B8	月光馆学园校服	月光館学園制服	Gekkoukan High	喜多川佑介	
+main+022722B9	月光馆学园校服	月光館学園制服	Gekkoukan High	新岛真	
+main+022722BA	月光馆学园校服	月光館学園制服	Gekkoukan High	奥村春	
+main+022722BB	月光馆学园校服	月光館学園制服	Gekkoukan High	佐仓双叶	
+main+022722BC	月光馆学园校服	月光館学園制服	Gekkoukan High	明智吾郎	
+main+022722BD	月光馆学园校服	月光館学園制服	Gekkoukan High	芳泽霞	
+main+022722BE	八十神高中校服	八十神高校制服	Yasogami High	主人公	
+main+022722BF	八十神高中校服	八十神高校制服	Yasogami High	坂本龙司	
+main+022722C0	小熊服装	クマ衣装	Teddie Costume	摩尔加纳	
+main+022722C1	八十神高中校服	八十神高校制服	Yasogami High	高卷杏	
+main+022722C2	八十神高中校服	八十神高校制服	Yasogami High	喜多川佑介	
+main+022722C3	八十神高中校服	八十神高校制服	Yasogami High	新岛真	
+main+022722C4	八十神高中校服	八十神高校制服	Yasogami High	奥村春	
+main+022722C5	八十神高中校服	八十神高校制服	Yasogami High	佐仓双叶	
+main+022722C6	八十神高中校服	八十神高校制服	Yasogami High	明智吾郎	
+main+022722C7	八十神高中校服	八十神高校制服	Yasogami High	芳泽霞	
+main+022722C8	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	主人公	
+main+022722C9	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	坂本龙司	
+main+022722CA	翠西服装1	トリッシュ衣装1	Trish Costume v1	摩尔加纳	
+main+022722CB	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	高卷杏	
+main+022722CC	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	喜多川佑介	
+main+022722CD	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	新岛真	
+main+022722CE	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	奥村春	
+main+022722CF	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	佐仓双叶	
+main+022722D0	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	明智吾郎	
+main+022722D1	圣艾尔敏学园校服	聖エルミン学園制服	St. Hermelin High	芳泽霞	
+main+022722D2	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	主人公	
+main+022722D3	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	坂本龙司	
+main+022722D4	翠西服装2	トリッシュ衣装2	Trish Costume v2	摩尔加纳	
+main+022722D5	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	高卷杏	
+main+022722D6	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	喜多川佑介	
+main+022722D7	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	新岛真	
+main+022722D8	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	奥村春	
+main+022722D9	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	佐仓双叶	
+main+022722DA	七姐妹学园校服	七姉妹学園制服	Kasugayama High	明智吾郎	
+main+022722DB	七姐妹学园校服	七姉妹学園制服	Seven Sisters High	芳泽霞	
+main+022722DC	文森特的日常服	ヴィンセントの普段着	Vincent's Outfit	主人公	
+main+022722DD	奥兰德的时尚服	オーランドのシャレ着	Orlando's Fashion	坂本龙司	
+main+022722DE	羔羊的布偶装	子羊の着ぐるみ	Stray Sheep's Suit	摩尔加纳	
+main+022722DF	凯瑟琳的自色小背心	キャサリンの白キャミ	Catherine's Cami	高卷杏	
+main+022722E0	强尼的大衣	ジョニーのコート	Johnny's Coat	喜多川佑介	
+main+022722E1	凯瑟琳的日常服	キャサリンの普段着	Katherine's Outfit	新岛真	
+main+022722E2	艾莉卡的餐厅制服	エリカの給仕服	Erica's Uniform	奥村春	
+main+022722E3	托比的工作服	トビーのツナギ	Toby's Overalls	佐仓双叶	
+main+022722E4	酒吧老板的西装	バーマスターのスーツ	Boss's Suit	明智吾郎	
+main+022722E5	琳的连身洋装	リンのワンピース	Rin's One Piece	芳泽霞	
+main+022722E6	轻子坂高中校服	軽子坂高校制服	Karukozaka High	主人公	
+main+022722E7	轻子坂高中校服	軽子坂高校制服	Karukozaka High	坂本龙司	
+main+022722E8	轻子坂高中校服	軽子坂高校制服	Karukozaka High	摩尔加纳	
+main+022722E9	轻子坂高中校服	軽子坂高校制服	Karukozaka High	高卷杏	
+main+022722EA	轻子坂高中校服	軽子坂高校制服	Karukozaka High	喜多川佑介	
+main+022722EB	轻子坂高中校服	軽子坂高校制服	Karukozaka High	新岛真	
+main+022722EC	轻子坂高中校服	軽子坂高校制服	Karukozaka High	奥村春	
+main+022722ED	轻子坂高中校服	軽子坂高校制服	Karukozaka High	佐仓双叶	
+main+022722EE	魔神皇的正装	魔神皇の正装	Hazama's Uniform	明智吾郎	
+main+022722EF	轻子坂高中校服	軽子坂高校制服	Karukozaka High	芳泽霞	
+main+022722F0	管家服	執事服	Butler Suit	主人公	
+main+022722F1	管家服	執事服	Butler Suit	坂本龙司	
+main+022722F2	女仆装	メイド服	Maid Uniform	摩尔加纳	
+main+022722F3	女仆装	メイド服	Maid Uniform	高卷杏	
+main+022722F4	管家服	執事服	Butler Suit	喜多川佑介	
+main+022722F5	女仆装	メイド服	Maid Uniform	新岛真	
+main+022722F6	女仆装	メイド服	Maid Uniform	奥村春	
+main+022722F7	女仆装	メイド服	Maid Uniform	佐仓双叶	
+main+022722F8	管家服	執事服	Butler Suit	明智吾郎	
+main+022722F9	女仆装	メイド服	Maid Uniform	芳泽霞	
+main+022722FA	圣诞节服装	クリスマスウェア	Christmas Outfit	主人公	
+main+022722FB	圣诞节服装	クリスマスウェア	Christmas Outfit	坂本龙司	
+main+022722FC	圣诞节服装	クリスマスウェア	Christmas Outfit	摩尔加纳	
+main+022722FD	圣诞节服装	クリスマスウェア	Christmas Outfit	高卷杏	
+main+022722FE	圣诞节服装	クリスマスウェア	Christmas Outfit	喜多川佑介	
+main+022722FF	圣诞节服装	クリスマスウェア	Christmas Outfit	新岛真	
+main+02272300	圣诞节服装	クリスマスウェア	Christmas Outfit	奥村春	
+main+02272301	圣诞节服装	クリスマスウェア	Christmas Outfit	佐仓双叶	
+main+02272302	圣诞节服装	クリスマスウェア	Christmas Outfit	明智吾郎	
+main+02272303	圣诞节服装	クリスマスウェア	Christmas Outfit	芳泽霞	
+main+02272304	舞蹈服装	ダンシングウェア	Dancewear	主人公	
+main+02272305	舞蹈服装	ダンシングウェア	Dancewear	坂本龙司	
+main+02272306	舞蹈服装	ダンシングウェア	Dancewear	摩尔加纳	
+main+02272307	舞蹈服装	ダンシングウェア	Dancewear	高卷杏	
+main+02272308	舞蹈服装	ダンシングウェア	Dancewear	喜多川佑介	
+main+02272309	舞蹈服装	ダンシングウェア	Dancewear	新岛真	
+main+0227230A	舞蹈服装	ダンシングウェア	Dancewear	奥村春	
+main+0227230B	舞蹈服装	ダンシングウェア	Dancewear	佐仓双叶	
+main+0227230C	舞蹈服装	ダンシングウェア	Dancewear	明智吾郎	
+main+0227230D	舞蹈服装	ダンシングウェア	Dancewear	芳泽霞	
+main+0227230E	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	主人公	
+main+0227230F	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	坂本龙司	
+main+02272310	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	摩尔加纳	
+main+02272311	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	高卷杏	
+main+02272312	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	喜多川佑介	
+main+02272313	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	新岛真	
+main+02272314	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	奥村春	
+main+02272315	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	佐仓双叶	
+main+02272316	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	明智吾郎	
+main+02272317	暗影行者制服	シャドウワーカー制服	Shadow Ops Uniform	芳泽霞	
+main+02272318	武士众服装	サムライ衆衣装	Samurai Garb	主人公	
+main+02272319	武士众服装	サムライ衆衣装	Samurai Garb	坂本龙司	
+main+0227231A	柏洛兹服装	バロウズ衣装	Burroughs Costume	摩尔加纳	
+main+0227231B	武士众服装	サムライ衆衣装	Samurai Garb	高卷杏	
+main+0227231C	武士众服装	サムライ衆衣装	Samurai Garb	喜多川佑介	
+main+0227231D	武士众服装	サムライ衆衣装	Samurai Garb	新岛真	
+main+0227231E	武士众服装	サムライ衆衣装	Samurai Garb	奥村春	
+main+0227231F	武士众服装	サムライ衆衣装	Samurai Garb	佐仓双叶	
+main+02272320	武士众服装	サムライ衆衣装	Samurai Garb	明智吾郎	
+main+02272321	武士众服装	サムライ衆衣装	Samurai Garb	芳泽霞	
+main+02272322	高级师范学校校服	高等師範学校制服	Yumizuki High	主人公	
+main+02272323	高级师范学校校服	高等師範学校制服	Yumizuki High	坂本龙司	
+main+02272324	业斗童子服装	業斗童子衣装	Gouto Costume	摩尔加纳	
+main+02272325	樱烂女子学院校服	桜爛女学院制服	Ouran High	高卷杏	
+main+02272326	高级师范学校校服	高等師範学校制服	Yumizuki High	喜多川佑介	
+main+02272327	樱烂女子学院校服	桜爛女学院制服	Ouran	新岛真	
+main+02272328	高级师范学校校服	高等師範学校制服	Ouran	奥村春	
+main+02272329	樱烂女子学院校服	桜爛女学院制服	Ouran High	佐仓双叶	
+main+0227232A	帝国陆军军服	帝国陸軍の軍服	Imperial Uniform	明智吾郎	
+main+0227232B	樱烂女子学院校服	桜爛女学院制服	Ouran High	芳泽霞	
+main+0227232C	星夜服	スターナイトウェア	Starlight Outfit	主人公	
+main+0227232D	星夜服	スターナイトウェア	Starlight Outfit	坂本龙司	
+main+0227232E	星夜服	スターナイトウェア	Starlight Outfit	摩尔加纳	
+main+0227232F	星夜服	スターナイトウェア	Starlight Outfit	高卷杏	
+main+02272330	星夜服	スターナイトウェア	Starlight Outfit	喜多川佑介	
+main+02272331	星夜服	スターナイトウェア	Starlight Outfit	新岛真	
+main+02272332	星夜服	スターナイトウェア	Starlight Outfit	奥村春	
+main+02272333	星夜服	スターナイトウェア	Starlight Outfit	佐仓双叶	
+main+02272334	星夜服	スターナイトウェア	Starlight Outfit	明智吾郎	
+main+02272335	星夜服	スターナイトウェア	Starlight Outfit	芳泽霞	
+main+02272336	月夜服	ムーンナイトウェア	Moonlight Outfit	主人公	无模型皮肤
+main+02272337	月夜服	ムーンナイトウェア	Moonlight Outfit	坂本龙司	无模型皮肤
+main+02272338	月夜服	ムーンナイトウェア	Moonlight Outfit	摩尔加纳	无模型皮肤
+main+02272339	月夜服	ムーンナイトウェア	Moonlight Outfit	高卷杏	无模型皮肤
+main+0227233A	月夜服	ムーンナイトウェア	Moonlight Outfit	喜多川佑介	无模型皮肤
+main+0227233B	月夜服	ムーンナイトウェア	Moonlight Outfit	新岛真	无模型皮肤
+main+0227233C	月夜服	ムーンナイトウェア	Moonlight Outfit	奥村春	无模型皮肤
+main+0227233D	月夜服	ムーンナイトウェア	Moonlight Outfit	佐仓双叶	无模型皮肤
+main+0227233E	月夜服	ムーンナイトウェア	Moonlight Outfit	明智吾郎	无模型皮肤
+main+0227233F	月夜服	ムーンナイトウェア	Moonlight Outfit	芳泽霞	无模型皮肤
+main+02272340	群青色服装	群青色の衣服	Ultramarine Outfit	主人公	
+main+02272341	群青色服装	群青色の衣服	Ultramarine Outfit	坂本龙司	
+main+02272342	长鼻子服装	長鼻の服	Long Nose Outfit	摩尔加纳	
+main+02272343	群青色服装	群青色の衣服	Ultramarine Outfit	高卷杏	
+main+02272344	群青色服装	群青色の衣服	Ultramarine Outfit	喜多川佑介	
+main+02272345	群青色服装	群青色の衣服	Ultramarine Outfit	新岛真	
+main+02272346	群青色服装	群青色の衣服	Ultramarine Outfit	奥村春	
+main+02272347	群青色服装	群青色の衣服	Ultramarine Outfit	佐仓双叶	
+main+02272348	群青色服装	群青色の衣服	Ultramarine Outfit	明智吾郎	
+main+02272349	群青色服装	群青色の衣服	Ultramarine Outfit	芳泽霞	
+main+0227234A	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	主人公	
+main+0227234B	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	坂本龙司	
+main+0227234C	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	摩尔加纳	
+main+0227234D	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	高卷杏	
+main+0227234E	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	喜多川佑介	
+main+0227234F	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	新岛真	
+main+02272350	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	奥村春	
+main+02272351	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	佐仓双叶	
+main+02272352	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	明智吾郎	
+main+02272353	翔羽侠战斗服	フェザーマンスーツ	Featherman Suit	芳泽霞	
+main+02272354	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	主人公	
+main+02272355	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	坂本龙司	
+main+02272356	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	摩尔加纳	
+main+02272357	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	高卷杏	
+main+02272358	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	喜多川佑介	
+main+02272359	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	新岛真	
+main+0227235A	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	奥村春	
+main+0227235B	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	佐仓双叶	
+main+0227235C	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	明智吾郎	
+main+0227235D	含头部的恶魔兵装	頭部有りデモニカスーツ	Demonica Head	芳泽霞	
+main+0227235E	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	主人公	
+main+0227235F	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	坂本龙司	
+main+02272360	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	摩尔加纳	
+main+02272361	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	高卷杏	
+main+02272362	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	喜多川佑介	
+main+02272363	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	新岛真	
+main+02272364	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	奥村春	
+main+02272365	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	佐仓双叶	
+main+02272366	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	明智吾郎	
+main+02272367	不含头部的恶魔兵装	頭部無しデモニカスーツ	Demonica Suit	芳泽霞	
+main+02272368	新电影服装	ニューシネマウェア	New Cinema Outfit	主人公	
+main+02272369	新电影服装	ニューシネマウェア	New Cinema Outfit	坂本龙司	
+main+0227236A	新电影服装	ニューシネマウェア	New Cinema Outfit	摩尔加纳	
+main+0227236B	新电影服装	ニューシネマウェア	New Cinema Outfit	高卷杏	
+main+0227236C	新电影服装	ニューシネマウェア	New Cinema Outfit	喜多川佑介	
+main+0227236D	新电影服装	ニューシネマウェア	New Cinema Outfit	新岛真	
+main+0227236E	新电影服装	ニューシネマウェア	New Cinema Outfit	奥村春	
+main+0227236F	新电影服装	ニューシネマウェア	New Cinema Outfit	佐仓双叶	
+main+02272370	新电影服装	ニューシネマウェア	New Cinema Outfit	明智吾郎	
+main+02272371	新电影服装	ニューシネマウェア	New Cinema Outfit	芳泽霞	
