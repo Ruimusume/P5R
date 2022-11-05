@@ -1,107 +1,296 @@
-基址	名称	角色
-main+02272464	托卡其夫	主人公
-main+02272465	盖巴南斯	主人公
-main+02272467	疯狂警察E	主人公
-main+02272469	马卡罗福	主人公
-main+0227246A	极・破坏神皇	主人公
-main+0227246F	西格・227	主人公
-main+02272472	极・万魔枪	主人公
-main+02272473	黑色模拟枪	主人公
-main+02272474	雷宾逊M31	坂本龙司
-main+02272476	格拉尼利M3	坂本龙司
-main+02272479	法兰克萨巴斯	坂本龙司
-main+0227247B	烟花	坂本龙司
-main+0227247C	南瓜炸裂弹	坂本龙司
-main+0227247D	米吉多爆能枪	坂本龙司
-main+02272480	南瓜炸弹	坂本龙司
-main+02272482	万能钥匙	坂本龙司
-main+0227248E	逆转	坂本龙司
-main+02272492	地狱之火	坂本龙司
-main+02272494	弹弓	摩尔加纳
-main+02272498	伯劳鸟	摩尔加纳
-main+0227249A	瞌睡破坏者	摩尔加纳
-main+0227249B	彗星3	摩尔加纳
-main+0227249D	极・善见神轮	摩尔加纳
-main+022724A7	夜梦岩弩	摩尔加纳
-main+022724AD	隼鹰	摩尔加纳
-main+022724AE	瞌睡虫	摩尔加纳
-main+022724B1	北极光	摩尔加纳
-main+022724B2	流星	摩尔加纳
-main+022724B3	巨星落炮	摩尔加纳
-main+022724B4	仿制机关枪	高卷杏
-main+022724B7	骑兵	高卷杏
-main+022724BA	闪雷MG	高卷杏
-main+022724C0	冷血	高卷杏
-main+022724C2	卫斯坦SMG	高卷杏
-main+022724C7	飞燕连发炮	高卷杏
-main+022724CD	巴拉莱卡	高卷杏
-main+022724CE	斯塔利吉	高卷杏
-main+022724CF	粉红射手	高卷杏
-main+022724D0	粉红炸弹客	高卷杏
-main+022724D1	永恒之枪	高卷杏
-main+022724D2	捕鸟蛛	高卷杏
-main+022724D4	仿制突击步枪	喜多川佑介
-main+022724D5	黑色突击	喜多川佑介
-main+022724D7	重型突击	喜多川佑介
-main+022724DF	歼灭者	喜多川佑介
-main+022724E1	AR-X	喜多川佑介
-main+022724E3	火筒	喜多川佑介
-main+022724E5	九头龙大豪炮	喜多川佑介
-main+022724E6	天帝	喜多川佑介
-main+022724EC	九头龙豪炮	喜多川佑介
-main+022724EE	反叛步枪	喜多川佑介
-main+022724F0	STAR-H	喜多川佑介
-main+022724F2	龙雷炮	喜多川佑介
-main+022724F3	天堂之门	喜多川佑介
-main+022724F4	仿制左轮	新岛真
-main+022724F5	和平使者	新岛真
-main+022724F9	铃星回转手枪	新岛真
-main+02272501	极・米利亚那	新岛真
-main+02272502	审判终结	新岛真
-main+02272508	无限	新岛真
-main+0227250A	米利亚那	新岛真
-main+0227250B	野角	新岛真
-main+0227250C	浸礼	新岛真
-main+0227250D	大蛇	新岛真
-main+0227250E	暮光	新岛真
-main+0227250F	地狱审判	新岛真
-main+02272510	怒发冲冠	坂本龙司
-main+02272511	瘟神枪	坂本龙司
-main+02272512	鬼雷炮	坂本龙司
-main+02272513	米吉多之火	坂本龙司
-main+02272514	仿制GL	奥村春
-main+02272515	猫拳炸弹	奥村春
-main+02272519	酷热	奥村春
-main+0227251A	猫拳火箭炮	奥村春
-main+0227251F	消除枪	奥村春
-main+02272520	米尔科姆	奥村春
-main+02272521	极・巴力雷棍	奥村春
-main+02272528	燃城	奥村春
-main+0227252A	魔窟	奥村春
-main+0227252B	巴力雷棍	奥村春
-main+0227252E	幻影杀手	高卷杏
-main+0227252F	狂野狩猎	高卷杏
-main+02272534	梅比乌斯	明智吾郎
-main+02272536	天狼星	明智吾郎
-main+02272537	红五	明智吾郎
-main+02272538	弹弓枪	摩尔加纳
-main+0227253A	乌托邦	摩尔加纳
-main+0227253B	善见神轮	摩尔加纳
-main+0227253E	源天	主人公
-main+0227253F	毁灭日	明智吾郎
-main+02272540	亘古常在者	明智吾郎
-main+02272544	R・1・手枪	主人公
-main+02272545	开头赌场用	主人公
-main+02272546	千瓣莲花	芳泽霞
-main+02272547	极・千瓣莲花	芳泽霞
-main+02272548	破坏神皇	主人公
-main+0227254A	沙漠之鹰	主人公
-main+0227254B	艾米尼塔	主人公
-main+0227254C	深红之枪	主人公
-main+0227254D	毛瑟枪	明智吾郎
-main+0227254E	黄衣女孩	芳泽霞
-main+0227254F	悲叹冥河	主人公
-main+02272550	万魔枪	主人公
-main+02272551	仿制双管步枪	芳泽霞
-main+02272552	霞赌场战枪	芳泽霞
-main+02272553	罗斯福	芳泽霞
+基址	名称	JP_NAME	EN_NAME	角色/性别
+main+02270B55	未使用	未使用	Unused	-
+main+02270B56	进击小刀	アタックナイフ	Rebel Knife	主人公
+main+02270B57	廓尔喀刀	ククリナイフ	Kukri	主人公
+main+02270B58	怪盗绅土手杖	怪盗紳士ステッキ	Arsene's Cane	主人公
+main+02270B59	冰封匕首	ブリズダガー	Blizz Dagger	主人公
+main+02270B5A	仪式小刀	アセイミナイフ	Athame	主人公
+main+02270B5B	RESERVE	リザーブ	RESERVE	主人公
+main+02270B5C	剥皮小刀	スキナーナイフ	Skinning Knife	主人公
+main+02270B5D	RESERVE	リザーブ	RESERVE	主人公
+main+02270B5E	电击比首	スタンダガー	Stun Dagger	主人公
+main+02270B5F	夺命手术刀	キリングメス	Killing Scalpel	主人公
+main+02270B60	RESERVE	リザーブ	RESERVE	主人公
+main+02270B61	月牙镰刀	ハルペーナイフ	Helper Knife	主人公
+main+02270B62	专业级剥皮小刀	プロ用スキナーナイフ	Pro Skinning Knife	主人公
+main+02270B63	RESERVE	リザーブ	RESERVE	主人公
+main+02270B64	超级小刀	メガナイフ	Mega Knife	主人公
+main+02270B65	皇家匕首	ロワイヤルダガー	Royal Dagger	主人公
+main+02270B66	RESERVE	リザーブ	RESERVE	主人公
+main+02270B67	开山刀	マチェットナイフ	Machete	主人公
+main+02270B68	巴赛拉德短剑	バゼラードナイフ	Baselard	主人公
+main+02270B69	RESERVE	リザーブ	RESERVE	主人公
+main+02270B6A	狂怒匕首	逆上ダガー	Frenzy Dagger	主人公
+main+02270B6B	名人的格挡匕首	名人のパリングダガー	Pro Parrying Dagger	主人公
+main+02270B6C	RESERVE	リザーブ	RESERVE	主人公
+main+02270B6D	慈悲短剑	ミセリコルデ	Misericorde	主人公
+main+02270B6E	格挡匕首	パリングダター	Parrying Dagger	主人公
+main+02270B6F	RESERVE	リザーブ	RESERVE	主人公
+main+02270B70	RESERVE	リザーブ	RESERVE	主人公
+main+02270B71	科皮斯弯刀	コピスナイフ	Kopis	主人公
+main+02270B72	炽火刀	イグナイター	Igniter	主人公
+main+02270B73	RESERVE	リザーブ	RESERVE	主人公
+main+02270B74	RESERVE	リザーブ	RESERVE	主人公
+main+02270B75	RESERVE	リザーブ	RESERVE	主人公
+main+02270B76	RESERVE	リザーブ	RESERVE	主人公
+main+02270B77	失乐园	パラダイスロスト	Paradise Lost	主人公
+main+02270B78	RESERVE	リザーブ	RESERVE	主人公
+main+02270B79	普通棍棒	ノーマルロッド	Normal Rod	坂本龙司
+main+02270B7A	审判钉锤	ヘルスラッガー	Hell Slugger	坂本龙司
+main+02270B7B	地狱强棒	ジャッジメイス	Judge Mace	坂本龙司
+main+02270B7C	重钢管	重鋼管	Heavy Steel Pipe	坂本龙司
+main+02270B7D	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B7E	战锤	バトルハンマー	Battle Hammer	坂本龙司
+main+02270B7F	高级铁管	高級鉄パイプ	Wicked Iron Pipe	坂本龙司
+main+02270B80	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B81	重型钉锤	ヘビーメイス	Heavy Mace	坂本龙司
+main+02270B82	尖刺棍棒	スパイクロッド	Spike Rod	坂本龙司
+main+02270B83	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B84	玄翁	玄翁	Bush Hammer	坂本龙司
+main+02270B85	鬼铁管	鬼パイプ	Demon Pipe	坂本龙司
+main+02270B86	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B87	工头专用玄翁	親方用玄翁	Boss Bush Hammer	坂本龙司
+main+02270B88	盖亚镇压者	ガイアプレッサー	Gaea Presser	坂本龙司
+main+02270B89	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B8A	永眠的昏睡棒	永遠の昏睡棒	Big Sleep Stick	坂本龙司
+main+02270B8B	电击棍	スタンバトン	Stun Baton	坂本龙司
+main+02270B8C	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B8D	龙神棒	竜神棒	Dragon God Pole	坂本龙司
+main+02270B8E	大地镇压者	グランドプレッサー	Grand Presser	坂本龙司
+main+02270B8F	末日棍棒	アルマゲドンロッド	Armageddon Rod	坂本龙司
+main+02270B90	超百万吨棍棒	超メガトンロッド	Super Megido Rod	坂本龙司
+main+02270B91	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B92	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B93	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B94	热血球棒	熱血バット	Fervent Bat	坂本龙司
+main+02270B95	如意棒	如意棒	Ruyi Jingu Bang	坂本龙司
+main+02270B96	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B97	昏睡棒	昏睡棒	Sleep Stick	坂本龙司
+main+02270B98	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B99	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B9A	暴徒之星	ギャング・スター	Gang Star	坂本龙司
+main+02270B9B	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270B9C	妙尔尼尔	ミョルニル	Mjolnir	坂本龙司
+main+02270B9D	劫匪之剑	バンディットソード	Bandit Sword	摩尔加纳
+main+02270B9E	猎头勺	首狩り杓子	Headhunter Ladle	摩尔加纳
+main+02270B9F	雨月弯刀	雨月の曲剣	Lunar Cutlass	摩尔加纳
+main+02270BA0	短弯刀	ソニックブレード	Sonic Blade	摩尔加纳
+main+02270BA1	音速刀	シミター	Scimitar	摩尔加纳
+main+02270BA2	塔尔瓦刀	タルワール	Talwar	摩尔加纳
+main+02270BA3	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BA4	安眠刀	スリーパーブレード	Sleeper Blade	摩尔加纳
+main+02270BA5	新月刀	シャムシール	Shamshir	摩尔加纳
+main+02270BA6	弑血短弯刀	血のシミター	Blood Scimitar	摩尔加纳
+main+02270BA7	夜须礼之剑	やすらいの剣	Resting Sword	摩尔加纳
+main+02270BA8	首领的弯刀	頭領の曲剣	Chief's Cutlass	摩尔加纳
+main+02270BA9	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BAA	宇宙电浆剑	コスモプラズマソード	Cosmic Sword	摩尔加纳
+main+02270BAB	大马士革剑	ダマスカスソード	Damascus Sword	摩尔加纳
+main+02270BAC	热血之剑	熱き血潮の剣	Hot-Blooded Sword	摩尔加纳
+main+02270BAD	重型军刀	へヴィサーベル	Heavy Saber	摩尔加纳
+main+02270BAE	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BAF	慌乱之剑	パニックソード	Panic Sword	摩尔加纳
+main+02270BB0	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB1	灵光剑	ブライトソード	Bright Sword	摩尔加纳
+main+02270BB2	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB3	应答者	アンスウェラー	Answerer	摩尔加纳
+main+02270BB4	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB5	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB6	光之剑	クレイヴソリッシュ	Claiomh Solais	摩尔加纳
+main+02270BB7	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB8	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BB9	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BBA	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BBB	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BBC	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BBD	神威军刀	ゴッドセーバー	God Saber	摩尔加纳
+main+02270BBE	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BBF	RESERVE	リザーブ	RESERVE	摩尔加纳
+main+02270BC0	皮鞭	レザーウィップ	Leather Whip	高卷杏
+main+02270BC1	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BC2	裂肤者	スキンリッパー	Skin Ripper	高卷杏
+main+02270BC3	炽红鞭	ヒートウィップ	Heat Whip	高卷杏
+main+02270BC4	战土鞭	戦士の鞭	Warrior Whip	高卷杏
+main+02270BC5	伴手礼的装饰鞭	土産の飾り鞭	Decorative Whip	高卷杏
+main+02270BC6	燃火鞭	バーンウィップ	Burn Whip	高卷杏
+main+02270BC7	女英豪之鞭	女傑の鞭	Hero Whip	高卷杏
+main+02270BC8	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BC9	蛇腹剑	蛇腹剣	Whip Sword	高卷杏
+main+02270BCA	电磁鞭	電磁ウィップ	Electromag Whip	高卷杏
+main+02270BCB	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BCC	幻象鞭	ミラージュウィップ	Mirage Whip	高卷杏
+main+02270BCD	强袭之尾	ストライクテイル	Strike Tail	高卷杏
+main+02270BCE	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BCF	大蛇腹剑	大蛇腹剣	Great Whip Sword	高卷杏
+main+02270BD0	锁链鞭	チェーンウィップ	Chain Whip	高卷杏
+main+02270BD1	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BD2	痛楚之畏	フィアーオブペイン	Fear of Pain	高卷杏
+main+02270BD3	尖刺鞭	スパイクウィップ	Spike Whip	高卷杏
+main+02270BD4	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BD5	坚桠	ハードブランチ	Hard Branch	高卷杏
+main+02270BD6	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BD7	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BD8	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BD9	罪恶鞭	ギルティーウィップ	Guilty Whip	高卷杏
+main+02270BDA	山羊皮鞭	山羊革のウィップ	Goat Leather Whip	高卷杏
+main+02270BDB	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BDC	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BDD	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BDE	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BDF	冰雪女王鞭	雪の女王の鞭	Snow Queen's Whip	高卷杏
+main+02270BE0	RESERVE	リザーブ	RESERVE	高卷杏
+main+02270BE1	深渊之鞭	奈落の鞭	Naraka Whip	高卷杏
+main+02270BE2	日本刀	日本刀	Katana	喜多川佑介
+main+02270BE3	军刀	軍刀	Gunto	喜多川佑介
+main+02270BE4	斩铜刀	斬銅刀	Zandouto	喜多川佑介
+main+02270BE5	唯美太刀	唯美の太刀	Yuibitachi	喜多川佑介
+main+02270BE6	村雨	村雨	Murasame	喜多川佑介
+main+02270BE7	古董军刀	アンティーク軍刀	Antique Gunto	喜多川佑介
+main+02270BE8	制式刀	制式刀	Seishiki Sword	喜多川佑介
+main+02270BE9	小江户刀	小江戸の刀	Koedo Sword	喜多川佑介
+main+02270BEA	蛇牙刀	蛇牙刀	Jagato	喜多川佑介
+main+02270BEB	月光	月光	Gekkou	喜多川佑介
+main+02270BEC	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BED	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BEE	居合刀	居合刀	Iai Katana	喜多川佑介
+main+02270BEF	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BF0	大蛇刀	大蛇刀	Orochito	喜多川佑介
+main+02270BF1	大胁差	大脇差	Wakizashi	喜多川佑介
+main+02270BF2	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BF3	梦想正宗	夢想正宗	Masamune	喜多川佑介
+main+02270BF4	名匠的居合刀	達人の居合刀	Master's Iai Katana	喜多川佑介
+main+02270BF5	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BF6	溅血魔刀	血繁吹く魔刀	Red Demon Blade	喜多川佑介
+main+02270BF7	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BF8	快刀・乱麻	快刀・乱麻	Kaito Ranma	喜多川佑介
+main+02270BF9	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BFA	薄绿	薄緑	Usumidori	喜多川佑介
+main+02270BFB	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BFC	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BFD	烟管刀	仕込み煙管	Shikomi Kiseru	喜多川佑介
+main+02270BFE	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270BFF	豪刀『千两名角』	豪刀“千両役者”	Senryou Yakusha	喜多川佑介
+main+02270C00	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270C01	黄铜拳套	ブラスナックル	Brass Knuckles	新岛真
+main+02270C02	地狱拳套	ヘルナックル	Hell Knuckles	新岛真
+main+02270C03	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C04	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C05	重金扫荡者	メタルダスター	Metal Duster	新岛真
+main+02270C06	人父之拳	親父の拳	Old Man's Fist	新岛真
+main+02270C07	铁拳	鉄拳	Iron Fist	新岛真
+main+02270C08	马赫拳套	マッハパンチ	Mach Punch	新岛真
+main+02270C09	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C0A	魔鬼霸拳	鬼の拳骨	Demon Fist	新岛真
+main+02270C0B	闪光拳套	フラッシュパンチ	Flash Punch	新岛真
+main+02270C0C	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C0D	终极拳套	オメガナックル	Omega Knuckle	新岛真
+main+02270C0E	竞赛拳套	バウトグローブ	Bout Gloves	新岛真
+main+02270C0F	制裁	サンクション	Sanction	新岛真
+main+02270C10	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C11	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C12	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C13	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C14	小熊手套	ベアグローブ	Bear Gloves	新岛真
+main+02270C15	霸拳	拳骨	Clenched Fist	新岛真
+main+02270C16	萨巴兹乌斯	サバジオス	Sabazios	新岛真
+main+02270C17	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C18	RESERVE	リザーブ	RESERVE	新岛真
+main+02270C19	金刚杵	ヴァジュラ	Vajra	新岛真
+main+02270C1A	统治之鞭	統制の鞭	Disciplinary Whip	高卷杏
+main+02270C1B	铁管	鉄パイプ	Iron Pipe	坂本龙司
+main+02270C1C	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270C1D	战斧	アクス	Axe	奥村春
+main+02270C1E	超级战斧	メガアクス	Mega Axe	奥村春
+main+02270C1F	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C20	新月战斧	クレセントアクス	Crescent Axe	奥村春
+main+02270C21	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C22	寒冰战斧	アイスドアクス	Ice Axe	奥村春
+main+02270C23	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C24	凿斧	セルティス	Celtis	奥村春
+main+02270C25	金太郎印的斧头	金太郎印の斧	Kintaro Axe	奥村春
+main+02270C26	亚马逊战斧	アマゾネスアクス	Amazon Axe	奥村春
+main+02270C27	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C28	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C29	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C2A	大爆炸战斧	ビッグバンアクス	Big Bang Axe	奥村春
+main+02270C2B	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C2C	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C2D	基加美修战斧	ギルガメスアクス	Gilgamesh Axe	奥村春
+main+02270C2E	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C2F	恶之华战斧	フルールドマル	Fleurs du Mal	奥村春
+main+02270C30	手指虎	ナックルダスター	Knuckle Duster	新岛真
+main+02270C31	三角拳套	デルタナックル	Delta Knuckle	新岛真
+main+02270C32	重击拳套	ヘビーグリップ	Heavy Grip	新岛真
+main+02270C33	辉光军刀	ルミナサーベル	Lumina Saber	明智吾郎
+main+02270C34	火之迦具土	ヒノカグツチ	Hinokagutsuchi	明智吾郎
+main+02270C35	类星体军刀	クェーサーサーベル	Quasar Saber	明智吾郎
+main+02270C36	火之迦具土・改	ヒノカグツチ改	Hinokagutsuchi II	明智吾郎
+main+02270C37	弯刃大刀	ファルシオン	Falchion	摩尔加纳
+main+02270C38	虚幻缎带	マスカレイドリボン	Masquerade Ribbon	高卷杏
+main+02270C39	分铜锁	分銅鎖	Fundo-Kusari	高卷杏
+main+02270C3A	濒死之斧	断末魔の斧	Death Axe	奥村春
+main+02270C3B	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C3C	RESERVE	リザーブ	RESERVE	奥村春
+main+02270C3D	半月斧	バルディッシュ	Bardiche	奥村春
+main+02270C3E	死亡契约	デスコントラクト	Death Contract	奥村春
+main+02270C3F	黑色小刀	黒い小刀	Black Kogatana	主人公
+main+02270C40	RESERVE	リザーブ	RESERVE	-
+main+02270C41	RESERVE	リザーブ	RESERVE	主人公
+main+02270C42	RESERVE	リザーブ	RESERVE	-
+main+02270C43	RESERVE	リザーブ	RESERVE	喜多川佑介
+main+02270C44	嫉妒锁链	やっかみチェーン	Envy Chain	高卷杏
+main+02270C45	教祖之手	教祖の御手	Prophet's Hand	新岛真
+main+02270C46	RESERVE	リザーブ	RESERVE	-
+main+02270C47	博运军刀	ヤマカンサーベル	Venture Saber	摩尔加纳
+main+02270C48	RESERVE	リザーブ	RESERVE	坂本龙司
+main+02270C49	白银匕首	シルバーダガー	Silver Dagger	主人公
+main+02270C4A	锯齿军刀	ノコギリサーベル	Saw Saber	明智吾郎
+main+02270C4B	RESERVE	リザーブ	RESERVE	明智吾郎
+main+02270C4C	RESERVE	リザーブ	RESERVE	明智吾郎
+main+02270C4D	霞觉醒时刺剑	覚醒時かすみ突剣	Kasumi Awaken Rapier	芳泽霞
+main+02270C4E	霞援助时刺剑	援助時かすみ突剣	Kasumi Aid Rapier	芳泽霞
+main+02270C4F	西洋剑	レイピア	Rapier	芳泽霞
+main+02270C50	RESERVE	リザーブ	RESERVE	芳泽霞
+main+02270C51	RESERVE	リザーブ	RESERVE	芳泽霞
+main+02270C52	西奈神剑	シナイの神剣	Sword of Sinai	芳泽霞
+main+02270C53	西奈神剑・改	シナイの神剣改	Sword of Sinai II	芳泽霞
+main+02270C54	大怪盗手杖	大怪盗ステッキ	The Great Thief Stick	主人公
+main+02270C55	失乐园R	パラダイスロストR	Paradise Lost R	主人公
+main+02270C56	扼杀的妙尔尼尔	圧殺のミョルニル	Imprisoned Mjolnir	坂本龙司
+main+02270C57	破天如意棒	破天の如意棒	Fine Ruyi Jingu Bang	坂本龙司
+main+02270C58	猎头巨勺	首狩りの大杓子	Headhunter Ladle EX	摩尔加纳
+main+02270C59	光之剑R	クレイヴソリッシュR	Claiomh Solais R	摩尔加纳
+main+02270C5A	虚幻缎带R	マスカレイドリボンR	Masquerade Ribbon R	高卷杏
+main+02270C5B	冰雪女王鞭・改	雪の女王の鞭改	Snow Queen's Whip II	高卷杏
+main+02270C5C	大深渊之鞭	大奈落の鞭	Dainaraka Whip	高卷杏
+main+02270C5D	『千两名角』・真打	”千両役者”・真打	Senryou Yakusha R	喜多川佑介
+main+02270C5E	薄绿・真打	薄緑・真打	Usumidori R	喜多川佑介
+main+02270C5F	大熊手套	ビッグベアグローブ	Big Bear Gloves	新岛真
+main+02270C60	戈耳狄俄斯	ゴルディオス	Gordios	新岛真
+main+02270C61	无双金刚杵	無比のヴァジュラ	Unparalleled Vajra	新岛真
+main+02270C62	死亡承诺	デスプロミス	Death Promise	奥村春
+main+02270C63	恶之华战斧R	フルールドマルR	Fleurs du Mal R	奥村春
+main+02270C64	电浆小刀	プラズマナイフ	Plasma Knife	主人公
+main+02270C65	始祖钉锤	アークメイス	Arc Mace	坂本龙司
+main+02270C66	莫吉斯堤斯之剑	メギストソード	Megistos Sword	摩尔加纳
+main+02270C67	炎魔鞭	バルログウィップ	Barog Whip	高卷杏
+main+02270C68	化结心刀	化結心刀	Kaketsushinto	喜多川佑介
+main+02270C69	流星拳套	流星ナックル	Meteor Knuckle	新岛真
+main+02270C6A	太极之斧	太極の斧	Taiji Axe	奥村春
+main+02270C6B	骇人军刀	ドレッドサーベル	Dread Saber	明智吾郎
+main+02270C6C	白雪西洋剑	白雪のレイピア	White Snow Rapier	芳泽霞
+main+02270C6D	惩治匕首	パニッシュダガー	Punish Dagger	主人公
+main+02270C6E	最终之锤	ラストハンマー	Last Hammer	坂本龙司
+main+02270C6F	矗锋锐剑	パーティカルエッジ	Vertical Edge	摩尔加纳
+main+02270C70	缚狼锁	グラウプニル	Grapnel	高卷杏
+main+02270C71	天一文字	天一文字	Ten Ichimonji	喜多川佑介
+main+02270C72	拳王	チャンピオン	Champion	新岛真
+main+02270C73	十字军	クルセイダー	Crusader	奥村春
+main+02270C74	断头军刀	ギロチンサーベル	Guillotine Saber	明智吾郎
+main+02270C75	穿甲刺剑	ジラハボック	Zirah Bouk	芳泽霞
+main+02270C76	暗黑弯刀	暗黒の曲剣	Dark Cutlass	摩尔加纳
+main+02270C77	姆特弯刀	ムトの曲剣	Mut Cutlass	摩尔加纳
+main+02270C78	百家乐拳套	バカラナックル	Baccarat Knuckle	新岛真
+main+02270C79	胜利之光	ビクトリービーム	Victory Beam	明智吾郎
+main+02270C7A	决意西洋剑	決意のレイピア	Decisive Rapier	芳泽霞
+main+02270C7B	无限军刀	アンフィニサーベル	Infini-saber	明智吾郎
