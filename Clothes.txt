@@ -248,8 +248,8 @@ main+02272369	新电影服装	ニューシネマウェア	New Cinema Outfit	坂�
 main+0227236A	新电影服装	ニューシネマウェア	New Cinema Outfit	摩尔加纳	
 main+0227236B	新电影服装	ニューシネマウェア	New Cinema Outfit	高卷杏	
 main+0227236C	新电影服装	ニューシネマウェア	New Cinema Outfit	喜多川佑介	
-main+0227236D	新电影服装	ニューシネマウェア	New Cinema Outfit	新岛真	
-main+0227236E	新电影服装	ニューシネマウェア	New Cinema Outfit	奥村春	
-main+0227236F	新电影服装	ニューシネマウェア	New Cinema Outfit	佐仓双叶	
-main+02272370	新电影服装	ニューシネマウェア	New Cinema Outfit	明智吾郎	
-main+02272371	新电影服装	ニューシネマウェア	New Cinema Outfit	芳泽霞	
+main+0227236D	新电影服装	ニューシネマウェア	New Cinema Outfit	新岛真
+main+0227236E	新电影服装	ニューシネマウェア	New Cinema Outfit	奥村春
+main+0227236F	新电影服装	ニューシネマウェア	New Cinema Outfit	佐仓双叶
+main+02272370	新电影服装	ニューシネマウェア	New Cinema Outfit	明智吾郎
+main+02272371	新电影服装	ニューシネマウェア	New Cinema Outfit	芳泽霞
