@@ -1,443 +1,443 @@
-基址	名称
-main+02271355	时尚眼镜
-main+02271356	吊带
-main+02271357	腰包
-main+02271358	发夹
-main+02271359	白银钥匙环
-main+0227135A	黑色裤袜
-main+0227135B	网点裤袜
-main+0227135C	耳机
-main+0227135D	正装领带
-main+0227135F	气息戒指
-main+02271360	毅力戒指
-main+02271361	活力戒指
-main+02271365	脉轮项圈
-main+02271366	思维项圈
-main+02271367	灵魂项圈
-main+0227136B	朱色手链
-main+0227136C	苍色手链
-main+0227136D	绿色手链
-main+0227136E	黄色手链
-main+0227136F	提灯项链
-main+02271373	星型手链
-main+02271374	圆形手链
-main+02271375	纯白手链
-main+02271376	漆黑手链
-main+0227137B	怒火腕带
-main+0227137C	破天荒腰带
-main+0227137D	怒火腕带
-main+0227137E	休息磁气项链
-main+0227137F	不屈不挠领带
-main+02271380	不动吊带
-main+02271381	顽强腰带
-main+02271382	梆子
-main+02271383	肩颈热水袋
-main+02271384	橡胶手套
-main+02271385	护目镜
-main+02271386	镇定口罩
-main+02271387	粗犷的木屐
-main+02271388	备忘录
-main+02271389	饱腹斗篷
-main+0227138A	觉醒紫水晶
-main+0227138B	息怒斗篷
-main+0227138C	希望斗篷
-main+0227138D	怒火腕带
-main+0227138E	护脑器
-main+0227138F	避火护身符
-main+02271390	祛寒护身符
-main+02271391	强打护身符
-main+02271392	防麻护身符
-main+02271394	无畏斗篷
-main+02271399	希望护身符
-main+0227139C	报复的镜子
-main+0227139D	复仇的镜子
-main+0227139E	天罚的镜子
-main+0227139F	咖啡因贴片
-main+022713A0	薰衣草百花香
-main+022713A1	积极日历
-main+022713A2	高级墨镜
-main+022713A3	不乱斗篷
-main+022713A4	燃烧油包
-main+022713A5	保冷袋
-main+022713A6	电池组
-main+022713A7	眩目面具
-main+022713A8	乱心面具
-main+022713A9	惊悚面具
-main+022713AA	遗忘面具
-main+022713AB	催眠面具
-main+022713AC	小丑面具
-main+022713AD	世纪未面具
-main+022713AE	教祖面具
-main+022713AF	色欲的戒指
-main+022713B0	虚荣的戒指
-main+022713B1	暴食的戒指
-main+022713B2	愤怒的戒指
-main+022713B3	贪婪的戒指
-main+022713B4	嫉妒的戒指
-main+022713B5	傲慢的戒指
-main+022713B6	悲叹的戒指
-main+022713B7	悲叹的戒指
-main+022713B8	色欲的结晶
-main+022713B9	暴食的结晶
-main+022713BA	愤怒的结晶
-main+022713BB	贪婪的结晶
-main+022713BC	嫉妒的结晶
-main+022713BD	傲慢的结晶
-main+022713BE	悲叹的结晶
-main+022713C3	罗刹衣带
-main+022713C4	金刚衣带
-main+022713C5	韦驮天衣带
-main+022713C6	王牌棒球帽
-main+022713C7	顽强的缠腰
-main+022713C8	鱼饵钥匙圈
-main+022713C9	英勇背带
-main+022713CA	魔导幸运手环
-main+022713CB	冥府的竖琴
-main+022713CC	冥府的竖琴R
-main+022713CD	黑暗之轮
-main+022713CE	黑暗之轮R
-main+022713CF	纯白的头带
-main+022713D0	纯白的头带R
-main+022713D1	漆黑的头带
-main+022713D2	漆黑的头带R
-main+022713D3	红丝线球
-main+022713D4	红丝线球R
-main+022713D5	雷光角
-main+022713D6	雷光角R
-main+022713D7	黑月
-main+022713D8	黑月R
-main+022713DA	优美的竖琴
-main+022713DB	优美的竖琴R
-main+022713DC	子弹鞋
-main+022713DD	子弹鞋R
-main+022713DE	光明的头带
-main+022713DF	光明的头带R
-main+022713E0	怪盗绅士礼帽
-main+022713E1	大怪盗礼帽
-main+022713E4	武士眼罩
-main+022713E5	高级・压力袜
-main+022713E7	防火项圈
-main+022713E8	防焰手镯
-main+022713EA	防冰项圈
-main+022713EB	防冰雪手镯
-main+022713ED	雷神护符
-main+022713EE	防紫电手镯
-main+022713F0	风神护符
-main+022713F1	防强风手镯
-main+022713F3	防热项圈
-main+022713F4	防热浪手镯
-main+022713F6	防精神力项圈
-main+022713F7	防念力手镯
-main+022713F9	防光项圈
-main+022713FA	防威严手镯
-main+022713FC	防诅咒项圈
-main+022713FD	消灾发簪
-main+022713FF	大天使纹章
-main+02271402	缩时戒指
-main+0227140B	摄政王
-main+0227140C	王后的项链
-main+0227140D	命运之石
-main+0227140E	光之山
-main+0227140F	奥尔洛夫
-main+02271410	大帝的护符
-main+02271411	希望钻石
-main+02271412	水晶骷髅
-main+02271413	十字架吊饰
-main+02271414	海幸彦腰带
-main+02271415	韦驮天腰带
-main+02271416	殿堂腰带
-main+02271417	怪盗面具
-main+02271418	黑之石
-main+02271419	骷髅吊饰
-main+0227141A	红莲项链
-main+0227141B	银冰项链
-main+0227141C	绿风项链
-main+0227141D	紫电项链
-main+0227141E	原子项链
-main+0227141F	念波项链
-main+02271420	圣天项链
-main+02271421	暗夜项链
-main+02271423	梅内胡内链子
-main+02271424	夏威夷鲜花戒指
-main+02271425	佛钮司徽章
-main+02271426	垢铁徽章
-main+02271427	豪血寺徽章
-main+02271428	神拳de徽章
-main+02271429	招摇撞骗徽章
-main+0227142A	高尔夫徽章
-main+0227142B	铁人腰带
-main+0227142C	帅哥手镜
-main+0227142D	卢布朗的护身符
-main+0227142E	老板严选内裤
-main+0227142F	二等海员徽章
-main+02271430	等海员徽章
-main+02271431	船长徽章
-main+02271432	小治愈促进贴片
-main+02271433	中治愈促进贴片
-main+02271434	大治愈促进贴片
-main+02271435	贴贴小气功
-main+02271436	贴贴中气功
-main+02271437	贴贴大气功
-main+0227143A	胜利的祝酒杯
-main+0227143B	鱼神徽章
-main+0227143C	全能真球
-main+0227143D	完全神柱
-main+0227143E	看不见的面纱
-main+02271440	执着珍珠
-main+02271441	扩灾束腰
-main+02271445	神圣之石
-main+02271446	自称特别搜查队眼镜
-main+02271447	特别课外活动部臂章
-main+02271448	七姐妹纹章
-main+02271449	圣艾尔敏学园校徽
-main+0227144A	携带型计算机
-main+0227144B	深夜头巾
-main+0227144C	携带用・召唤枪
-main+0227144D	海龟吊饰
-main+0227144E	堤基钥匙圈
-main+0227144F	beast耳机
-main+02271450	巴别耳机
-main+02271451	小羊枕头
-main+02271452	仪式护手
-main+02271453	葛叶的封魔管
-main+02271454	翔羽侠徽章
-main+02271455	火纹辉石
-main+02271456	冰纹辉石
-main+02271457	雷纹辉石
-main+02271458	风纹辉石
-main+02271459	念纹辉石
-main+0227145A	核纹辉石
-main+0227145B	圣十字辉石
-main+0227145C	骸骨纹辉石
-main+0227145D	疗愈辉石
-main+0227145F	究极辉石
-main+02271461	羽翼戒指
-main+02271462	高手的狗牌
-main+02271463	红色缎带
-main+02271464	星火戒指
-main+02271465	红莲戒指
-main+02271466	大红莲戒指
-main+02271467	星火螺旋戒指
-main+02271468	红莲螺旋戒指
-main+02271469	大红莲螺旋戒指
-main+0227146A	细雪戒指
-main+0227146B	零度戒指
-main+0227146C	绝对零度戒指
-main+0227146D	细雪螺旋戒指
-main+0227146E	零度螺旋戒指
-main+0227146F	绝对零度螺旋戒指
-main+02271470	微风戒指
-main+02271471	暴风戒指
-main+02271472	大暴风戒指
-main+02271473	微风螺旋戒指
-main+02271474	暴风螺旋戒指
-main+02271475	大暴风螺旋戒指
-main+02271476	带电戒指
-main+02271477	雷电戒指
-main+02271478	大雷电戒指
-main+02271479	带电螺旋戒指
-main+0227147A	雷电螺旋戒指
-main+0227147B	大雷电螺旋戒指
-main+0227147C	升天戒指
-main+0227147D	超升天戒指
-main+0227147E	升天螺旋戒指
-main+0227147F	超升天螺旋戒指
-main+02271480	祝福戒指
-main+02271481	祝贺戒指
-main+02271482	大祝贺戒指
-main+02271483	祝福螺旋戒指
-main+02271484	祝贺螺旋戒指
-main+02271485	大祝贺螺旋戒指
-main+02271486	咒杀戒指
-main+02271487	大咒杀戒指
-main+02271488	咒杀螺旋戒指
-main+02271489	大咒杀螺旋戒指
-main+0227148A	诅咒戒指
-main+0227148B	咒缚戒指
-main+0227148C	大咒缚戒指
-main+0227148D	诅咒螺旋戒指
-main+0227148E	咒缚螺旋戒指
-main+0227148F	大咒缚螺旋戒指
-main+02271490	万能戒指
-main+02271491	大万能戒指
-main+02271492	极大万能戒指
-main+02271493	核热戒指
-main+02271494	极热戒指
-main+02271495	大极热戒指
-main+02271496	核热螺旋戒指
-main+02271497	极热螺旋戒指
-main+02271498	大极热螺旋戒指
-main+02271499	眩晕手环
-main+0227149A	眩晕螺旋手环
-main+0227149B	混乱手环
-main+0227149C	混乱螺旋手环
-main+0227149D	恐惧手环
-main+0227149E	陪笑面具
-main+0227149F	遗忘手环
-main+022714A0	遗忘螺旋手环
-main+022714A1	睡眠手环
-main+022714A2	睡眠螺旋手环
-main+022714A3	狂怒手环
-main+022714A4	狂怒螺旋手环
-main+022714A5	绝望手环
-main+022714A6	绝望螺旋手环
-main+022714A7	洗脑手环
-main+022714A8	煽动之冠
-main+022714A9	吸血面具
-main+022714AA	吸魔面具
-main+022714AB	灵异手镜
-main+022714AC	邪灵手镜
-main+022714AD	灵异相机
-main+022714AE	大邪炎项圈
-main+022714AF	阿尔达手镯
-main+022714B0	碎冰百合
-main+022714B1	冰河之冠
-main+022714B2	暴风邪神像
-main+022714B3	真空波之冠
-main+022714B4	女神的大雷角
-main+022714B5	雷神的誓愿
-main+022714B6	审判十字架
-main+022714B7	回转讲道之冠
-main+022714B8	被诅咒的白缎带
-main+022714B9	可以为我而死吗?之冠
-main+022714BA	灼热龙角
-main+022714BB	宇宙火焰之冠
-main+022714BC	漆黑之蛇冠
-main+022714BD	拂晓明星之冠
-main+022714BE	念力戒指
-main+022714BF	业念戒指
-main+022714C0	大业念戒指
-main+022714C1	念力螺旋戒指
-main+022714C2	业念螺旋戒指
-main+022714C3	大业念螺旋戒指
-main+022714C5	龙神的念动石
-main+022714C6	念动力之冠
-main+022714C7	突击腰带
-main+022714C8	冲锋腰带
-main+022714C9	百万吨腰带
-main+022714CA	神手腰带
-main+022714CB	幸运腰带
-main+022714CC	奇迹腰带
-main+022714CD	突袭腰带
-main+022714CE	加特林腰带
-main+022714CF	突袭腰带
-main+022714D0	大斩断腰带
-main+022714D1	勇气腰带
-main+022714D2	剑舞腰带
-main+022714D3	八艘跳跃腰带
-main+022714D4	巴力神矛腰带
-main+022714D5	穷鼠腰带
-main+022714D6	加倍腰带
-main+022714D7	死亡游戏腰带
-main+022714D8	指弹腰带
-main+022714D9	三连弹腰带
-main+022714DA	必杀弹腰带
-main+022714DB	魔弹腰带
-main+022714DC	二连弹腰带
-main+022714DD	金刚发破腰带
-main+022714DE	空间杀法腰带
-main+022714DF	烈风腰带
-main+022714E0	灼热腰带
-main+022714E1	巨人腰带
-main+022714E2	狂暴腰带
-main+022714E3	电光石火腰带
-main+022714E4	界限腰带
-main+022714E5	火神腰带
-main+022714E6	二连牙腰带
-main+022714E7	力量腰带
-main+022714E8	五月雨腰带
-main+022714E9	刹那五月雨腰带
-main+022714EA	战锤腰带
-main+022714EB	倒栽腰带
-main+022714EC	恐惧腰带
-main+022714ED	失忆腰带
-main+022714EF	织梦腰带
-main+022714F0	歇斯底里腰带
-main+022714F1	消极腰带
-main+022714F2	脑髓腰带
-main+022714F3	闪光腰带
-main+022714F4	乱心腰带
-main+022714F5	血祭腰带
-main+022714F6	忘杀腰带
-main+022714F8	昏睡腰带
-main+022714F9	神乐腰带
-main+022714FA	绝望敲打腰带
-main+022714FB	大脑髓腰带
-main+022714FC	疗愈吊饰
-main+022714FD	治愈吊饰
-main+022714FE	痊愈吊饰
-main+022714FF	疗愈螺旋吊饰
-main+02271500	治愈螺旋吊饰
-main+02271501	痊愈螺旋吊饰
-main+02271502	复苏吊饰
-main+02271503	大复苏吊饰
-main+02271504	纯洁的玫瑰念珠
-main+02271505	甘露吊饰
-main+02271506	甘露螺旋吊饰
-main+02271507	救世之冠
-main+02271508	注目戒指
-main+02271509	潜伏戒指
-main+0227150A	觉醒吊饰
-main+0227150B	能量螺旋吊饰
-main+0227150C	能量吊饰
-main+0227150D	宁息吊饰
-main+0227150E	觉醒螺旋吊饰
-main+0227150F	宁息螺旋吊饰
-main+02271510	罗刹脚环
-main+02271511	金刚脚环
-main+02271512	猫胸针
-main+02271513	激昂脚环
-main+02271514	罗刹螺旋脚环
-main+02271515	金刚螺旋脚环
-main+02271516	韦驮天螺旋脚环
-main+02271517	绝路胸针
-main+02271518	乏力脚环
-main+02271519	防弱脚环
-main+0227151A	失速脚环
-main+0227151B	随机脚环
-main+0227151C	乏力螺旋脚环
-main+0227151D	防弱螺旋脚环
-main+0227151E	失速螺旋脚环
-main+0227151F	除灵脚环
-main+02271520	洗礼脚环
-main+02271521	瞬间强化脚环
-main+02271522	聚精会神脚环
-main+02271523	反叛脚环
-main+02271524	大革命脚环
-main+02271525	魔反镜护符
-main+02271526	物反镜护符
-main+02271527	不灭护符
-main+02271528	破铁壁护符
-main+02271529	破魔镜护符
-main+0227152A	抗火盾饰
-main+0227152B	抗冰盾饰
-main+0227152C	抗雷盾饰
-main+0227152D	抗风盾饰
-main+0227152E	召火铃
-main+0227152F	召冰铃
-main+02271530	召风铃
-main+02271531	召雷铃
-main+02271532	抗热盾饰
-main+02271533	抗念力盾饰
-main+02271534	召核热铃
-main+02271535	召念力铃
-main+02271537	摄政王R
-main+02271538	王后的项链R
-main+02271539	命运之石R
-main+0227153A	光之山R
-main+0227153B	奥尔洛夫R
-main+0227153C	大帝的护符R
-main+0227153D	希望钻石R
-main+0227153E	水晶骷髅R
-main+0227153F	奥利哈钢
-main+02271540	奥利哈钢R
-main+02271541	决胜戒指
-main+02271542	幻视根付
-main+02271543	核子胸针
-main+02271544	星夜手套
-main+02271545	月夜耳机
-main+02271546	看守的警棍
-main+02271547	翔羽侠披风
-main+02271548	恶魔装置
-main+02271549	电影挂绳
-main+0227154A	继承技能饰品
+基址	名称	JP_NAME	EN_NAME
+main+02271355	时尚眼镜	ファッショングラス	Hip Glasses
+main+02271356	吊带	サスペンダー	Suspenders
+main+02271357	腰包	ウェストポーチ	Fanny Pack
+main+02271358	发夹	ヘアピン	Hairpin
+main+02271359	白银钥匙环	シルバーキーリング	Silver Key Ring
+main+0227135A	黑色裤袜	ブラックタイツ	Black Tights
+main+0227135B	网点裤袜	ドットタイツ	Dotted Tights
+main+0227135C	耳机	ヘッドホン	Headphones
+main+0227135D	正装领带	フォーマルタイ	Black Necktie
+main+0227135F	气息戒指	息吹のリング	Breath Ring
+main+02271360	毅力戒指	根気のリング	Energy Ring
+main+02271361	活力戒指	生気のリング	Ring of Vitality
+main+02271365	脉轮项圈	チャクラチョーカー	Chakra Choker
+main+02271366	思维项圈	マインドチョーカー	Mind Choker
+main+02271367	灵魂项圈	ソウルチョーカー	Soul Choker
+main+0227136B	朱色手链	朱のブレスレット	Red Band
+main+0227136C	苍色手链	蒼のブレスレット	Blue Band
+main+0227136D	绿色手链	緑のブレスレット	Green Band
+main+0227136E	黄色手链	黄のブレスレット	Yellow Band
+main+0227136F	提灯项链	ランタンのネックレス	Lantern Necklace
+main+02271373	星型手链	星型ブレスレット	Star Bracelet
+main+02271374	圆形手链	丸型ブレスレット	Circular Band
+main+02271375	纯白手链	純白のブレスレット	White Band
+main+02271376	漆黑手链	漆黒のブレスレット	Black Band
+main+0227137B	怒火腕带	怒りのリストバンド	Raging Wristband
+main+0227137C	破天荒腰带	破天荒ベルト	Eccentric Belt
+main+0227137E	休息磁气项链	休息磁気ネックレス	Magnetic Necklace
+main+0227137F	不屈不挠领带	七転び八起きネクタイ	PickMeUp Tie
+main+02271380	不动吊带	不動のサスペンダー	Sturdy Suspenders
+main+02271381	顽强腰带	頑強ベルト	Strength Belt
+main+02271382	梆子	柏子木	Wood Clappers
+main+02271383	肩颈热水袋	首巻き湯たんぽ	Hot Water Pouch
+main+02271384	橡胶手套	ゴム手袋	Rubber Gloves
+main+02271385	护目镜	遮光ゴーグル	Shield Goggles
+main+02271386	镇定口罩	鎮静マスク	Calming Mask
+main+02271387	粗犷的木屐	バンカラの下駄	Wooden Clogs
+main+02271388	备忘录	備忘録	Notebook
+main+02271389	饱腹斗篷	腹減らずのマント	WellFed Cape
+main+0227138A	觉醒紫水晶	メザメジスト	Sleepless Gem
+main+0227138B	息怒斗篷	怒らずのマント	Calming Cape
+main+0227138C	希望斗篷	希望のマント	Cape of Hope
+main+0227138E	护脑器	ブレインガード	Brain Guard
+main+0227138F	避火护身符	火事除けのお守り	Burn Charm
+main+02271390	祛寒护身符	寒さ除けのお守り	Freeze Charm
+main+02271391	强打护身符	強打者のお守り	Grand Slam Charm
+main+02271392	防麻护身符	痺れ除けのお守り	Shockproof Charm
+main+02271394	无畏斗篷	恐れずのマント	Fearless Cape
+main+02271399	希望护身符	希望のお守り	Despair Charm
+main+0227139C	报复的镜子	仕返しのミラー	Revenge Mirror
+main+0227139D	复仇的镜子	報復のミラー	Reprisal Mirror
+main+0227139E	天罚的镜子	天罰のミラー	Retribution Mirror
+main+0227139F	咖啡因贴片	カフェインバッチ	Caffeine Patch
+main+022713A0	薰衣草百花香	ラベンダーポプリ	Peaceful Potpourri
+main+022713A1	积极日历	ポジティブカレンダー	Positivity Calendar
+main+022713A2	高级墨镜	高級サングラス	Designer Shades
+main+022713A3	不乱斗篷	混乱除けマント	Clarity Cape
+main+022713A4	燃烧油包	炎上オイルパック	Oil Pack
+main+022713A5	保冷袋	保冷パック	Cooling Pack
+main+022713A6	电池组	電池パック	Portable Battery
+main+022713A7	眩目面具	目眩のマスク	Dizzy Mask
+main+022713A8	乱心面具	乱れたマスク	Mysterious Mask
+main+022713A9	惊悚面具	ホラーマスク	Sinister Mask
+main+022713AA	遗忘面具	忘却のマスク	Forgetful Mask
+main+022713AB	催眠面具	睡眠マスク	Drowsy Mask
+main+022713AC	小丑面具	道化のマスク	Clown Mask
+main+022713AD	世纪未面具	世紀末のマスク	Corrupting Mask
+main+022713AE	教祖面具	教祖のマスク	Occult Mask
+main+022713AF	色欲的戒指	色欲の指輪	Ring of Lust
+main+022713B0	虚荣的戒指	虚飾の指輪	Ring of Vanity
+main+022713B1	暴食的戒指	暴食の指輪	Ring of Gluttony
+main+022713B2	愤怒的戒指	憤怒の指輪	Ring of Wrath
+main+022713B3	贪婪的戒指	強欲の指輪	Ring of Greed
+main+022713B4	嫉妒的戒指	嫉妬の指輪	Ring of Envy
+main+022713B5	傲慢的戒指	傲慢の指輪	Ring of Pride
+main+022713B6	悲叹的戒指	悲嘆の指輪	Ring of Sorrow
+main+022713B7	悲叹的戒指	色欲の結晶	Crystal of Lust
+main+022713B8	色欲的结晶	虚飾の結晶	Crystal of Vanity
+main+022713B9	暴食的结晶	暴食の結晶	Crystal of Gluttony
+main+022713BA	愤怒的结晶	憤怒の結晶	Crystal of Wrath
+main+022713BB	贪婪的结晶	強欲の結晶	Crystal of Greed
+main+022713BC	嫉妒的结晶	嫉妬の結晶	Crystal of Envy
+main+022713BD	傲慢的结晶	傲慢の結晶	Crystal of Pride
+main+022713BE	悲叹的结晶	悲嘆の結晶	Crystal of Sorrow
+main+022713C3	罗刹衣带	羅刹の帯	Rakshasa Belt
+main+022713C4	金刚衣带	金剛の帯	Varja Belt
+main+022713C5	韦驮天衣带	韋駄天の帯	Skanda Belt
+main+022713C6	王牌棒球帽	エースのキャップ	Ace Cap
+main+022713C7	顽强的缠腰	頑強の腹巻	Willful Belt
+main+022713C8	鱼饵钥匙圈	ルアーのキーホルダー	Lure Keychain
+main+022713C9	英勇背带	紅蓮のリング	Bravery Sash
+main+022713CA	魔导幸运手环	イグニスリング	Magic Misanga
+main+022713CB	冥府的竖琴	冥府の竪琴	Hades Harp
+main+022713CC	冥府的竖琴R	冥府の竪琴R	Hades Harp R
+main+022713CD	黑暗之轮	黒き闇輪	Darkness Ring
+main+022713CE	黑暗之轮R	黒き闇輪R	Darkness Ring R
+main+022713CF	纯白的头带	純白の鉢巻	White Headband
+main+022713D0	纯白的头带R	純白の鉢巻R	White Headband R
+main+022713D1	漆黑的头带	漆黒の鉢巻	Black Headband
+main+022713D2	漆黑的头带R	漆黒の鉢巻R	Black Headband R
+main+022713D3	红丝线球	赤い糸玉	Red String
+main+022713D4	红丝线球R	赤い糸玉R	Red String R
+main+022713D5	雷光角	雷光の角	Blazing Horn
+main+022713D6	雷光角R	雷光の角R	Inferno Horn
+main+022713D7	黑月	黒い月	Black Moon
+main+022713D8	黑月R	黒い月R	Black Moon R
+main+022713DA	优美的竖琴	優美の竪琴	Graceful Harp
+main+022713DB	优美的竖琴R	優美の竪琴R	Graceful Harp R
+main+022713DC	子弹鞋	クーゲルバイン	Kugelbein
+main+022713DD	子弹鞋R	クーゲルバインR	Kugelbein R
+main+022713DE	光明的头带	光明の鉢巻	Shiny Belt
+main+022713DF	光明的头带R	光明の鉢巻R	Shiny Belt R
+main+022713E0	怪盗绅士礼帽	怪盗紳士ハット	Picaresque Hat
+main+022713E1	大怪盗礼帽	大怪盗ハット	Picaresque Crown
+main+022713E4	武士眼罩	武士の眼帯	Bold Eyepatch
+main+022713E5	高级・压力袜	高級・着圧ソックス	Compression Socks
+main+022713E7	防火项圈	火避けのチョーカー	Fireproof Choker
+main+022713E8	防焰手镯	火避けの腕輪	Fireproof Bracelet
+main+022713EA	防冰项圈	氷避けのチョーカー	Iceproof Choker
+main+022713EB	防冰雪手镯	氷雪避けの腕輪	Iceproof Bracelet
+main+022713ED	雷神护符	雷神の護符	Elecproof Choker
+main+022713EE	防紫电手镯	紫電避けの腕輪	Elecproof Bracelet
+main+022713F0	风神护符	風神の護符	Windproof Choker
+main+022713F1	防强风手镯	強風避けの腕輪	Windproof Bracelet
+main+022713F3	防热项圈	熱避けのチョーカー	Nukeproof Choker
+main+022713F4	防热浪手镯	熱波避けの腕輪	Nukeproof Bracelet
+main+022713F6	防精神力项圈	思念避けのチョーカー	Psyproof Choker
+main+022713F7	防念力手镯	念力避けの腕輪	Psyproof Bracelet
+main+022713F9	防光项圈	光避けのチョーカー	Blessproof Choker
+main+022713FA	防威严手镯	威光避けの腕輪	Blessproof Bracelet
+main+022713FC	防诅咒项圈	呪い避けのチョーカー	Curseproof Choker
+main+022713FD	消灾发簪	厄除けかんざし	Apotropaic Hairpin
+main+022713FF	大天使纹章	大天使のワッペン	Angel Badge
+main+02271402	缩时戒指	時短リング	Expedite Ring
+main+0227140B	摄政王	リージェント	Regent
+main+0227140C	王后的项链	女王の首飾り	Queen's Necklace
+main+0227140D	命运之石	スクーンの石	Stone of Scone
+main+0227140E	光之山	コ・イ・ヌール	KohiNoor
+main+0227140F	奥尔洛夫	オルロフ	Orlov
+main+02271410	大帝的护符	大帝の護符	Emperor's Charm
+main+02271411	希望钻石	ホープダイヤ	Hope Diamond
+main+02271412	水晶骷髅	水晶髑髏	Crystal Skull
+main+02271413	十字架吊饰	十字架のチャーム	CrossShaped Charm
+main+02271414	海幸彦腰带	海幸彦ベルト	Umi Sachihiko's Belt
+main+02271415	韦驮天腰带	韋駄天のベルト	Idaten's Belt
+main+02271416	殿堂腰带	殿堂のベルト	Hall of Fame Belt
+main+02271417	怪盗面具	怪盗マスク	Thief Mask
+main+02271418	黑之石	黒い石	Black Rock
+main+02271419	骷髅吊饰	ドクロのチャーム	Skull Charm
+main+0227141A	红莲项链	紅蓮のネックレス	Crimson Necklace
+main+0227141B	银冰项链	銀氷のネックレス	Silver Ice Necklace
+main+0227141C	绿风项链	緑風のネックレス	Jade Wind Necklace
+main+0227141D	紫电项链	紫電のネックレス	Purple Bolt Necklace
+main+0227141E	原子项链	原子のネックレス	Atom Necklace
+main+0227141F	念波项链	念波のネックレス	Psy Necklace
+main+02271420	圣天项链	聖天のネックレス	Heavenly Necklace
+main+02271421	暗夜项链	闇夜のネックレス	Night Necklace
+main+02271423	梅内胡内链子		Menehune Dolls
+main+02271424	夏威夷鲜花戒指	ハワイアンレイの指輪	Hawaiian Ring
+main+02271425	佛钮司徽章	フォルネウスバッジ	Forneus Badge
+main+02271426	垢铁徽章	あか鉄バッジ	Train Badge
+main+02271427	豪血寺徽章	豪血寺バッジ	PI Badge
+main+02271428	神拳de徽章	パンチｄｅバッジ	Punch Badge
+main+02271429	招摇撞骗徽章	はったれバッジ	Gambla Badge
+main+0227142A	高尔夫徽章	ゴルフバッジ	Golfer Badge
+main+0227142B	铁人腰带	タフガイのベルト	Tough Belt
+main+0227142C	帅哥手镜	伊達男のハンドミラー	Dandy Mirror
+main+0227142D	卢布朗的护身符	ルブランのお守り	Leblanc Charm
+main+0227142E	老板严选内裤	マスターパンツ	Boss Undies
+main+0227142F	二等海员徽章	二等航海士バッジ	2nd Mate Badge
+main+02271430	等海员徽章	一等航海士バッジ	1st Mate Badge
+main+02271431	船长徽章	キャプテンバッジ	Captain Badge
+main+02271432	小治愈促进贴片	小治癒促進パッチ	Regen Patch 1
+main+02271433	中治愈促进贴片	中治癒促進パッチ	Regen Patch 2
+main+02271434	大治愈促进贴片	大治癒促進パッチ	Regen Patch 3
+main+02271435	贴贴小气功	貼る小気功	SP Adhesive 1
+main+02271436	贴贴中气功	貼る中気功	SP Adhesive 2
+main+02271437	贴贴大气功	貼る大気功	SP Adhesive 3
+main+0227143A	胜利的祝酒杯	勝利の祝杯	The Victory Cup
+main+0227143B	鱼神徽章	魚神のバッジ	Fish God's Badge
+main+0227143C	全能真球	全能の真球	Omnipotent Orb
+main+0227143D	完全神柱	完全神柱	Divine Pillar
+main+0227143E	看不见的面纱	不可視のベール	Invisible Veil
+main+02271440	执着珍珠	執着真珠	Attachment Pearl
+main+02271441	扩灾束腰	迷惑腰巻	Nuisance Belt
+main+02271445	神圣之石	ホーリーストーン（イベント）	Holy Stone
+main+02271446	自称特别搜查队眼镜	自称特别捜査隊メガネ	Team Glasses
+main+02271447	特别课外活动部臂章	特别課外活動部の腕章	S.E.E.S. Armband
+main+02271448	七姐妹纹章	セブンスエンブレム	Sevens Emblem
+main+02271449	圣艾尔敏学园校徽	聖エルミン学園校章	St. Hermelin Badge
+main+0227144A	携带型计算机	ハンドヘルドCPU	ARM PC
+main+0227144B	深夜头巾	マヨナカのバンダナ	Midnight Bandana
+main+0227144C	携带用・召唤枪	携帯用・召喚銃	Evoker
+main+0227144D	海龟吊饰	ホヌのチャーム	Honu Charm
+main+0227144E	堤基钥匙圈	ティキキーホルダー	Tiki Keychain
+main+0227144F	beast耳机	beastヘッドホン	Beast Headphones
+main+02271450	巴别耳机	バベレコヘッドホン	Babel Headphones
+main+02271451	小羊枕头	子羊達の枕	Lambs' Pillow
+main+02271452	仪式护手	儀式のガントレット	Gauntlet
+main+02271453	葛叶的封魔管	葛葉の封魔管	Kuzunoha Tubes
+main+02271454	翔羽侠徽章	フェザーマンバッジ	Featherman Badge
+main+02271455	火纹辉石	火紋の輝石	Fire Augite
+main+02271456	冰纹辉石	氷紋の輝石	Ice Augite
+main+02271457	雷纹辉石	雷紋の輝石	Lightning Augite
+main+02271458	风纹辉石	風紋の輝石	Wind Augite
+main+02271459	念纹辉石	念紋の輝石	Psy Augite
+main+0227145A	核纹辉石	核紋の輝石	Nuclear Augite
+main+0227145B	圣十字辉石	聖十字の輝石	Cross Augite
+main+0227145C	骸骨纹辉石	骸骨紋の輝石	Skeleton Augite
+main+0227145D	疗愈辉石	癒しの輝石	Healing Augite
+main+0227145F	究极辉石	究極の輝石	Ultimate Augite
+main+02271461	羽翼戒指	羽のリング	Wing Ring
+main+02271462	高手的狗牌	名手のドッグタグ	Engraved Dog Tag
+main+02271463	红色缎带	赤のリボン	Red Ribbon
+main+02271464	星火戒指	火の粉のリング	Ember Ring
+main+02271465	红莲戒指	紅蓮のリング	Flame Ring
+main+02271466	大红莲戒指	大紅蓮のリング	Inferno Ring
+main+02271467	星火螺旋戒指	火の粉の螺旋リング	Spiral Ember Ring
+main+02271468	红莲螺旋戒指	紅蓮の螺旋リング	Spiral Flame Ring
+main+02271469	大红莲螺旋戒指	大紅蓮の螺旋リング	Spiral Inferno Ring
+main+0227146A	细雪戒指	粉雪のリング	Frost Ring
+main+0227146B	零度戒指	零度のリング	Snow Ring
+main+0227146C	绝对零度戒指	絶対零度のリング	Blizzard Ring
+main+0227146D	细雪螺旋戒指	粉雪の螺旋リング	Spiral Frost Ring
+main+0227146E	零度螺旋戒指	零度の螺旋リング	Spiral Snow Ring
+main+0227146F	绝对零度螺旋戒指	絶対零度の螺旋リング	Spiral Blizzard Ring
+main+02271470	微风戒指	微風のリング	Breeze Ring
+main+02271471	暴风戒指	嵐のリング	Wind Ring
+main+02271472	大暴风戒指	大嵐のリング	Gale Ring
+main+02271473	微风螺旋戒指	微風の螺旋リング	Spiral Breeze Ring
+main+02271474	暴风螺旋戒指	嵐の螺旋リング	Spiral Wind Ring
+main+02271475	大暴风螺旋戒指	大嵐の螺旋リング	Spiral Gale Ring
+main+02271476	带电戒指	帯電のリング	Static Ring
+main+02271477	雷电戒指	雷のリング	Spark Ring
+main+02271478	大雷电戒指	大雷のリング	Thunder Ring
+main+02271479	带电螺旋戒指	帯電の螺旋リング	Spiral Static Ring
+main+0227147A	雷电螺旋戒指	雷の螺旋リング	Spiral Spark Ring
+main+0227147B	大雷电螺旋戒指	大雷の螺旋リング	Spiral Thunder Ring
+main+0227147C	升天戒指	昇天のリング	Holy Ring
+main+0227147D	超升天戒指	超昇天のリング	Hallowed Ring
+main+0227147E	升天螺旋戒指	昇天の螺旋リング	Spiral Holy Ring
+main+0227147F	超升天螺旋戒指	超昇天の螺旋リング	Spiral Hallowed Ring
+main+02271480	祝福戒指	祝いのリング	Prayer Ring
+main+02271481	祝贺戒指	祝賀のリング	Blessing Ring
+main+02271482	大祝贺戒指	大祝賀のリング	Divine Ring
+main+02271483	祝福螺旋戒指	祝いの螺旋リング	Spiral Prayer Ring
+main+02271484	祝贺螺旋戒指	祝賀の螺旋リング	Spiral Blessing Ring
+main+02271485	大祝贺螺旋戒指	大祝賀の螺旋リング	Spiral Divine Ring
+main+02271486	咒杀戒指	呪殺のリング	Death Ring
+main+02271487	大咒杀戒指	大呪殺のリング	Hell Ring
+main+02271488	咒杀螺旋戒指	呪殺の螺旋リング	Spiral Death Ring
+main+02271489	大咒杀螺旋戒指	大呪殺の螺旋リング	Spiral Hell Ring
+main+0227148A	诅咒戒指	呪いのリング	Grudge Ring
+main+0227148B	咒缚戒指	呪縛のリング	Curse Ring
+main+0227148C	大咒缚戒指	大呪縛のリング	Hex Ring
+main+0227148D	诅咒螺旋戒指	呪いの螺旋リング	Spiral Grudge Ring
+main+0227148E	咒缚螺旋戒指	呪縛の螺旋リング	Spiral Curse Ring
+main+0227148F	大咒缚螺旋戒指	大呪縛の螺旋リング	Spiral Hex Ring
+main+02271490	万能戒指	万能リング	Mighty Ring
+main+02271491	大万能戒指	大万能リング	Almighty Ring
+main+02271492	极大万能戒指	極大万能リング	Supreme Ring
+main+02271493	核热戒指	核熱のリング	Atom Ring
+main+02271494	极热戒指	極熱のリング	Nuclear Ring
+main+02271495	大极热戒指	大極熱のリング	Reactor Ring
+main+02271496	核热螺旋戒指	核熱の螺旋リング	Spiral Atom Ring
+main+02271497	极热螺旋戒指	極熱の螺旋リング	Spiral Nuclear Ring
+main+02271498	大极热螺旋戒指	大極熱の螺旋リング	Spiral Reactor Ring
+main+02271499	眩晕手环	眩暈のバングル	Dizzy Bangle
+main+0227149A	眩晕螺旋手环	眩暈の螺旋バングル	Spiral Dizzy Bangle
+main+0227149B	混乱手环	混乱のバングル	Addle Bangle
+main+0227149C	混乱螺旋手环	混乱の螺旋バングル	Spiral Addle Bangle
+main+0227149D	恐惧手环	恐怖のバングル	Fear Bangle
+main+0227149E	陪笑面具	営業スマイルマスク	Retail Smile Mask
+main+0227149F	遗忘手环	忘却のバングル	Forget Bangle
+main+022714A0	遗忘螺旋手环	忘却の螺旋バングル	Spiral Forget Bangle
+main+022714A1	睡眠手环	睡眠のバングル	Sleep Bangle
+main+022714A2	睡眠螺旋手环	睡眠の螺旋バングル	Spiral Sleep Bangle
+main+022714A3	狂怒手环	激怒のバングル	Rage Bangle
+main+022714A4	狂怒螺旋手环	激怒の螺旋バングル	Spiral Rage Bangle
+main+022714A5	绝望手环	絶望のバングル	Gloom Bangle
+main+022714A6	绝望螺旋手环	絶望の螺旋バングル	Spiral Gloom Bangle
+main+022714A7	洗脑手环	洗脳のバングル	Brainwash Bangle
+main+022714A8	煽动之冠	扇動の冠	Agitation Crown
+main+022714A9	吸血面具	吸血マスク	Life Sapping Mask
+main+022714AA	吸魔面具	吸魔のマスク	Spirit Sapping Mask
+main+022714AB	灵异手镜	霊感の手鏡	Spirit Sense Mirror
+main+022714AC	邪灵手镜	邪霊の手鏡	Dark Spirit Mirror
+main+022714AD	灵异相机	心霊カメラ	Spirit Camera
+main+022714AE	大邪炎项圈	大邪炎の輪	Dark Flame Band
+main+022714AF	阿尔达手镯	アルダナバンド	Ardhanari Band
+main+022714B0	碎冰百合	細氷のユリ	Diamond Dust Lily
+main+022714B1	冰河之冠	氷河の冠	Frozen Crown
+main+022714B2	暴风邪神像	暴風の邪神像	Storm Sculpture
+main+022714B3	真空波之冠	真空派の冠	Vacuum Crown
+main+022714B4	女神的大雷角	女神の大雷角	Goddess Horn
+main+022714B5	雷神的誓愿	雷神の誓願	Thunder Charm
+main+022714B6	审判十字架	審判の十字架	Judgement Cross
+main+022714B7	回转讲道之冠	回転説法	Spinning Crown
+main+022714B8	被诅咒的白缎带	呪われた白リボン	Cursed Ribbon
+main+022714B9	可以为我而死吗?之冠	死んでくれる？の冠	Crown of Death
+main+022714BA	灼热龙角	灼熱の竜角	Fire Dragon Horn
+main+022714BB	宇宙火焰之冠	コズミックフレアの冠	Atomic Crown
+main+022714BC	漆黑之蛇冠	漆黒の蛇の冠	Black Viper Crown
+main+022714BD	拂晓明星之冠	明けの明星の冠	Astral Crown
+main+022714BE	念力戒指	念力のリング	Psy Ring
+main+022714BF	业念戒指	業念のリング	Karma Ring
+main+022714C0	大业念戒指	大業念のリング	Mystic Ring
+main+022714C1	念力螺旋戒指	念力の螺旋リング	Spiral Psy Ring
+main+022714C2	业念螺旋戒指	業念の螺旋リング	Spiral Karma Ring
+main+022714C3	大业念螺旋戒指	大業念の螺旋リング	Spiral Mystic Ring
+main+022714C4	—	リザーブ	—
+main+022714C5	龙神的念动石	龍神の念動石	Dragon's Heart
+main+022714C6	念动力之冠	サイコフォースの冠	Psycho Blast Crown
+main+022714C7	突击腰带	突撃ベルト	Lunge Belt
+main+022714C8	冲锋腰带	アサルトベルト	Assault Belt
+main+022714C9	百万吨腰带	メガトンベルト	Megaton Belt
+main+022714CA	神手腰带	神の手ベルト	God's Hand Belt
+main+022714CB	幸运腰带	ラッキーベルト	Lucky Belt
+main+022714CC	奇迹腰带	ミラクルベルト	Miracle Belt
+main+022714CD	突袭腰带	ラッシュベルト	Rush Belt
+main+022714CE	加特林腰带	ガトリングベルト	Gatling Belt
+main+022714CF	突袭腰带	スラッシュベルト	Cleave Belt
+main+022714D0	大斩断腰带	大切断ベルト	Giant Slice Belt
+main+022714D1	勇气腰带	ブレイブベルト	Brave Belt
+main+022714D2	剑舞腰带	剣舞のベルト	Sword Dance Belt
+main+022714D3	八艘跳跃腰带	八艘跳びベルト	Hassou Tobi Belt
+main+022714D4	巴力神矛腰带	マイムールベルト	Ayamur Belt
+main+022714D5	穷鼠腰带	窮鼠のベルト	Cornered Belt
+main+022714D6	加倍腰带	レイズベルト	Rising Slash Belt
+main+022714D7	死亡游戏腰带	死亡遊戯のベルト	Deadly Fury Belt
+main+022714D8	指弹腰带	指弾ベルト	Snap Belt
+main+022714D9	三连弹腰带	三連弾ベルト	Triple Shot Belt
+main+022714DA	必杀弹腰带	必殺弾のベルト	Special Shot Belt
+main+022714DB	魔弹腰带	魔弾のベルト	Magic Bullet Belt
+main+022714DC	二连弹腰带	二連弾ベルト	Double Shot Belt
+main+022714DD	金刚发破腰带	金剛発破ベルト	Vajra Blast Belt
+main+022714DE	空间杀法腰带	空間殺法ベルト	Vorpal Blade Belt
+main+022714DF	烈风腰带	烈風ベルト	Vicious Strike Belt
+main+022714E0	灼热腰带	ヒートベルト	Heat Wave Belt
+main+022714E1	巨人腰带	ギガントベルト	Gigantomachia Belt
+main+022714E2	狂暴腰带	暴れん坊のベルト	Brawler Belt
+main+022714E3	电光石火腰带	電光石火のベルト	Swift Strike Belt
+main+022714E4	界限腰带	バウンドベルト	Deathbound Belt
+main+022714E5	火神腰带	アグネヤベルト	Agneyastra Belt
+main+022714E6	二连牙腰带	二連牙ベルト	Double Fangs Belt
+main+022714E7	力量腰带	パワーベルト	Power Slash Belt
+main+022714E8	五月雨腰带	五月雨ベルト	Tempest Slash Belt
+main+022714E9	刹那五月雨腰带	刹那五月雨ベルト	Myriad Slash Belt
+main+022714EA	战锤腰带	ハンマーベルト	Sledgehammer Belt
+main+022714EB	倒栽腰带	脳天ベルト	Skull Cracker Belt
+main+022714EC	恐惧腰带	テラーベルト	Terror Claw Belt
+main+022714ED	失忆腰带	ヘッドベルト	Headbutt Belt
+main+022714EF	织梦腰带	夢見ベルト	Dream Needle Belt
+main+022714F0	歇斯底里腰带	ヒステリーベルト	Hysterical Slap Belt
+main+022714F1	消极腰带	ネガティブベルト	Negative Pile Belt
+main+022714F2	脑髓腰带	脳髄ベルト	Brain Shaker Belt
+main+022714F3	闪光腰带	フラッシュベルト	Flash Bomb Belt
+main+022714F4	乱心腰带	スライスベルト	Mind Slice Belt
+main+022714F5	血祭腰带	血祭りベルト	Bloodbath Belt
+main+022714F6	忘杀腰带	忘殺ベルト	Memory Blow Belt
+main+022714F8	昏睡腰带	昏睡ベルト	Dormin Rush Belt
+main+022714F9	神乐腰带	神楽ベルト	OniKagura Belt
+main+022714FA	绝望敲打腰带	バッドビートベルト	Bad Beat Belt
+main+022714FB	大脑髓腰带	大脳隋ベルト	Brain Buster Belt
+main+022714FC	疗愈吊饰	癒しのチャーム	Aid Charm
+main+022714FD	治愈吊饰	治癒のチャーム	Cure Charm
+main+022714FE	痊愈吊饰	完治のチャーム	Heal Charm
+main+022714FF	疗愈螺旋吊饰	癒しの螺旋チャーム	Spiral Aid Charm
+main+02271500	治愈螺旋吊饰	治癒の螺旋チャーム	Spiral Cure Charm
+main+02271501	痊愈螺旋吊饰	完治の螺旋チャーム	Spiral Heal Charm
+main+02271502	复苏吊饰	蘇生のチャーム	Revival Charm
+main+02271503	大复苏吊饰	大蘇生のチャーム	Rejuvenate Charm
+main+02271504	纯洁的玫瑰念珠	純真のロザリオ	Rosary of Purity
+main+02271505	甘露吊饰	アムリタチャーム	Amrita Charm
+main+02271506	甘露螺旋吊饰	アムリタ螺旋チャーム	Spiral Amrita Charm
+main+02271507	救世之冠	救世の冠	Salvation Crown
+main+02271508	注目戒指	ひきつけリング	Alluring Belt
+main+02271509	潜伏戒指	潜伏リング	Hidden Ring
+main+0227150A	觉醒吊饰	目覚ましチャーム	Alarm Charm
+main+0227150B	能量螺旋吊饰	エナジー螺旋チャーム	Spiral Energy Charm
+main+0227150C	能量吊饰	エナジーャーム	Energy Charm
+main+0227150D	宁息吊饰	事無きのチャーム	Baisudi Charm
+main+0227150E	觉醒螺旋吊饰	目覚まし螺旋チャーム	Spiral Alarm Charm
+main+0227150F	宁息螺旋吊饰	事無きの螺旋チャーム	Spiral Baisudi Charm
+main+02271510	罗刹脚环	羅刹のアンクル	Rasetsu Anklet
+main+02271511	金刚脚环	金剛のアンクル	Vajra Anklet
+main+02271512	猫胸针	キャットブローチ	Cat Brooch
+main+02271513	激昂脚环	ライザーアンクル	Heat Riser Anklet
+main+02271514	罗刹螺旋脚环	羅刹の螺旋アンクル	Spiral Rastsu Anklet
+main+02271515	金刚螺旋脚环	金剛の螺旋アンクル	Spiral Vajra Anklet
+main+02271516	韦驮天螺旋脚环	韋駄天の螺旋アンクル	Spiral Idaten Anklet
+main+02271517	绝路胸针	崖っぷちブローチ	Savior Brooch
+main+02271518	乏力脚环	非力のアンクル	Weak Anklet
+main+02271519	防弱脚环	忘弱のアンクル	Feeble Anklet
+main+0227151A	失速脚环	失速のアンクル	Stalling Anklet
+main+0227151B	随机脚环	ランダマアンクル	Debilitate Anklet
+main+0227151C	乏力螺旋脚环	非力の螺旋アンクル	Spiral Weak Anklet
+main+0227151D	防弱螺旋脚环	防弱の螺旋アンクル	Spiral Feeble Anklet
+main+0227151E	失速螺旋脚环	失速の螺旋アンクル	Spiral Stalling Anklet
+main+0227151F	除灵脚环	除霊アンクル	Dekunda Anklet
+main+02271520	洗礼脚环	洗礼アンクル	Calming Anklet
+main+02271521	瞬间强化脚环	瞬間増強のアンクル	Empowering Anklet
+main+02271522	聚精会神脚环	精神集中のアンクル	Concentration Anklet
+main+02271523	反叛脚环	リベリオンアンクル	Rebellion Anklet
+main+02271524	大革命脚环	大革命のアンクル	Revolution Anklet
+main+02271525	魔反镜护符	魔反鏡の護符	Magic Mirror Charm
+main+02271526	物反镜护符	物反鏡の護符	Phys Mirror Charm
+main+02271527	不灭护符	不滅の護符	Immortal Charm
+main+02271528	破铁壁护符	鉄壁壊しの護符	Wall Break Charm
+main+02271529	破魔镜护符	魔鏡壊しの護符	Barrier Break Charm
+main+0227152A	抗火盾饰	火伏せの盾飾り	AntiFire Choker
+main+0227152B	抗冰盾饰	氷伏せの盾飾り	AntiIce Choker
+main+0227152C	抗雷盾饰	雷伏せの盾飾り	AntiElec Choker
+main+0227152D	抗风盾饰	風伏せの盾飾り	AntiWind Choker
+main+0227152E	召火铃	火呼びのチャイム	Fire Breaker Bell
+main+0227152F	召冰铃	氷呼びのチャイム	Ice Breaker Bell
+main+02271530	召风铃	風呼びのチャイム	Wind Breaker Bell
+main+02271531	召雷铃	雷呼びのチャイム	Elec Breaker Bell
+main+02271532	抗热盾饰	熱伏せの盾飾り	AntiNuke Choker
+main+02271533	抗念力盾饰	念力伏せの盾飾り	AntiPsy Choker
+main+02271534	召核热铃	核熱呼びのチャイム	Nuke Breaker Bell
+main+02271535	召念力铃	念力呼びのチャイム	Psy Breaker Bell
+main+02271536	0x1E2	0x1E2	0x1E2
+main+02271537	摄政王R	リージェントR	Regent R
+main+02271538	王后的项链R	女王の首飾りR	Queen's Necklace R
+main+02271539	命运之石R	スクーンの石R	Stone of Scone R
+main+0227153A	光之山R	コ・イ・ヌールR	KohiNoor R
+main+0227153B	奥尔洛夫R	オルロフR	Orlov R
+main+0227153C	大帝的护符R	大帝の護符R	Emperor's Charm R
+main+0227153D	希望钻石R	ホープダイヤR	Hope Diamond R
+main+0227153E	水晶骷髅R	水晶髑髏R	Crystal Skull R
+main+0227153F	奥利哈钢	オリハルコン	Orichalcum
+main+02271540	奥利哈钢R	オリハルコンR	Orichalcum R
+main+02271541	决胜戒指	勝負のリング	Gambler's Ring
+main+02271542	幻视根付	目眩しの根付	Dazzling Necklace
+main+02271543	核子胸针	核のブローチ	Nuke Brooch
+main+02271544	星夜手套	スターナイトグローブ	Starlight Glove
+main+02271545	月夜耳机	ムーンナイトギア	Moonlight Phones
+main+02271546	看守的警棍	看守の警棒	Warden's Baton
+main+02271547	翔羽侠披风	フェザーマント	Feather Cape
+main+02271548	恶魔装置	デモニカデバイス	Demonica Device
+main+02271549	电影挂绳	シネマストラップ	Camera Strap
+main+0227154A	继承技能饰品	引継ぎスキルアクセ	Unused Item
