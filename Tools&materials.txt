@@ -1,26 +1,32 @@
-基址	名称
-main+0227156B	遁逃弹
-main+022715B8	聚光灯
-main+022715B9	回家轨道
-main+022715BB	烟幕
-main+022715BD	催眠迷雾
-main+022715BE	镇定香氛
-main+022715BF	存在消除剂
-main+022715C1	生丝束
-main+022715C2	厚羊皮纸
-main+022715C3	马口铁的金属扣
-main+022715C4	植物香油
-main+022715C5	软木橡树皮
-main+022715C6	铁矿砂
-main+022715C7	聚光透镜
-main+022715C8	铝板
-main+022715C9	加工皮革
-main+022715CA	红磷粉
-main+022715CB	水银
-main+022715F1	火冰风雷攻击组合
-main+022715F2	念核祝咒攻击组合
-main+0227160F	高亮聚光灯
-main+022716A4	开锁工具
-main+022716A5	无限开锁工具
-main+022716A6	备用子弹
-main+022716A8	宝魔诱饵
+基址	名称	JP_NAME	EN_NAME
+main+0227156B	遁逃弹	ドロン玉	Vanish Ball
+main+022715B8	聚光灯	スポットライト	Spotlight
+main+022715B9	回家轨道	カエレール	Goho-M
+main+022715BA	RESERVE	リザーブ	RESERVE
+main+022715BB	烟幕	煙幕	Smokescreen
+main+022715BC	RESERVE	リザーブ	RESERVE
+main+022715BD	催眠迷雾	催眠ミスト	Hypno Mist
+main+022715BE	镇定香氛	鎮静アロマ	Calming Aroma
+main+022715BF	存在消除剂	存在消臭剤	Covertizer
+main+022715C0	RESERVE	リザーブ	RESERVE
+main+022715C1	生丝束	生糸の束	Silk Yarn
+main+022715C2	厚羊皮纸	厚手の羊皮紙	Thick Parchment
+main+022715C3	马口铁的金属扣	ブリキの留め金	Tin Clasp
+main+022715C4	植物香油	植物の香油	Plant Balm
+main+022715C5	软木橡树皮	コルクの樹皮	Cork Bark
+main+022715C6	铁矿砂	砂鉄	Iron Sand
+main+022715C7	聚光透镜	集光レンズ	Condenser Lens
+main+022715C8	铝板	アルミ板	Aluminum Sheet
+main+022715C9	加工皮革	なめし革	Tanned Leather
+main+022715CA	红磷粉	赤リンの粉	Red Phosphorus
+main+022715CB	水银	水銀	Liquid Mercury
+main+022715CC	RESERVE	リザーブ	RESERVE
+main+022715F1	火冰风雷攻击组合	火炎風電攻撃セット	Element Set
+main+022715F2	念核祝咒攻击组合	念核祝呪攻撃セット	Forces Set
+main+0227160F	高亮聚光灯	スポットハイライト	Limelight
+main+022716A4	开锁工具	キーピック	Lockpick
+main+022716A5	无限开锁工具	永久キーピック	Perma-Pick
+main+022716A6	备用子弹	予備弾丸	Reserve Ammo
+main+022716A7	RESERVE	リザーブ	RESERVE
+main+022716A8	宝魔诱饵	宝魔ホイホイ	Treasure Trap
+main+022716A9	RESERVE	リザーブ	RESERVE
