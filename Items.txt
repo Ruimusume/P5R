@@ -1,291 +1,338 @@
-基址	名称	JP_NAME	EN_NAME
-main+02271555	恶魔果实	悪魔の果実	Devil Fruit
-main+02271556	疗伤药片50mg	ナオール錠50mg	Recov-R: 50 mg
-main+02271557	疗伤药片100mg	ナオール錠100mg	Recov-R: 100 mg
-main+02271558	武见特疗药	タケミエール	Takemedic
-main+02271559	魔石	魔石	Lifestone
-main+0227155A	宝玉	宝玉	Bead
-main+0227155B	武见全疗药	タケミナイエール	Takemedic-All
-main+0227155C	武见全疗药V	タケミナイエールＶ	Takemedic-All V
-main+0227155D	武见全疗药Z	タケミナイエールＺ	Takemedic-All Z
-main+0227155E	宝玉环	宝玉輪	Bead Chain
-main+0227155F	灵魂糖果	ソウルドロップ	Soul Drop
-main+02271560	灵魂鼻烟壶	スナフソウル	Snuff Soul
-main+02271561	灵魂口香糖	チューインソウル	Chewing Soul
-main+02271562	灵魂食品	ソウルフード	Soul Food
-main+02271563	返地玉	地返しの玉	Revival Bead
-main+02271564	返魂香	反魂香	Balm of Life
-main+02271566	宁息软膏	コトナーキ	Nohar-M
-main+02271567	舒心凝胶	リラックスゲル	Relax Gel
-main+02271568	定神胶囊	シャキットカプセル	Alert Capsule
-main+0227156C	苏摩	ソーマ	Soma
-main+0227156D	甘露汽水	アムリタソーダ	Amrita Soda
-main+0227156E	六芒星	ヒランヤ	Hiranya
-main+0227156F	肌肉饮料	マッスルドリンコ	Muscle Drink
-main+02271570	神秘食品	ミステリーフード	Odd Morsel
-main+02271571	香气卤汁	スメルグレイビー	Rancid Gravy
-main+02271573	魔法软膏	マジック軟膏	Magic Ointment
-main+02271574	物理软膏	フィジカル軟膏	Physical Ointment
-main+02271575	罗刹符咒	羅刹の札	Rasetsu Ofuda
-main+02271576	韦驮天符咒	韋駄天の札	Idaten Ofuda
-main+02271577	金刚符咒	金剛の札	Kongou Ofuda
-main+02271578	卡加消除液	カジャキエール	Kajaclear-R
-main+02271579	坤达消除液	クンダキエール	Kundaclear-R
-main+0227157A	汽油弹	火炎ビン	Molotov Cocktail
-main+0227157B	火焰喷枪	火炎バーナー	Blowtorch
-main+0227157C	冻结喷雾	凍結スプレー	Freeze Spray
-main+0227157D	干冰	ドライアイス	Dry Ice
-main+0227157E	空气炮	空気砲	Air Cannon
-main+0227157F	真空刀	真空カッター	Vacuum Cutter
-main+02271580	电击棒	スタンガン	Stun Gun
-main+02271581	发电线圈	発電コイル	Magneto Coil
-main+02271582	米吉多炸弹	メギドボム	Megido Bomb
-main+02271583	圣体面包	聖体パン	Sacramental Bread
-main+02271584	诅咒稻草人	わら人形	Straw Doll
-main+02271585	业火勾玉	業火の勾玉	Hell Magatama
-main+02271586	狂风勾玉	狂風の勾玉	Cyclone Magatama
-main+02271587	烈寒勾玉	烈寒の勾玉	Frost Magatama
-main+02271588	紫电勾玉	紫電の勾玉	Arc Magatama
-main+02271589	精神炸弹	サイコボム	Psycho Bomb
-main+0227158A	念力转轮	サイ・ホイール	Psy-Wheel
-main+0227158B	原子火柴	アトムマッチ	Atom Match
-main+0227158C	核热鞭炮	核熱バクチク	Nuke Cracker
-main+0227158D	红色炸弹	ハッピーボム	Happy Bomb
-main+0227158E	施饿鬼米	施餓鬼米	Segaki Rice
-main+0227158F	诅咒炸弹	ノロイボム	Curse Bomb
-main+02271590	五寸钉	五寸釘	Five-Inch Nail
-main+02271591	药赋活	フキカエース	Revivadrin
-main+02271592	伤药	傷薬	Medicine
-main+02271593	回魂软膏	ハンゴン軟膏	Life Ointment
-main+02271594	人造人	ホムンクルス	Homunculus
-main+02271596	武见全复生药	タケミナオキール	Reviv-All
-main+02271597	武见强效全复生药	タケミナトビオキール	Renew-All
-main+02271598	限定修护精油	限定リカバーオイル	Recover Oil
-main+0227159E	神通勾玉	神通の勾玉	Godly Magatama
-main+0227159F	爆热勾玉	縛熱の勾玉	Blast Magatama
-main+022715A0	圣天勾玉	聖天の勾玉	Holy Magatama
-main+022715A1	怨念勾玉	怨念の勾玉	Grudge Magatama
-main+022715D4	极小咖啡	ミニマムコーヒー	Starvicks
-main+022715D5	宇多川名水	宇多川の名水	Udagawa Water
-main+022715E3	废物垃圾	ゴミくず	Rubbish
-main+022715E7	长颈鹿薯条	じゃがりこ	Jagariko
-main+022715E8	粉碎的岩盐	砕けた岩塩	Broken Rock Salt
-main+022715F0	名产・秋境面包	名物・秋じんパン	Autumn Bread
-main+022715FE	名点心・蜜纳豆	名菓・あめ納豆	Drizzled Natto
-main+022715FF	鱿鱼三昧	イカ三昧	Squid Tri-Pack
-main+02271612	洗礼水	洗礼水	Baptismal Water
-main+02271613	除灵水	除霊水	Exorcism Water
-main+02271614	恩典之酒	恩寵の酒	Wine of Grace
-main+02271615	悔悟之灰	悔悟の灰	Repentance Ashes
-main+02271616	名产・湿炸猪排3明治	名物・濡れカツサンド	Dipped Katsu Sando
-main+0227161C	提特拉战锤	テトラハンマー	Tetra Hammer
-main+0227161D	玛卡拉战锤	マカラハンマー	Makara Hammer
-main+02271629	精胺酸饮料	アルギニドリンク	Arginade
-main+0227162A	胡椒博士NEO	胡椒博士NEO	Dr. Salt Neo
-main+0227162B	热量好同伴	カロリーメンバー	Joylent
-main+0227162C	军粮MRE	ミリ飯MRE	MRE Ration
-main+0227162D	军粮燕麦片	ミリ飯オートミール	Oatmeal Ration
-main+0227162E	军粮鸡肉饭	とり飯のミリ飯	Torimeshi Ration
-main+0227162F	军粮水果	ミリ飯フルーツ	Fruit Ration
-main+02271630	鱼贝青汁	魚介青汁	Seafood Aojiru
-main+02271631	美肌青汁	美肌青汁	Beauty Aojiru
-main+02271632	活性青汁	活性青汁	Vitality Aojiru
-main+02271633	极苦青汁	極苦青汁	Nasty Aojiru
-main+02271634	温泉青汁	温泉青汁	Onsen Aojiru
-main+02271636	充实卡路里	充実カロリズム	Fulfiller
-main+02271638	快乐棒棒糖	ハッピーチャプス	Happy Pop
-main+02271639	融冰石	融氷石	Thaw Stone
-main+0227163A	净火玉	浄化玉	Douse Orb
-main+0227163B	除电晶	除電晶	Dischard Crystal
-main+0227163C	盂兰盆节果汁	盆ジュース	Second Maid
-main+0227163E	三明治	サンドイッチ	Sandwich
-main+0227163F	水果丹麦	フルーツデニッシュ	Fruit Danish
-main+02271641	炒面面包	焼きそばパン	Yakisoba Pan
-main+02271642	异兽	クリーチャー	Creature
-main+02271643	246茶	246茶	Earl Green
-main+02271644	莫乐蜜G	モロナミンG	Raw Punch
-main+02271645	刚健美茶	剛健美茶	Muscle Tea
-main+02271646	奔达	モンタ	Manta
-main+02271647	后光的红茶	後光の紅茶	Nastea
-main+02271648	1UP	1UP	1UP
-main+0227164C	限定清新香氛	限定フレッシュアロマ	Refresh Aroma
-main+0227164D	蛋白粉	プロテイン	Protein
-main+0227164E	潮湿的蛋白粉	湿ったプロテイン	Moist Protein
-main+0227164F	昭和炸面包	昭和の揚げパン	Fried Bread
-main+0227168C	大爆炸汉堡	ビックバンバーガー	Big Bang Burger
-main+0227168D	土星薯条	サターンポテト	Saturn Fries
-main+0227168E	限定地球汉堡	限定アースバーガー	Earth Burger
-main+02271690	限定月球汉堡	限定ムーンバーガー	Moon Burger
-main+02271691	超新星堡	スーパーノヴァーガー	Supernova Burger
-main+02271692	炸鸡先生	からあげさん	Karaage King
-main+02271693	春季水果篮	春の果物バスケット	Spring Fruit Pack
-main+02271694	异国肉包	異国の肉まん	Foreign Nikuman
-main+02271695	怪盗威化巧克力	怪盗ウエハースチョコ	Phantom Wafers
-main+02271696	夏季限定中华疗面	夏限定癒やし中華	Soothing Soba
-main+02271697	冬季限定飞鱼高汤关东煮	冬限定アゴダシおでん	Agodashi Oden
-main+02271698	派对罐头组	パーティー缶詰セット	Party in a Can
-main+022716AA	红鱼	紅魚	Redfish
-main+022716AB	糙鳞鲫鱼	ザラブナ	Rough Carp
-main+022716AC	风雅镜鱼	ミヤビタナゴ	Tokyo Bitterling
-main+022716AD	七彩鳟鱼	ナナイロマス	Seven-color Trout
-main+022716AE	史郎鲤鱼	シロー鯉	White Carp
-main+022716AF	稀宝鳟鱼	オタカラマス	Treasure trout
-main+022716B0	美味镜鱼	デリシャスタナゴ	Delish Bitterling
-main+022716B1	无双鲫鱼	無双ブナ	Peerless Carp
-main+022716B2	市谷鱼王	市ヶ谷のヌシ	Ichigaya Guardian
-main+022716B3	创可贴	絆創膏	Adhesive Bandage
-main+022716B5	痊愈输液袋	全快点滴バッグ	Rejuvenating IV
-main+022716B6	卢布朗的咖啡	ルブランのコーヒー	Leblanc Coffee
-main+022716B9	卢布朗的极致咖啡	極上ルブランコーヒー	Master Coffee
-main+022716BA	普普通通的咖喱	そこそこのカレー	Decent Curry
-main+022716BB	卢布朗的咖喱	ルブランのカレー	Leblanc Curry
-main+022716BC	卢布朗的极致咖喱	極上ルブランカレー	Master Curry
-main+022716BF	输液袋	点滴バッグ	Healing IV
-main+022716F2	冰凉贴	ヒエールシート	Nofeever Sheet
-main+022716F3	热呼呼暖暖包	アタタカイロ	Hand Warmalizer
-main+022716F4	维纳斯色拉	ビーナスサラダ	Venus Salad
-main+022716F5	啊嘶砒磷	ワケアリン	Sikkenine
-main+022716F6	啊嘶砒磷α	ワケアリンα	Sikkenine A
-main+022716F7	啊嘶砒磷EX	ワケアリンEX	Sikkenine EX
-main+022716F8	明目眼药水	パッチリ目薬	Wide Eye Drops
-main+022716F9	安心甜甜圈	安堵ーナッツ	Donut-Worry
-main+022716FA	记忆牙线	記憶の糸ピック	Mental Floss
-main+022716FB	酸辣茶	スーラー茶	Hot and Sour Tea
-main+022716FD	军粮黑麦面包	ミリ飯コミスブロート	Kommissbrot
-main+022716FE	军粮牛肉饼	ミリ飯ビーフパティ	Beef Patty Ration
-main+022716FF	军粮DO粮	ミリ飯Dレーション	D Ration
-main+02271700	军粮蔬菜浓汤	ミリ飯野菜シチュー	Veg. Stew Ration
-main+02271703	榴莲欧蕾	ドリアンオレ	Durian-au-Lait
-main+02271704	哇!红豆汤	お!しるこ	Oh! Shiruko
-main+02271705	粗滤浓汤	荒ごしポタージュ	Chunky Potage
-main+02271706	极甘酒	極甘酒	Ultimate Amazake
-main+02271707	宇多川名水・碳酸	宇多川の名水・炭酸	Udagawa Soda
-main+02271708	胎盘素精华水	プラセンウォーター	Water of Rebirth
-main+0227170D	草莓咖喱罐头	イチゴカレー缶	Strawberry Curry
-main+0227170E	蛋黄酱蝗虫罐头	マヨイナゴ缶	Mayo Locust
-main+0227170F	味噌炖海星罐头	ヒトデのミソ煮缶	Miso Starfish
-main+02271710	黑暗火锅罐头	闇鍋缶	Mystery Stew
-main+02271711	卢布朗超苦咖啡	ルブランコーヒー激苦	Bitter Coffee
-main+02271712	卢布朗极苦咖啡	ルブランコーヒー極苦	Acidic Coffee
-main+02271713	普普通通的超辣咖喱	そこそこのカレー激辛	Fire Curry
-main+02271714	卢布朗超辣咖喱	ルブランカレー激辛	Blaze Curry
-main+02271715	卢布朗极辣咖喱	ルブランカレー極辛	Inferno Curry
-main+02271722	轻松口香糖	ノンビリガム	Non-static Gum
-main+02271726	川上的真情巧克力	川上の本命チョコ	Kawakami's Chocolate
-main+02271727	武见的真情巧克力	武見の本命チョコ	Takemi's Chocolate
-main+02271728	千早的真情巧克力	千早の本命チョコ	Chihaya's Chocolate
-main+02271729	大宅的真情巧克力	大宅の本命チョコ	Ohya's Chocolate
-main+0227172A	一二三的真情巧克力	一二三の本命チョコ	Hifume's Chocolate
-main+0227172B	真的真情巧克力	真の本命チョコ	Makoto's Chocolate
-main+0227172C	春的真情巧克力	春の本命チョコ	Haru's Chocolate
-main+0227172D	杏的真情巧克力	杏の本命チョコ	Ann's Chocolate
-main+0227172E	双叶的真情巧克力	双葉の本命チョコ	Futaba's Chocolate
-main+0227172F	龙司的友情巧克力	竜司の友情チョコ	Ryuji's Chocolate
-main+02271730	物治郎的同情巧克力	惣治郎の慈悲チョコ	Sojiro's Chocolate
-main+0227173C	果酱面包	ジャムパン	Jam Bread
-main+0227173D	限定蜜瓜面包	限定メロンパン	Melon Pan
-main+0227173E	名产・天使烤塔	名物・天使のタルト	Angel Tart
-main+0227173F	名产・满月团子	名物・満月団子	Moon Dango
-main+02271740	综合坚果	ミックスナッツ	Mixed Nuts
-main+02271741	红番薯	紅あずま	Beni-Azuma
-main+02271742	传说中的烤番薯	噂の石焼き芋	Legendary Yaki-Imo
-main+02271747	月光胡萝卜	月光にんじん	Moonlight Carrot
-main+02271748	太阳西红柿	太陽のトマト	Sun Tomato
-main+02271749	大地鲜豆	大地ビーンズ	Earth Beans
-main+0227174A	星辰洋葱	星辰オニオン	Star Onion
-main+0227174C	杏的手工小泡芙	杏の手作りプチシュー	Ann Cream Puffs
-main+0227174D	真的手工甜甜圈	真の手作りドーナツ	Makoto Donuts
-main+0227174E	樱花艺术糖	桜の飴細工	Sakura Amazaiku
-main+0227174F	川上的手工鲷鱼烧	川上の手作りタイ焼き	Sadayo Taiyaki
-main+02271750	龙司热狗	竜司ドッグ	Ryuji Dog
-main+02271754	外国制蛋白粉	海外製プロテイン	Imported Protein
-main+02271769	滚滚炸肉饼	ゴロゴロメンチ	Chunky Katsu
-main+0227176A	强肌营养品	強筋サプリメント	Stronger Lift S
-main+0227176B	壮肌营养品	硬筋サプリメント	Harder Core S
-main+0227176C	快肌营养品	速筋サプリメント	Accu-Speed S
-main+0227176E	匠人特制樱饼	職人特製・桜餅	Sakura Mochi
-main+02271782	晕眩小瓶子	目眩の小ビン	Dizzy Vial S
-main+02271783	晕眩大瓶子	目眩の大ビン	Dizzy Vial L
-main+02271784	混乱小瓶子	混乱の小ビン	Confuse Vial S
-main+02271785	混乱大瓶子	混乱の大ビン	Confuse Vial L
-main+02271786	恐惧小瓶子	恐怖の小ビン	Fear Vial S
-main+02271787	恐惧大瓶子	恐怖の大ビン	Fear Vial L
-main+02271788	遗忘小瓶子	忘却の小ビン	Forget Vial S
-main+02271789	遗忘大瓶子	忘却の大ビン	Forget Vial L
-main+0227178A	睡眠小瓶子	睡眠の小ビン	Sleep Vial S
-main+0227178B	睡眠大瓶子	睡眠の大ビン	Sleep Vial L
-main+0227178C	狂怒小瓶子	激怒の小ビン	Rage Vial S
-main+0227178D	狂怒大瓶子	激怒の大ビン	Rage Vial L
-main+0227178E	绝望小瓶子	絶望の小ビン	Despair Vial S
-main+0227178F	绝望大瓶子	絶望の大ビン	Despair Vial L
-main+02271790	洗脑小瓶子	洗脳の小ビン	Brainwash Vial S
-main+02271791	洗脑大瓶子	洗脳の大ビン	Brainwash Vial L
-main+0227179F	激昂保健品	ライザーサプリメント	Salvation S
-main+022717A0	市谷的鱼王之王	市ヶ谷の裏番町	Ichigaya Kingpin
-main+022717A8	堇的真情巧克力	すみれの本命チョコ	Sumire's Chocolate
-main+022717A9	杏的人情巧克力	杏殿の義理チョコ	Ann's Giri-Choco
-main+022717AA	真的人情巧克力	真の義理チョコ	Makoto's Giri-Choco
-main+022717AB	春的人情巧克力	春の義理チョコ	Haru's Giri-Choco
-main+022717AC	双叶的人情巧克力	双葉の義理チョコ	Futaba's Giri-Choco
-main+022717AD	武见的人情巧克力	武見の義理チョコ	Takemi's Giri-Choco
-main+022717AE	千早的人情巧克力	千早の義理チョコ	Chihaya's Giri-Choco
-main+022717AF	川上的人情巧克力	川上の義理チョコ	Kawakami's Giri-Choco
-main+022717B0	大宅的人情巧克力	大宅の義理チョコ	Ohya's Giri-Choco
-main+022717B1	一二三的人情巧克力	一二三の義理チョコ	Hifumi's Giri-Choco
-main+022717B2	堇的人情巧克力	すみれの義理チョコ	Sumire's Giri-Choco
-main+022717B3	冴的人情巧克力	冴の義理チョコ	Sae's Giri-Choco
-main+022717B4	跟真一起挑选的零食	真と選んだお菓子	Makoto's Candy
-main+022717B5	跟春一起挑选的零食	春と選んだお菓子	Haru's Candy
-main+022717B6	跟杏一起挑选的零食	杏殿と選んだお菓子	Ann's Candy
-main+022717B7	跟双叶一起挑选的零食	双葉と選んだお菓子	Futaba's Candy
-main+022717B8	跟千早一起挑选的零食	千早と選んだお菓子	Chihaya's Candy
-main+022717B9	跟武见一起挑选的零食	武見と選んだお菓子	Takemi's Candy
-main+022717BA	跟川上一起挑选的零食	川上と選んだお菓子	Kawakami's Candy
-main+022717BB	跟大宅一起挑选的零食	大宅と選んだお菓子	Ohya's Candy
-main+022717BC	跟一二三一起挑选的零食	一二三と選んだお菓子	Hifumi's Candy
-main+022717BD	跟堇一起挑选的零食	すみれと選んだお菓子	Sumire's Candy
-main+022717C1	气力补给包S	気力補給キットS	Stamina Kit S
-main+022717C2	气力补给包L	気力補給キットL	Stamina Kit L
-main+022717C5	回魂蜂王浆	反魂ロイヤルゼリー	Royal Jelly R
-main+022717C6	饭屋特制草莓大福	飯屋特製・イチゴ大福	Strawberry Daifuku
-main+022717CF	清淡芝士	薄味チーズ	Bland Cheese
-main+022717D0	浓醇芝士	濃厚チーズ	Sharp Cheese
-main+022717D1	极浓芝士	極濃チーズ	Rich Cheese
-main+022717D2	南瓜汤速溶包	ガボチャスープパック	Pumpkin Soup
-main+022717DB	斗志营养品	ハッスルサプリメント	Hustle S
-main+022717DC	香肠果冻	ウィンナーゼリー	Viennese Jelly
-main+022717DD	虚弱性消毒喷雾	虚弱性・消毒スプレー	Weakener Spray
-main+022717DE	柔软性消毒喷雾	柔軟性・消毒スプレー	Cleaning Spray
-main+022717DF	速效性消毒喷雾	素行製・消毒スプレー	Quick Spray
-main+022717E0	究极消毒喷雾	究極の消毒スプレー	Ultimate Spray
-main+022717E1	觉醒芳香剂	覚醒芳香剤	Awake Incense
-main+022717E2	超觉醒芳香剂	超覚醒芳香剤	Awakening Incense
-main+022717E8	宝玉苹果	宝玉林檎	Hogyoku Apple
-main+022717E9	返地ACE	チガACE	Band-Ace
-main+022717EA	圣骸布	聖骸布	Holy Shroud
-main+022717EB	通灵板	ウィジャ盤	Ouija Board
-main+022717EC	瞬间强化符咒	瞬間増強の札	Empowering Ofuda
-main+022717ED	壮烈弱体符咒	壮絶弱体の札	Debilitator Ofuda
-main+022717EE	火之勾玉	火の勾玉	Fire Magatama
-main+022717EF	风之勾玉	風の勾玉	Gale Magatama
-main+022717F0	雷之勾玉	雷の勾玉	Shock Magatama
-main+022717F1	冰之勾玉	氷の勾玉	Ice Magatama
-main+022717F2	核热勾玉	核熱の勾玉	Nuke Magatama
-main+022717F3	念动勾玉	念動の勾玉	Psy Magatama
-main+022717F4	祝福勾玉	祝福の勾玉	Bless Magatama
-main+022717F5	咒怨勾玉	呪怨の勾玉	Curse Magatama
-main+022717F6	不灭符咒	不滅の札	Invincible Ofuda
-main+022717F7	力量强化符咒	力向上の札	Strength Up Ofuda
-main+022717F8	精神强化符咒	精神向上の札	Magic Up Ofuda
-main+022717FB	多汁肉包	肉汁たっぷり肉まん	Juicy Nikuman
-main+022717FC	拿坡里意面肉包	ナポリタンまん	Napolitan Nikuman
-main+022717FD	山椒肉包	サンショウ肉まん	Peppery Nikuman
-main+022717FE	特选腌牛肉	コンビーフスペシャル	Corned Beef Special
-main+022717FF	麦片大补帖	シリアルミックス	Cereal Multi-Pack
-main+02271800	炸弹爆米花	ポンバーポップコーン	Popcorn Bomb
-main+02271802	军粮年菜	ミリ飯おせち	Osechi Ration
-main+02271803	军粮蒙布朗	ミリ飯モンブラン	Mont Blanc Ration
-main+02271804	军粮土耳其烤肉	ミリ飯ケバブ	Kebab Ration
-main+02271805	限定包乐粽	限定包楽ちまき	Special Chimaki
-main+02271806	新春限定年菜巧克力	新春限定おせちチョコ	Osechi Chocolate
-main+02271809	老爸的妙药	親父の霊薬	Old Man's Elixier
+main+02271554	空栏	ブランク	BLANK	
+main+02271555	恶魔果实	悪魔の果実	Devil Fruit	
+main+02271556	疗伤药片50mg	ナオール錠50mg	Recov-R: 50 mg	
+main+02271557	疗伤药片100mg	ナオール錠100mg	Recov-R: 100 mg	
+main+02271558	武见特疗药	タケミエール	Takemedic	
+main+02271559	魔石	魔石	Lifestone	
+main+0227155A	宝玉	宝玉	Bead	
+main+0227155B	武见全疗药	タケミナイエール	Takemedic-All	
+main+0227155C	武见全疗药V	タケミナイエールＶ	Takemedic-All V	
+main+0227155D	武见全疗药Z	タケミナイエールＺ	Takemedic-All Z	
+main+0227155E	宝玉环	宝玉輪	Bead Chain	
+main+0227155F	灵魂糖果	ソウルドロップ	Soul Drop	
+main+02271560	灵魂鼻烟壶	スナフソウル	Snuff Soul	
+main+02271561	灵魂口香糖	チューインソウル	Chewing Soul	
+main+02271562	灵魂食品	ソウルフード	Soul Food	
+main+02271563	返地玉	地返しの玉	Revival Bead	
+main+02271564	返魂香	反魂香	Balm of Life	
+main+02271565	RESERVE	リザーブ	RESERVE	
+main+02271566	宁息软膏	コトナーキ	Nohar-M	
+main+02271567	舒心凝胶	リラックスゲル	Relax Gel	
+main+02271568	定神胶囊	シャキットカプセル	Alert Capsule	
+main+02271569	RESERVE	リザーブ	RESERVE	
+main+0227156A	RESERVE	リザーブ	RESERVE	
+main+0227156C	苏摩	ソーマ	Soma	
+main+0227156D	甘露汽水	アムリタソーダ	Amrita Soda	
+main+0227156E	六芒星	ヒランヤ	Hiranya	
+main+0227156F	肌肉饮料	マッスルドリンコ	Muscle Drink	
+main+02271570	神秘食品	ミステリーフード	Odd Morsel	
+main+02271571	香气卤汁	スメルグレイビー	Rancid Gravy	
+main+02271572	RESERVE	リザーブ	RESERVE	
+main+02271573	魔法软膏	マジック軟膏	Magic Ointment	
+main+02271574	物理软膏	フィジカル軟膏	Physical Ointment	
+main+02271575	罗刹符咒	羅刹の札	Rasetsu Ofuda	
+main+02271576	韦驮天符咒	韋駄天の札	Idaten Ofuda	
+main+02271577	金刚符咒	金剛の札	Kongou Ofuda	
+main+02271578	卡加消除液	カジャキエール	Kajaclear-R	
+main+02271579	坤达消除液	クンダキエール	Kundaclear-R	
+main+0227157A	汽油弹	火炎ビン	Molotov Cocktail	
+main+0227157B	火焰喷枪	火炎バーナー	Blowtorch	
+main+0227157C	冻结喷雾	凍結スプレー	Freeze Spray	
+main+0227157D	干冰	ドライアイス	Dry Ice	
+main+0227157E	空气炮	空気砲	Air Cannon	
+main+0227157F	真空刀	真空カッター	Vacuum Cutter	
+main+02271580	电击棒	スタンガン	Stun Gun	
+main+02271581	发电线圈	発電コイル	Magneto Coil	
+main+02271582	米吉多炸弹	メギドボム	Megido Bomb	
+main+02271583	圣体面包	聖体パン	Sacramental Bread	
+main+02271584	诅咒稻草人	わら人形	Straw Doll	
+main+02271585	业火勾玉	業火の勾玉	Hell Magatama	
+main+02271586	狂风勾玉	狂風の勾玉	Cyclone Magatama	
+main+02271587	烈寒勾玉	烈寒の勾玉	Frost Magatama	
+main+02271588	紫电勾玉	紫電の勾玉	Arc Magatama	
+main+02271589	精神炸弹	サイコボム	Psycho Bomb	
+main+0227158A	念力转轮	サイ・ホイール	Psy-Wheel	
+main+0227158B	原子火柴	アトムマッチ	Atom Match	
+main+0227158C	核热鞭炮	核熱バクチク	Nuke Cracker	
+main+0227158D	红色炸弹	ハッピーボム	Happy Bomb	
+main+0227158E	施饿鬼米	施餓鬼米	Segaki Rice	
+main+0227158F	诅咒炸弹	ノロイボム	Curse Bomb	
+main+02271590	五寸钉	五寸釘	Five-Inch Nail	
+main+02271591	药赋活	フキカエース	Revivadrin	
+main+02271592	伤药	傷薬	Medicine	
+main+02271593	回魂软膏	ハンゴン軟膏	Life Ointment	
+main+02271594	人造人	ホムンクルス	Homunculus	
+main+02271595	RESERVE	リザーブ	RESERVE	
+main+02271596	武见全复生药	タケミナオキール	Reviv-All	
+main+02271597	武见强效全复生药	タケミナトビオキール	Renew-All	
+main+02271598	限定修护精油	限定リカバーオイル	Recover Oil	
+main+02271599	RESERVE	リザーブ	RESERVE	
+main+0227159E	神通勾玉	神通の勾玉	Godly Magatama	
+main+0227159F	爆热勾玉	縛熱の勾玉	Blast Magatama	
+main+022715A0	圣天勾玉	聖天の勾玉	Holy Magatama	
+main+022715A1	怨念勾玉	怨念の勾玉	Grudge Magatama	
+main+022715D1	RESERVE	リザーブ	RESERVE	
+main+022715D4	极小咖啡	ミニマムコーヒー	Starvicks	
+main+022715D5	宇多川名水	宇多川の名水	Udagawa Water	
+main+022715E2	RESERVE	リザーブ	RESERVE	
+main+022715E3	废物垃圾	ゴミくず	Rubbish	
+main+022715E4	撒钱	かねばら撒き	Money Distributer	未使用
+main+022715E5	撒道具	アイテムばらまき	Item Distributer	未使用
+main+022715E7	长颈鹿薯条	じゃがりこ	Jagariko	
+main+022715E8	粉碎的岩盐	砕けた岩塩	Broken Rock Salt	
+main+022715F0	名产・秋境面包	名物・秋じんパン	Autumn Bread	
+main+022715FE	名点心・蜜纳豆	名菓・あめ納豆	Drizzled Natto	
+main+022715FF	鱿鱼三昧	イカ三昧	Squid Tri-Pack	
+main+02271603	RESERVE	リザーブ	RESERVE	
+main+02271610	业余咖啡	素人のコーヒー	Amateur Coffee	未使用
+main+02271611	极苦咖啡	苦すぎるコーヒー	Harsh Coffee	未使用
+main+02271612	洗礼水	洗礼水	Baptismal Water	
+main+02271613	除灵水	除霊水	Exorcism Water	
+main+02271614	恩典之酒	恩寵の酒	Wine of Grace	
+main+02271615	悔悟之灰	悔悟の灰	Repentance Ashes	
+main+02271616	名产・湿炸猪排3明治	名物・濡れカツサンド	Dipped Katsu Sando	
+main+0227161C	提特拉战锤	テトラハンマー	Tetra Hammer	
+main+0227161D	玛卡拉战锤	マカラハンマー	Makara Hammer	
+main+02271629	精胺酸饮料	アルギニドリンク	Arginade	
+main+0227162A	胡椒博士NEO	胡椒博士NEO	Dr. Salt Neo	
+main+0227162B	热量好同伴	カロリーメンバー	Joylent	
+main+0227162C	军粮MRE	ミリ飯MRE	MRE Ration	
+main+0227162D	军粮燕麦片	ミリ飯オートミール	Oatmeal Ration	
+main+0227162E	军粮鸡肉饭	とり飯のミリ飯	Torimeshi Ration	
+main+0227162F	军粮水果	ミリ飯フルーツ	Fruit Ration	
+main+02271630	鱼贝青汁	魚介青汁	Seafood Aojiru	
+main+02271631	美肌青汁	美肌青汁	Beauty Aojiru	
+main+02271632	活性青汁	活性青汁	Vitality Aojiru	
+main+02271633	极苦青汁	極苦青汁	Nasty Aojiru	
+main+02271634	温泉青汁	温泉青汁	Onsen Aojiru	
+main+02271635	RESERVE	リザーブ	RESERVE	
+main+02271636	充实卡路里	充実カロリズム	Fulfiller	
+main+02271638	快乐棒棒糖	ハッピーチャプス	Happy Pop	
+main+02271639	融冰石	融氷石	Thaw Stone	
+main+0227163A	净火玉	浄化玉	Douse Orb	
+main+0227163B	除电晶	除電晶	Dischard Crystal	
+main+0227163C	盂兰盆节果汁	盆ジュース	Second Maid	
+main+0227163D	RESERVE	リザーブ	RESERVE	
+main+0227163E	三明治	サンドイッチ	Sandwich	
+main+0227163F	水果丹麦	フルーツデニッシュ	Fruit Danish	
+main+02271640	RESERVE	リザーブ	RESERVE	
+main+02271641	炒面面包	焼きそばパン	Yakisoba Pan	
+main+02271642	异兽	クリーチャー	Creature	
+main+02271643	246茶	246茶	Earl Green	
+main+02271644	莫乐蜜G	モロナミンG	Raw Punch	
+main+02271645	刚健美茶	剛健美茶	Muscle Tea	
+main+02271646	奔达	モンタ	Manta	
+main+02271647	后光的红茶	後光の紅茶	Nastea	
+main+02271648	1UP	1UP	1UP	
+main+0227164C	限定清新香氛	限定フレッシュアロマ	Refresh Aroma	
+main+0227164D	蛋白粉	プロテイン	Protein	
+main+0227164E	潮湿的蛋白粉	湿ったプロテイン	Moist Protein	
+main+0227164F	昭和炸面包	昭和の揚げパン	Fried Bread	
+main+02271650	RESERVE	リザーブ	RESERVE	
+main+02271651	RESERVE	リザーブ	RESERVE	
+main+02271653	RESERVE	リザーブ	RESERVE	
+main+0227168C	大爆炸汉堡	ビックバンバーガー	Big Bang Burger	
+main+0227168D	土星薯条	サターンポテト	Saturn Fries	
+main+0227168E	限定地球汉堡	限定アースバーガー	Earth Burger	
+main+0227168F	RESERVE	リザーブ	RESERVE	
+main+02271690	限定月球汉堡	限定ムーンバーガー	Moon Burger	
+main+02271691	超新星堡	スーパーノヴァーガー	Supernova Burger	
+main+02271692	炸鸡先生	からあげさん	Karaage King	
+main+02271693	春季水果篮	春の果物バスケット	Spring Fruit Pack	
+main+02271694	异国肉包	異国の肉まん	Foreign Nikuman	
+main+02271695	怪盗威化巧克力	怪盗ウエハースチョコ	Phantom Wafers	
+main+02271696	夏季限定中华疗面	夏限定癒やし中華	Soothing Soba	
+main+02271697	冬季限定飞鱼高汤关东煮	冬限定アゴダシおでん	Agodashi Oden	
+main+02271698	派对罐头组	パーティー缶詰セット	Party in a Can	
+main+022716AA	红鱼	紅魚	Redfish	
+main+022716AB	糙鳞鲫鱼	ザラブナ	Rough Carp	
+main+022716AC	风雅镜鱼	ミヤビタナゴ	Tokyo Bitterling	
+main+022716AD	七彩鳟鱼	ナナイロマス	Seven-color Trout	
+main+022716AE	史郎鲤鱼	シロー鯉	White Carp	
+main+022716AF	稀宝鳟鱼	オタカラマス	Treasure trout	
+main+022716B0	美味镜鱼	デリシャスタナゴ	Delish Bitterling	
+main+022716B1	无双鲫鱼	無双ブナ	Peerless Carp	
+main+022716B2	市谷鱼王	市ヶ谷のヌシ	Ichigaya Guardian	
+main+022716B3	创可贴	絆創膏	Adhesive Bandage	
+main+022716B5	痊愈输液袋	全快点滴バッグ	Rejuvenating IV	
+main+022716B6	卢布朗的咖啡	ルブランのコーヒー	Leblanc Coffee	
+main+022716B7	RESERVE	リザーブ	RESERVE	
+main+022716B8	RESERVE	リザーブ	RESERVE	
+main+022716B9	卢布朗的极致咖啡	極上ルブランコーヒー	Master Coffee	
+main+022716BA	普普通通的咖喱	そこそこのカレー	Decent Curry	
+main+022716BB	卢布朗的咖喱	ルブランのカレー	Leblanc Curry	
+main+022716BC	卢布朗的极致咖喱	極上ルブランカレー	Master Curry	
+main+022716BD	RESERVE	リザーブ	RESERVE	
+main+022716BF	输液袋	点滴バッグ	Healing IV	
+main+022716F2	冰凉贴	ヒエールシート	Nofeever Sheet	
+main+022716F3	热呼呼暖暖包	アタタカイロ	Hand Warmalizer	
+main+022716F4	维纳斯色拉	ビーナスサラダ	Venus Salad	
+main+022716F5	啊嘶砒磷	ワケアリン	Sikkenine	
+main+022716F6	啊嘶砒磷α	ワケアリンα	Sikkenine A	
+main+022716F7	啊嘶砒磷EX	ワケアリンEX	Sikkenine EX	
+main+022716F8	明目眼药水	パッチリ目薬	Wide Eye Drops	
+main+022716F9	安心甜甜圈	安堵ーナッツ	Donut-Worry	
+main+022716FA	记忆牙线	記憶の糸ピック	Mental Floss	
+main+022716FB	酸辣茶	スーラー茶	Hot and Sour Tea	
+main+022716FD	军粮黑麦面包	ミリ飯コミスブロート	Kommissbrot	
+main+022716FE	军粮牛肉饼	ミリ飯ビーフパティ	Beef Patty Ration	
+main+022716FF	军粮DO粮	ミリ飯Dレーション	D Ration	
+main+02271700	军粮蔬菜浓汤	ミリ飯野菜シチュー	Veg. Stew Ration	
+main+02271701	RESERVE	リザーブ	RESERVE	
+main+02271702	RESERVE	リザーブ	RESERVE	
+main+02271703	榴莲欧蕾	ドリアンオレ	Durian-au-Lait	
+main+02271704	哇!红豆汤	お!しるこ	Oh! Shiruko	
+main+02271705	粗滤浓汤	荒ごしポタージュ	Chunky Potage	
+main+02271706	极甘酒	極甘酒	Ultimate Amazake	
+main+02271707	宇多川名水・碳酸	宇多川の名水・炭酸	Udagawa Soda	
+main+02271708	胎盘素精华水	プラセンウォーター	Water of Rebirth	
+main+02271709	RESERVE	リザーブ	RESERVE	
+main+0227170A	RESERVE	リザーブ	RESERVE	
+main+0227170B	RESERVE	リザーブ	RESERVE	
+main+0227170C	RESERVE	リザーブ	RESERVE	
+main+0227170D	草莓咖喱罐头	イチゴカレー缶	Strawberry Curry	
+main+0227170E	蛋黄酱蝗虫罐头	マヨイナゴ缶	Mayo Locust	
+main+0227170F	味噌炖海星罐头	ヒトデのミソ煮缶	Miso Starfish	
+main+02271710	黑暗火锅罐头	闇鍋缶	Mystery Stew	
+main+02271711	卢布朗超苦咖啡	ルブランコーヒー激苦	Bitter Coffee	
+main+02271712	卢布朗极苦咖啡	ルブランコーヒー極苦	Acidic Coffee	
+main+02271713	普普通通的超辣咖喱	そこそこのカレー激辛	Fire Curry	
+main+02271714	卢布朗超辣咖喱	ルブランカレー激辛	Blaze Curry	
+main+02271715	卢布朗极辣咖喱	ルブランカレー極辛	Inferno Curry	
+main+02271722	轻松口香糖	ノンビリガム	Non-static Gum	
+main+02271726	川上的真情巧克力	川上の本命チョコ	Kawakami's Chocolate	
+main+02271727	武见的真情巧克力	武見の本命チョコ	Takemi's Chocolate	
+main+02271728	千早的真情巧克力	千早の本命チョコ	Chihaya's Chocolate	
+main+02271729	大宅的真情巧克力	大宅の本命チョコ	Ohya's Chocolate	
+main+0227172A	一二三的真情巧克力	一二三の本命チョコ	Hifume's Chocolate	
+main+0227172B	真的真情巧克力	真の本命チョコ	Makoto's Chocolate	
+main+0227172C	春的真情巧克力	春の本命チョコ	Haru's Chocolate	
+main+0227172D	杏的真情巧克力	杏の本命チョコ	Ann's Chocolate	
+main+0227172E	双叶的真情巧克力	双葉の本命チョコ	Futaba's Chocolate	
+main+0227172F	龙司的友情巧克力	竜司の友情チョコ	Ryuji's Chocolate	
+main+02271730	物治郎的同情巧克力	惣治郎の慈悲チョコ	Sojiro's Chocolate	
+main+0227173C	果酱面包	ジャムパン	Jam Bread	
+main+0227173D	限定蜜瓜面包	限定メロンパン	Melon Pan	
+main+0227173E	名产・天使烤塔	名物・天使のタルト	Angel Tart	
+main+0227173F	名产・满月团子	名物・満月団子	Moon Dango	
+main+02271740	综合坚果	ミックスナッツ	Mixed Nuts	
+main+02271741	红番薯	紅あずま	Beni-Azuma	
+main+02271742	传说中的烤番薯	噂の石焼き芋	Legendary Yaki-Imo	
+main+02271743	RESERVE	ブランク	RESERVE	
+main+02271747	月光胡萝卜	月光にんじん	Moonlight Carrot	
+main+02271748	太阳西红柿	太陽のトマト	Sun Tomato	
+main+02271749	大地鲜豆	大地ビーンズ	Earth Beans	
+main+0227174A	星辰洋葱	星辰オニオン	Star Onion	
+main+0227174B	RESERVE	リザーブ	RESERVE	
+main+0227174C	杏的手工小泡芙	杏の手作りプチシュー	Ann Cream Puffs	
+main+0227174D	真的手工甜甜圈	真の手作りドーナツ	Makoto Donuts	
+main+0227174E	樱花艺术糖	桜の飴細工	Sakura Amazaiku	
+main+0227174F	川上的手工鲷鱼烧	川上の手作りタイ焼き	Sadayo Taiyaki	
+main+02271750	龙司热狗	竜司ドッグ	Ryuji Dog	
+main+02271751	外行咖喱	素人のカレー	Amateur Curry	未使用
+main+02271754	外国制蛋白粉	海外製プロテイン	Imported Protein	
+main+02271769	滚滚炸肉饼	ゴロゴロメンチ	Chunky Katsu	
+main+0227176A	强肌营养品	強筋サプリメント	Stronger Lift S	
+main+0227176B	壮肌营养品	硬筋サプリメント	Harder Core S	
+main+0227176C	快肌营养品	速筋サプリメント	Accu-Speed S	
+main+0227176D	RESERVE	リザーブ	RESERVE	
+main+0227176E	匠人特制樱饼	職人特製・桜餅	Sakura Mochi	
+main+02271779	RESERVE	リザーブ	RESERVE	
+main+0227177A	RESERVE	リザーブ	RESERVE	
+main+0227177B	RESERVE	リザーブ	RESERVE	
+main+0227177C	RESERVE	リザーブ	RESERVE	
+main+0227177D	RESERVE	リザーブ	RESERVE	
+main+0227177E	RESERVE	リザーブ	RESERVE	
+main+0227177F	RESERVE	リザーブ	RESERVE	
+main+02271780	RESERVE	リザーブ	RESERVE	
+main+02271781	RESERVE	リザーブ	RESERVE	
+main+02271782	晕眩小瓶子	目眩の小ビン	Dizzy Vial S	
+main+02271783	晕眩大瓶子	目眩の大ビン	Dizzy Vial L	
+main+02271784	混乱小瓶子	混乱の小ビン	Confuse Vial S	
+main+02271785	混乱大瓶子	混乱の大ビン	Confuse Vial L	
+main+02271786	恐惧小瓶子	恐怖の小ビン	Fear Vial S	
+main+02271787	恐惧大瓶子	恐怖の大ビン	Fear Vial L	
+main+02271788	遗忘小瓶子	忘却の小ビン	Forget Vial S	
+main+02271789	遗忘大瓶子	忘却の大ビン	Forget Vial L	
+main+0227178A	睡眠小瓶子	睡眠の小ビン	Sleep Vial S	
+main+0227178B	睡眠大瓶子	睡眠の大ビン	Sleep Vial L	
+main+0227178C	狂怒小瓶子	激怒の小ビン	Rage Vial S	
+main+0227178D	狂怒大瓶子	激怒の大ビン	Rage Vial L	
+main+0227178E	绝望小瓶子	絶望の小ビン	Despair Vial S	
+main+0227178F	绝望大瓶子	絶望の大ビン	Despair Vial L	
+main+02271790	洗脑小瓶子	洗脳の小ビン	Brainwash Vial S	
+main+02271791	洗脑大瓶子	洗脳の大ビン	Brainwash Vial L	
+main+0227179F	激昂保健品	ライザーサプリメント	Salvation S	
+main+022717A0	市谷的鱼王之王	市ヶ谷の裏番町	Ichigaya Kingpin	
+main+022717A8	堇的真情巧克力	すみれの本命チョコ	Sumire's Chocolate	
+main+022717A9	杏的人情巧克力	杏殿の義理チョコ	Ann's Giri-Choco	
+main+022717AA	真的人情巧克力	真の義理チョコ	Makoto's Giri-Choco	
+main+022717AB	春的人情巧克力	春の義理チョコ	Haru's Giri-Choco	
+main+022717AC	双叶的人情巧克力	双葉の義理チョコ	Futaba's Giri-Choco	
+main+022717AD	武见的人情巧克力	武見の義理チョコ	Takemi's Giri-Choco	
+main+022717AE	千早的人情巧克力	千早の義理チョコ	Chihaya's Giri-Choco	
+main+022717AF	川上的人情巧克力	川上の義理チョコ	Kawakami's Giri-Choco	
+main+022717B0	大宅的人情巧克力	大宅の義理チョコ	Ohya's Giri-Choco	
+main+022717B1	一二三的人情巧克力	一二三の義理チョコ	Hifumi's Giri-Choco	
+main+022717B2	堇的人情巧克力	すみれの義理チョコ	Sumire's Giri-Choco	
+main+022717B3	冴的人情巧克力	冴の義理チョコ	Sae's Giri-Choco	
+main+022717B4	跟真一起挑选的零食	真と選んだお菓子	Makoto's Candy	
+main+022717B5	跟春一起挑选的零食	春と選んだお菓子	Haru's Candy	
+main+022717B6	跟杏一起挑选的零食	杏殿と選んだお菓子	Ann's Candy	
+main+022717B7	跟双叶一起挑选的零食	双葉と選んだお菓子	Futaba's Candy	
+main+022717B8	跟千早一起挑选的零食	千早と選んだお菓子	Chihaya's Candy	
+main+022717B9	跟武见一起挑选的零食	武見と選んだお菓子	Takemi's Candy	
+main+022717BA	跟川上一起挑选的零食	川上と選んだお菓子	Kawakami's Candy	
+main+022717BB	跟大宅一起挑选的零食	大宅と選んだお菓子	Ohya's Candy	
+main+022717BC	跟一二三一起挑选的零食	一二三と選んだお菓子	Hifumi's Candy	
+main+022717BD	跟堇一起挑选的零食	すみれと選んだお菓子	Sumire's Candy	
+main+022717C1	气力补给包S	気力補給キットS	Stamina Kit S	
+main+022717C2	气力补给包L	気力補給キットL	Stamina Kit L	
+main+022717C5	回魂蜂王浆	反魂ロイヤルゼリー	Royal Jelly R	
+main+022717C6	饭屋特制草莓大福	飯屋特製・イチゴ大福	Strawberry Daifuku	
+main+022717CF	清淡芝士	薄味チーズ	Bland Cheese	
+main+022717D0	浓醇芝士	濃厚チーズ	Sharp Cheese	
+main+022717D1	极浓芝士	極濃チーズ	Rich Cheese	
+main+022717D2	南瓜汤速溶包	ガボチャスープパック	Pumpkin Soup	
+main+022717D3	RESERVE	リザーブ	RESERVE	
+main+022717DB	斗志营养品	ハッスルサプリメント	Hustle S	
+main+022717DC	香肠果冻	ウィンナーゼリー	Viennese Jelly	
+main+022717DD	虚弱性消毒喷雾	虚弱性・消毒スプレー	Weakener Spray	
+main+022717DE	柔软性消毒喷雾	柔軟性・消毒スプレー	Cleaning Spray	
+main+022717DF	速效性消毒喷雾	素行製・消毒スプレー	Quick Spray	
+main+022717E0	究极消毒喷雾	究極の消毒スプレー	Ultimate Spray	
+main+022717E1	觉醒芳香剂	覚醒芳香剤	Awake Incense	
+main+022717E2	超觉醒芳香剂	超覚醒芳香剤	Awakening Incense	
+main+022717E3	未使用	リザーブ	Unused	
+main+022717E4	未使用	リザーブ	Unused	
+main+022717E5	RESERVE	リザーブ	RESERVE	
+main+022717E7	RESERVE	リザーブ	RESERVE	
+main+022717E8	宝玉苹果	宝玉林檎	Hogyoku Apple	
+main+022717E9	返地ACE	チガACE	Band-Ace	
+main+022717EA	圣骸布	聖骸布	Holy Shroud	
+main+022717EB	通灵板	ウィジャ盤	Ouija Board	
+main+022717EC	瞬间强化符咒	瞬間増強の札	Empowering Ofuda	
+main+022717ED	壮烈弱体符咒	壮絶弱体の札	Debilitator Ofuda	
+main+022717EE	火之勾玉	火の勾玉	Fire Magatama	
+main+022717EF	风之勾玉	風の勾玉	Gale Magatama	
+main+022717F0	雷之勾玉	雷の勾玉	Shock Magatama	
+main+022717F1	冰之勾玉	氷の勾玉	Ice Magatama	
+main+022717F2	核热勾玉	核熱の勾玉	Nuke Magatama	
+main+022717F3	念动勾玉	念動の勾玉	Psy Magatama	
+main+022717F4	祝福勾玉	祝福の勾玉	Bless Magatama	
+main+022717F5	咒怨勾玉	呪怨の勾玉	Curse Magatama	
+main+022717F6	不灭符咒	不滅の札	Invincible Ofuda	
+main+022717F7	力量强化符咒	力向上の札	Strength Up Ofuda	
+main+022717F8	精神强化符咒	精神向上の札	Magic Up Ofuda	
+main+022717FB	多汁肉包	肉汁たっぷり肉まん	Juicy Nikuman	
+main+022717FC	拿坡里意面肉包	ナポリタンまん	Napolitan Nikuman	
+main+022717FD	山椒肉包	サンショウ肉まん	Peppery Nikuman	
+main+022717FE	特选腌牛肉	コンビーフスペシャル	Corned Beef Special	
+main+022717FF	麦片大补帖	シリアルミックス	Cereal Multi-Pack	
+main+02271800	炸弹爆米花	ポンバーポップコーン	Popcorn Bomb	
+main+02271802	军粮年菜	ミリ飯おせち	Osechi Ration	
+main+02271803	军粮蒙布朗	ミリ飯モンブラン	Mont Blanc Ration	
+main+02271804	军粮土耳其烤肉	ミリ飯ケバブ	Kebab Ration	
+main+02271805	限定包乐粽	限定包楽ちまき	Special Chimaki	
+main+02271806	新春限定年菜巧克力	新春限定おせちチョコ	Osechi Chocolate	
+main+02271809	老爸的妙药	親父の霊薬	Old Man's Elixier	
