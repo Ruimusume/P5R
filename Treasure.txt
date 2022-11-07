@@ -1,169 +1,257 @@
-基址	名称
-main+02271A66	荣光权杖
-main+02271A67	祝福号角
-main+02271A68	胜利者的月桂冠
-main+02271A69	磁器茶杯
-main+02271A6A	银色餐具
-main+02271A6B	怪火提灯
-main+02271A6C	裸女烛台
-main+02271A6D	铁球脚镣
-main+02271A6E	铁锁项圈
-main+02271A6F	刃面受损的剑
-main+02271A70	破洞头盔
-main+02271A71	受损的盾
-main+02271A72	生锈的锁链手铐
-main+02271A73	破损的酒杯
-main+02271A74	美女浮世绘
-main+02271A75	山水的水墨画
-main+02271A76	花鸟画的挂轴
-main+02271A77	戏画的绘卷
-main+02271A78	般若面具
-main+02271A79	兽毛画笔
-main+02271A7A	优质和纸
-main+02271A7B	脱线的衣带
-main+02271A7C	龟裂的花瓶
-main+02271A7D	发黑的铁瓶
-main+02271A7E	无铭的茶碗
-main+02271A7F	塑料画框
-main+02271A80	难看的自画像
-main+02271A81	歪掉的自刻像
-main+02271A82	纪念金币
-main+02271A83	大企业的股票
-main+02271A84	琥珀印章
-main+02271A85	贵重的古纸币
-main+02271A86	珍奇的古钱
-main+02271A87	老旧的硬币
-main+02271A88	皮革印章盒
-main+02271A89	金库转盘锁
-main+02271A8A	点钞机
-main+02271A8B	商务计算器
-main+02271A8C	墨水用尽的钢笔
-main+02271A8D	打不开的挂锁
-main+02271A8E	磨损的橡皮印章
-main+02271A8F	老旧的钱包
-main+02271A90	挂着宝玉的木乃伊
-main+02271A91	蛇形黄金纪念章
-main+02271A92	王族的卡诺卜坛
-main+02271A93	小巧的芭丝特像
-main+02271A94	圣甲虫护符
-main+02271A95	木乃伊面具
-main+02271A96	受损的宝剑
-main+02271A97	生锈的生命之符
-main+02271A98	破损的莎草纸文书
-main+02271A99	破碎的太阳神壁画
-main+02271A9A	破碎的塞赫麦特壁画
-main+02271A9B	腐朽棺材的碎片
-main+02271A9C	弯曲的杖
-main+02271A9D	崩塌的柱子碎块
-main+02271A9E	发光的月之石
-main+02271A9F	未知的稀有金属
-main+02271AA0	贤者的星盘
-main+02271AA1	UFO型无人机
-main+02271AA2	光剑型手电筒
-main+02271AA3	七彩二极管
-main+02271AA4	宇宙飞船的方向盘
-main+02271AA5	机器人的手臂
-main+02271AA6	雷达的天线
-main+02271AA7	损坏的穿戴型望远镜
-main+02271AA8	冷冻太空食品
-main+02271AA9	破洞的基板
-main+02271AAA	破裂的太阳能板
-main+02271AAB	歪掉的轮
-main+02271AAC	名牌手表
-main+02271AAD	黄金耳饰
-main+02271AAE	巧制的象眼杖
-main+02271AAF	银框的单片眼镜
-main+02271AB0	象牙骰子
-main+02271AB1	发牌员的戒指
-main+02271AB2	魔术师的领结
-main+02271AB3	职业规格的飞镖
-main+02271AB4	洗牌机
-main+02271AB5	自动骰盅
-main+02271AB6	深灰色的袖扣
-main+02271AB7	变色的大礼帽
-main+02271AB8	吸到一半的雪茄
-main+02271AB9	不齐全的扑克牌
-main+02271ABA	宝石珊瑚坠饰
-main+02271ABB	黑珍珠项链
-main+02271ABC	黑檀化妆盒
-main+02271ABD	大理石棋盘
-main+02271ABE	玳瑁发簪
-main+02271ABF	浮雕胸针
-main+02271AC0	巧制的螺钿盘子
-main+02271AC1	孔雀羽扇
-main+02271AC2	青铜罗盘
-main+02271AC3	黄铜怀表
-main+02271AC4	发条八音盒
-main+02271AC5	古风的万花筒
-main+02271AC6	镜球
-main+02271AC7	乔装用的面具
-main+02271AD6	特大金块
-main+02271AD7	大金块
-main+02271AD8	小金块
-main+02271AD9	粗糙的银币
-main+02271ADA	开孔的银币
-main+02271ADB	虚薄的银币
-main+02271ADC	粗糙的铜币
-main+02271ADD	开孔的铜币
-main+02271ADE	虚薄的铜币
-main+02271ADF	缟玛瑙
-main+02271AE0	珍珠
-main+02271AE1	紫水晶
-main+02271AE2	绿松石
-main+02271AE3	蛋白石
-main+02271AE4	黄玉
-main+02271AE5	石榴石
-main+02271AE6	海蓝宝石
-main+02271AE7	红宝石
-main+02271AE8	祖母绿
-main+02271AE9	蓝宝石
-main+02271AEA	钻石
-main+02271AEB	翡翠
-main+02271AF5	白金
-main+02271AF6	打不开的手术灯
-main+02271AF7	脱落的磁带
-main+02271AF8	纠缠不清的USB线
-main+02271AF9	印刷错误的海报
-main+02271AFA	空白的录音笔
-main+02271AFB	激光笔
-main+02271AFC	型号老旧的变压器
-main+02271AFD	被拆除的仪表板
-main+02271AFE	扭曲的凸透镜
-main+02271AFF	旧型投影机
-main+02271B00	微型声音传感器
-main+02271B01	失控的温度调节器
-main+02271B06	不会响的警哨
-main+02271B07	破洞的警帽
-main+02271B08	折断的警棍
-main+02271B09	坏掉的手铐
-main+02271B0A	散发光泽的铁球锁
-main+02271B0B	漂亮整齐的囚服
-main+02271B0C	狱警的徽章
-main+02271B0D	高音质扩音器
-main+02271B0E	尖锐的刺铁丝
-main+02271B0F	金色的纪念章
-main+02271B10	黄金帽徽
-main+02271B11	银色臂章
-main+02271B15	铜块
-main+02271B16	铜锁链
-main+02271B17	铜手印
-main+02271B18	铜心
-main+02271B19	铜星
-main+02271B1A	铜月
-main+02271B1B	铜雾
-main+02271B1C	银块
-main+02271B1D	银锁链
-main+02271B1E	银手印
-main+02271B1F	银心
-main+02271B20	银星
-main+02271B21	银月
-main+02271B22	银雾
-main+02271B23	金块
-main+02271B24	金锁链
-main+02271B25	金手印
-main+02271B26	金心
-main+02271B27	金星
-main+02271B28	金月
-main+02271B29	金雾
-main+02271B2A	白金块
-main+02271B2B	钻石块
+基址	名称	JP_NAME	EN_NAME
+main+02271A54	空栏	ブランク	BLANK
+main+02271A55	RESERVE	リザーブ	RESERVE
+main+02271A56	RESERVE	リザーブ	RESERVE
+main+02271A57	RESERVE	リザーブ	RESERVE
+main+02271A58	RESERVE	リザーブ	RESERVE
+main+02271A59	RESERVE	リザーブ	RESERVE
+main+02271A5A	RESERVE	リザーブ	RESERVE
+main+02271A5B	RESERVE	リザーブ	RESERVE
+main+02271A5C	RESERVE	リザーブ	RESERVE
+main+02271A5D	RESERVE	リザーブ	RESERVE
+main+02271A5E	RESERVE	リザーブ	RESERVE
+main+02271A5F	RESERVE	リザーブ	RESERVE
+main+02271A60	RESERVE	リザーブ	RESERVE
+main+02271A61	RESERVE	リザーブ	RESERVE
+main+02271A62	RESERVE	リザーブ	RESERVE
+main+02271A63	RESERVE	リザーブ	RESERVE
+main+02271A64	RESERVE	リザーブ	RESERVE
+main+02271A65	RESERVE	リザーブ	RESERVE
+main+02271A66	荣光权杖	栄光ある王の杖	Glory Staff
+main+02271A67	祝福号角	祝福のラッパ	Blessed Trumpet
+main+02271A68	胜利者的月桂冠	勝者の月桂冠	Victor Laurel
+main+02271A69	磁器茶杯	磁器のティーカップ	Porcelain Teacup
+main+02271A6A	银色餐具	銀色のカトラリー	Silver Cutlery
+main+02271A6B	怪火提灯	怪火のランタン	Strange Lantern
+main+02271A6C	裸女烛台	裸婦の燭台	Nude Candle Stand
+main+02271A6D	铁球脚镣	鉄球つきの足枷	Shackles
+main+02271A6E	铁锁项圈	錠前のついた首輪	Locked Collar
+main+02271A6F	刃面受损的剑	刃こぼれした剣	Dull Sword
+main+02271A70	破洞头盔	穴の空いた兜	Holey Helmet
+main+02271A71	受损的盾	つぶれた盾	Crushed Shield
+main+02271A72	生锈的锁链手铐	錆びた鎖の手錠	Rusted Handcuffs
+main+02271A73	破损的酒杯	欠けたワイングラス	Chipped Glass
+main+02271A74	美女浮世绘	美人の浮世絵	Ukiyo-e
+main+02271A75	山水的水墨画	山水の水墨画	Ink Wash Art
+main+02271A76	花鸟画的挂轴	花鳥画の掛け軸	Hanging Scroll
+main+02271A77	戏画的绘卷	戯画の絵巻物	Picture Scroll
+main+02271A78	般若面具	般若の能面	Hannya Mask
+main+02271A79	兽毛画笔	獣毛の絵筆	Animal Brush
+main+02271A7A	优质和纸	良質な和紙	Fine Washi
+main+02271A7B	脱线的衣带	ほつれた帯	Loose Sash
+main+02271A7C	龟裂的花瓶	ヒビ割れた花瓶	Cracked Vase
+main+02271A7D	发黑的铁瓶	すすけた鉄瓶	Sooty Kettle
+main+02271A7E	无铭的茶碗	無銘の茶碗	Unsigned Mug
+main+02271A7F	塑料画框	プラスチックの額縁	Plastic Frame
+main+02271A80	难看的自画像	下手な自画像	Crappy Portrait
+main+02271A81	歪掉的自刻像	いびつな自刻像	Bad Sculpture
+main+02271A82	纪念金币	金の記念硬貨	Gold Coin
+main+02271A83	大企业的股票	大手企業の株券	Stock Certificate
+main+02271A84	琥珀印章	コハクの印鑑	Amber Stamp
+main+02271A85	贵重的古纸币	貴重な古紙幣	Precious Bill
+main+02271A86	珍奇的古钱	珍しい古銭	Rare Coin
+main+02271A87	老旧的硬币	古めかしいコイン	Old Coin
+main+02271A88	皮革印章盒	革の印鑑ケース	Leather Case
+main+02271A89	金库转盘锁	金庫のダイヤル	Safe Dial
+main+02271A8A	点钞机	マネーカウンター	Money Counter
+main+02271A8B	商务计算器	実務用電卓	Office Calculator
+main+02271A8C	墨水用尽的钢笔	インク切れの万年室	Inkless Pen
+main+02271A8D	打不开的挂锁	開かずの南京錠	Unopenable Lock
+main+02271A8E	磨损的橡皮印章	すり切れたゴム印	Worn Stamp
+main+02271A8F	老旧的钱包	くたびれた財布	Tattered Wallet
+main+02271A90	挂着宝玉的木乃伊	宝玉をまとうミイラ	Jewel Mummy
+main+02271A91	蛇形黄金纪念章	黄金のウラエウス	Gold Uraeus
+main+02271A92	王族的卡诺卜坛	王族のカノプス壺	Canopic Jar
+main+02271A93	小巧的芭丝特像	小ぶりなバステト像	Bastet Statue
+main+02271A94	圣甲虫护符	スカラベの護符	Scarab Charm
+main+02271A95	木乃伊面具	ミイラマスク	Mummy Mask
+main+02271A96	受损的宝剑	傷の入った法剣	Scratched Sword
+main+02271A97	生锈的生命之符	錆びついたアンク	Rusted Ankh
+main+02271A98	破损的莎草纸文书	ちぎれたパピルス文章	Torn Papyrus
+main+02271A99	破碎的太阳神壁画	砕けたラーの壁画	Ra Mural
+main+02271A9A	破碎的塞赫麦特壁画	砕けたセクメトの壁画	Sekhmet Mural
+main+02271A9B	腐朽棺材的碎片	朽ちた棺の欠片	Sarcophagus Bit
+main+02271A9C	弯曲的杖	曲がった杖	Bent Staff
+main+02271A9D	崩塌的柱子碎块	崩れた柱の破片	Pillar Piece
+main+02271A9E	发光的月之石	発光する月の石	Moon Stone
+main+02271A9F	未知的稀有金属	未知のレアメタル	Rare Metal
+main+02271AA0	贤者的星盘	賢者のアストロラーベ	Sage Astrolabe
+main+02271AA1	UFO型无人机	UFO型ドローン	UFO Drone
+main+02271AA2	光剑型手电筒	ブレード型ライト	Blade Flashlight
+main+02271AA3	七彩二极管	虹色の発光ダイオード	Rainbow Diode
+main+02271AA4	宇宙飞船的方向盘	宇宙船のハンドル	Spaceship Stick
+main+02271AA5	机器人的手臂	ロボットのアーム	Robot Arm
+main+02271AA6	雷达的天线	レーダーのアンテナ	Radar Antenna
+main+02271AA7	损坏的穿戴型望远镜	壊れた装着型望遠鏡	Broken Telescope
+main+02271AA8	冷冻太空食品	冷凍された宇宙食	Space Food
+main+02271AA9	破洞的基板	穴の空いた基板	Punctured PCB
+main+02271AAA	破裂的太阳能板	割れたソーラーパネル	Dead Solar Panel
+main+02271AAB	歪掉的轮	ゆがんだホイール	Warped Wheel
+main+02271AAC	名牌手表	ブランドの腕時計	Luxury Wheel
+main+02271AAD	黄金耳饰	金のピアス	Gold Earrings
+main+02271AAE	巧制的象眼杖	象眼細工の杖	Damascene Cane
+main+02271AAF	银框的单片眼镜	銀縁のモノクル	Silver Monocle
+main+02271AB0	象牙骰子	象牙のダイス	Ivory Dice
+main+02271AB1	发牌员的戒指	ディーラーのリング	Dealer Ring
+main+02271AB2	魔术师的领结	手品師の蝶ネクタイ	Magician Bowtie
+main+02271AB3	职业规格的飞镖	プロ仕様のダーツ	Pro Dart
+main+02271AB4	洗牌机	カードシャッフラー	Card Shuffler
+main+02271AB5	自动骰盅	ダイスシェーカー	Dice Shaker
+main+02271AB6	深灰色的袖扣	鈍色のカフスボタン	Gray Cufflinks
+main+02271AB7	变色的大礼帽	変色したシルクハット	Faded Silk Hat
+main+02271AB8	吸到一半的雪茄	吸いかけの葉巻	Smoked Cigar
+main+02271AB9	不齐全的扑克牌	不揃いのトランプ	Incomplete Deck
+main+02271ABA	宝石珊瑚坠饰	宝石珊瑚のペンダント	Coral Pendant
+main+02271ABB	黑珍珠项链	黒真珠のネックレス	Pearl Necklace
+main+02271ABC	黑檀化妆盒	黒檀の化粧箱	Ebony Box
+main+02271ABD	大理石棋盘	大理石のチェス盤	Marble Chessboard
+main+02271ABE	玳瑁发簪	ベッコウのかんざし	Tortoise Hairpin
+main+02271ABF	浮雕胸针	カメオのブローチ	Cameo Brooch
+main+02271AC0	巧制的螺钿盘子	細工の皿	Raden Plate
+main+02271AC1	孔雀羽扇	孔雀の扇	Peacock Fan
+main+02271AC2	青铜罗盘	青銅の羅針盤	Bronze Compass
+main+02271AC3	黄铜怀表	真鍮の懐中時計	Brass Pocket Watch
+main+02271AC4	发条八音盒	ぜんまいのオルゴール	Music Box
+main+02271AC5	古风的万花筒	古風な万華鏡	Old Kaleidoscope
+main+02271AC6	镜球	ミラーボール	Mirror Ball
+main+02271AC7	乔装用的面具	仮装用の仮面	Masquerade Mask
+main+02271AC8	RESERVE	リザーブ	RESERVE
+main+02271AC9	RESERVE	リザーブ	RESERVE
+main+02271ACA	RESERVE	リザーブ	RESERVE
+main+02271ACB	RESERVE	リザーブ	RESERVE
+main+02271ACC	RESERVE	リザーブ	RESERVE
+main+02271ACD	RESERVE	リザーブ	RESERVE
+main+02271ACE	RESERVE	リザーブ	RESERVE
+main+02271ACF	RESERVE	リザーブ	RESERVE
+main+02271AD0	RESERVE	リザーブ	RESERVE
+main+02271AD1	RESERVE	リザーブ	RESERVE
+main+02271AD2	RESERVE	リザーブ	RESERVE
+main+02271AD3	RESERVE	リザーブ	RESERVE
+main+02271AD4	RESERVE	リザーブ	RESERVE
+main+02271AD5	RESERVE	リザーブ	RESERVE
+main+02271AD6	特大金块	特大な金塊	Huge Gold Lump
+main+02271AD7	大金块	大きな金塊	Large Gold Lump
+main+02271AD8	小金块	小さな金塊	Small Gold Lump
+main+02271AD9	粗糙的银币	ギザギザの銀銭	Grooved Silver
+main+02271ADA	开孔的银币	穴の空いた銀銭	Hole Silver
+main+02271ADB	虚薄的银币	薄っぺらい銀銭	Thin Silver
+main+02271ADC	粗糙的铜币	ギザギザの銅銭	Grooved Copper
+main+02271ADD	开孔的铜币	穴のあいた銅銭	Hole Copper
+main+02271ADE	虚薄的铜币	薄っぺらい銅銭	Thin Copper
+main+02271ADF	缟玛瑙	オニキス	Onyx
+main+02271AE0	珍珠	パール	Pearl
+main+02271AE1	紫水晶	アメジスト	Amethyst
+main+02271AE2	绿松石	ターコイズ	Turquoise
+main+02271AE3	蛋白石	オパール	Opal
+main+02271AE4	黄玉	トパーズ	Topaz
+main+02271AE5	石榴石	ガーネット	Garnet
+main+02271AE6	海蓝宝石	アクアマリン	Aquamarine
+main+02271AE7	红宝石	ルビー	Ruby
+main+02271AE8	祖母绿	エメラルド	Emerald
+main+02271AE9	蓝宝石	サファイア	Sapphire
+main+02271AEA	钻石	ダイヤモンド	Diamond
+main+02271AEB	翡翠	ヒスイ	Jade
+main+02271AEC	RESERVE	リザーブ	RESERVE
+main+02271AED	RESERVE	リザーブ	RESERVE
+main+02271AEE	RESERVE	リザーブ	RESERVE
+main+02271AEF	RESERVE	リザーブ	RESERVE
+main+02271AF0	RESERVE	リザーブ	RESERVE
+main+02271AF1	RESERVE	リザーブ	RESERVE
+main+02271AF2	RESERVE	リザーブ	RESERVE
+main+02271AF3	RESERVE	リザーブ	RESERVE
+main+02271AF4	RESERVE	リザーブ	RESERVE
+main+02271AF5	白金	プラチナ	Platinum
+main+02271AF6	打不开的手术灯	点かない無影灯	Dead Surgical Light
+main+02271AF7	脱落的磁带	はみ出た磁気テープ	Loose Magnetic Tape
+main+02271AF8	纠缠不清的USB线	絡まったUSBコード	Tangled USB Cord
+main+02271AF9	印刷错误的海报	印刷ミスのポスター	Misprinted Poster
+main+02271AFA	空白的录音笔	空のボイスレコーダー	Voice Recorder
+main+02271AFB	激光笔	レーザーポインター	Laser Pointer
+main+02271AFC	型号老旧的变压器	型落ちした変圧器	Voltage Converter
+main+02271AFD	被拆除的仪表板	外れたメーターパネル	Broken Meter Panel
+main+02271AFE	扭曲的凸透镜	歪んだ凸レンズ	Distorted Lens
+main+02271AFF	旧型投影机	旧型プロジェクター	Old Projector
+main+02271B00	微型声音传感器	小型音感センサー	Mini Sound Sensor
+main+02271B01	失控的温度调节器	狂ったサーモスタット	Broken Thermostat
+main+02271B02	RESERVE	リザーブ	RESERVE
+main+02271B03	RESERVE	リザーブ	RESERVE
+main+02271B04	RESERVE	リザーブ	RESERVE
+main+02271B05	RESERVE	リザーブ	RESERVE
+main+02271B06	不会响的警哨	鳴らない警笛	Silent Horn
+main+02271B07	破洞的警帽	穴の空いた制帽	Ripped Uniform Cap
+main+02271B08	折断的警棍	へし折れた警棒	Broken Baton
+main+02271B09	坏掉的手铐	壊れた手錠	Broken Handcuffs
+main+02271B0A	散发光泽的铁球锁	つやがある鉄球鎖	Lustrous Iron Ball
+main+02271B0B	漂亮整齐的囚服	綺麗に整った囚人服	Tidy Prison Uniform
+main+02271B0C	狱警的徽章	刑務官のピンバッチ	Prison Officer Badge
+main+02271B0D	高音质扩音器	高音質メガホン	Hi-Fi Megaphone
+main+02271B0E	尖锐的刺铁丝	鋭い有刺鉄線	Sharp Barbed Wire
+main+02271B0F	金色的纪念章	金の記章	Gold Emblem
+main+02271B10	黄金帽徽	黄金の帽章	Golden Cap Badge
+main+02271B11	银色臂章	銀の腕章	Silver Arm Band
+main+02271B12	RESERVE	リザーブ	RESERVE
+main+02271B13	RESERVE	リザーブ	RESERVE
+main+02271B14	RESERVE	リザーブ	RESERVE
+main+02271B15	铜块	銅の塊	Copper Lump
+main+02271B16	铜锁链	銅の鎖	Copper Chain
+main+02271B17	铜手印	銅の手形	Copper Hand
+main+02271B18	铜心	銅のハート	Copper Heart
+main+02271B19	铜星	銅の星	Copper Star
+main+02271B1A	铜月	銅の月	Copper Moon
+main+02271B1B	铜雾	銅の霧	Copper Mist
+main+02271B1C	银块	銀の塊	Silver Lump
+main+02271B1D	银锁链	銀の鎖	Silver Chain
+main+02271B1E	银手印	銀の手形	Silver Hand
+main+02271B1F	银心	銀のハート	Silver Heart
+main+02271B20	银星	銀の星	Silver Star
+main+02271B21	银月	銀の月	Silver Moon
+main+02271B22	银雾	銀の霧	Silver Mist
+main+02271B23	金块	金の塊	Gold Lump
+main+02271B24	金锁链	金の鎖	Gold Chain
+main+02271B25	金手印	金の手形	Gold Hand
+main+02271B26	金心	金のハート	Gold Heart
+main+02271B27	金星	金の星	Gold Star
+main+02271B28	金月	金の月	Gold Moon
+main+02271B29	金雾	金の霧	Gold Mist
+main+02271B2A	白金块	プラチナの塊	Platinum Lump
+main+02271B2B	钻石块	ダイヤモンドの塊	Diamond Lump
+main+02271B2C	RESERVE	リザーブ	RESERVE
+main+02271B2D	RESERVE	リザーブ	RESERVE
+main+02271B2E	RESERVE	リザーブ	RESERVE
+main+02271B2F	RESERVE	リザーブ	RESERVE
+main+02271B30	RESERVE	リザーブ	RESERVE
+main+02271B31	RESERVE	リザーブ	RESERVE
+main+02271B32	RESERVE	リザーブ	RESERVE
+main+02271B33	RESERVE	リザーブ	RESERVE
+main+02271B34	RESERVE	リザーブ	RESERVE
+main+02271B35	RESERVE	リザーブ	RESERVE
+main+02271B36	RESERVE	リザーブ	RESERVE
+main+02271B37	RESERVE	リザーブ	RESERVE
+main+02271B38	RESERVE	リザーブ	RESERVE
+main+02271B39	RESERVE	リザーブ	RESERVE
+main+02271B3A	RESERVE	リザーブ	RESERVE
+main+02271B3B	RESERVE	リザーブ	RESERVE
+main+02271B3C	RESERVE	リザーブ	RESERVE
+main+02271B3D	RESERVE	リザーブ	RESERVE
+main+02271B3E	RESERVE	リザーブ	RESERVE
+main+02271B3F	RESERVE	リザーブ	RESERVE
+main+02271B40	RESERVE	リザーブ	RESERVE
+main+02271B41	RESERVE	リザーブ	RESERVE
+main+02271B42	RESERVE	リザーブ	RESERVE
+main+02271B43	RESERVE	リザーブ	RESERVE
+main+02271B44	RESERVE	リザーブ	RESERVE
+main+02271B45	RESERVE	リザーブ	RESERVE
+main+02271B46	RESERVE	リザーブ	RESERVE
+main+02271B47	RESERVE	リザーブ	RESERVE
+main+02271B48	RESERVE	リザーブ	RESERVE
+main+02271B49	RESERVE	リザーブ	RESERVE
+main+02271B4A	RESERVE	リザーブ	RESERVE
+main+02271B4B	RESERVE	リザーブ	RESERVE
+main+02271B4C	RESERVE	リザーブ	RESERVE
+main+02271B4D	RESERVE	リザーブ	RESERVE
+main+02271B4E	RESERVE	リザーブ	RESERVE
+main+02271B4F	RESERVE	リザーブ	RESERVE
+main+02271B50	RESERVE	リザーブ	RESERVE
+main+02271B51	RESERVE	リザーブ	RESERVE
+main+02271B52	RESERVE	リザーブ	RESERVE
+main+02271B53	RESERVE	リザーブ	RESERVE
