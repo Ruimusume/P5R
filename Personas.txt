@@ -5,7 +5,7 @@ Hex	名称	JP_NAME	EN_NAME	备注	过滤
 0003	库夫林	クー・フーリン	Cu Chulainn		√
 0004	杰克灯笼	ジャックランタン	Jack-o'-Lantern		√
 0005	杰克霜精	ジャックフロスト	Jack Frost		√
-0006	 皮克希	ピクシー	Pixie		√
+0006	皮克希	ピクシー	Pixie		√
 0007	克鲁贝洛斯	ケルベロス	Cerberus		√
 0008	莉莉姆	リリム	Lilim		√
 0009	埃力格	エリゴール	Eligor		√
@@ -180,7 +180,7 @@ Hex	名称	JP_NAME	EN_NAME	备注	过滤
 00B2	RESERVE	リザーブ	RESERVE		
 00B3	RESERVE	リザーブ	RESERVE		
 00B4	RESERVE	リザーブ	RESERVE		
-00B5	俄耳甫斯	オルフェウス	Orpheus		√
+00B5	俄耳甫斯	オルフェウス	Orpheus	男	√
 00B6	塔纳托斯	タナトス	Thanatos		√
 00B7	伊邪那岐	イザナギ	Izanagi		√
 00B8	祸津伊邪那岐	マガツイザナギ	Magatsu-Izanagi		√
@@ -190,7 +190,7 @@ Hex	名称	JP_NAME	EN_NAME	备注	过滤
 00BC	月读	ツキヨミ	Tsukiyomi		√
 00BD	弥赛亚	メサイア	Messiah		√
 00BE	弥赛亚・贼神	メサイア・賊神	Messiah Picaro		√
-00BF	俄耳甫斯・贼神	オルフェウス・賊神	Orpheus Picaro		√
+00BF	俄耳甫斯・贼神	オルフェウス・賊神	Orpheus Picaro	男	√
 00C0	塔纳托斯・贼神	タナトス・賊神	Thanatos Picaro		√
 00C1	伊邪那岐・贼神	イザナギ・賊神	Izanagi Picaro		√
 00C2	祸津伊邪那岐・贼神	マガツイザナギ・賊神	M. Izanagi Picaro		√
@@ -364,13 +364,13 @@ Hex	名称	JP_NAME	EN_NAME	备注	过滤
 016A	雅典娜	アテナ	Athena		√
 016B	劳尔	ラウール	Raoul		√
 016C	俄耳甫斯・改	オルフォウス改	Orpheus Telos	游戏奔溃	
-016D	俄耳甫斯	オルフォウス	Orpheus		√
+016D	俄耳甫斯	オルフォウス	Orpheus (F)	♀	√
 016E	伊邪那岐大神・贼神	伊邪那岐大神・賊神	Izanagi no Okami Picaro		√
 016F	赛姬・贼神	プシュケイ・賊神	Psyche Picaro	游戏奔溃	
 0170	雅典娜・贼神	アテナ・賊神	Athena Picaro		√
 0171	亚森・摩登・贼神	アルセーヌ・モダン・賊神	Neo Arsene Picaro	游戏奔溃	
 0172	俄耳甫斯・改・贼神	オルフォウス改・賊神	Orpheus Telos Picaro	游戏奔溃	
-0173	俄耳甫斯・贼神	オルフォウス・賊神	Orpheus Picaro		√
+0173	俄耳甫斯・贼神	オルフォウス・賊神	Orpheus (F) Picaro	♀	√
 0174	P5未使用	P5未使用	P5 Unused	游戏奔溃	
 0175	P5未使用	P5未使用	P5 Unused	游戏奔溃	
 0176	P5未使用	P5未使用	P5 Unused	游戏奔溃	
@@ -427,7 +427,7 @@ Hex	名称	JP_NAME	EN_NAME	备注	过滤
 01A9	艾里拉特	アリラト	Alilat		√
 01AA	雷鸟	サンダーバード	Thunderbird		√
 01AB	法夫纳	ファフニール	Fafnir		√
-01AC	拜亚基	ビヤーキー	Byarky		√
+01AC	拜亚基	ビヤーキー	Byakhee		√
 01AD	哈斯塔	ハスター	Hastur		√
 01AE	塔姆林	タムリン	Tam Lin		√
 01AF	座天使	ソロネ	Throne		√
