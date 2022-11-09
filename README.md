@@ -15,9 +15,9 @@ https://github.com/tomvita/Noexes
 ### Reference & Support by DaVinci030
 https://fearlessrevolution.com/viewtopic.php?f=4&t=21800<br>
 <br>
-[Steam]Cheat Engine Tables v19 Simplified Chinese Downloader<br>
+[Steam]Cheat Engine Tables v20 Simplified Chinese Downloader<br>
 https://github.com/Ruimusume/P5R/releases/tag/chs
 <hr>
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
-微博：https://weibo.com/ruisan</br>
+微博：https://weibo.com/ruisan
