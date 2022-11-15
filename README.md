@@ -9,7 +9,7 @@ Address structure is common to all platforms<br>
 [P5R Data.xlsx](https://github.com/Ruimusume/P5R/raw/main/P5R%20Data.xlsx)<br>
 The cheat codes in the table are universal in all Switch versions.<br>
 
-### Data Exclusion&Recording Tools
+### Data Exclusion & Recording Tools
 https://github.com/tomvita/Noexes
 
 ### Reference & Support by DaVinci030
