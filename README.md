@@ -1,5 +1,7 @@
 # P5R Items ID DATA CN JP EN
 
+![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/P5R/total.svg)
+
 Switch Version Record ALL Items ID Address<br>
 Address structure is common to all platforms<br>
 * Data text presents content records through the game, Strictly check in three languages, and this data is the most accurate
